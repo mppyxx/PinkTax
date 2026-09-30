@@ -5,6 +5,8 @@
 ![Excel](https://img.shields.io/badge/Excel-workbook-217346?logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-F2C811?logo=powerbi&logoColor=black)
 
+**Author:** Kanishka Shah · Summer Internship (3170001), B.E. Computer Science & Engineering, SAL Engineering and Technical Institute (GTU) · Internal guide: Prof. Himani Patel
+
 The **Pink Tax** is the idea that products marketed to women cost more than comparable products
 marketed to men. This project tests that claim for India. It cleans, tags and statistically
 compares **79,390 real product listings** (₹) from **Myntra, BigBasket and Amazon.in** across

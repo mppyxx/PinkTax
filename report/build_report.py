@@ -3,8 +3,9 @@
     python build_report.py
 
 The template's cover page, certificate pages, borders, header and footer are kept.
-Personal details (<Name of Student>, <Enrolment No.>, <Name of Internal guide>, date,
-branch) are left as placeholders to be filled in by hand.
+Student name, enrolment number, internal guide, branch and HOD come from
+content.STUDENT. The certificate date and the two certificate pages (PMMS and
+company) are left for the student to complete.
 
 Two passes: the document is built, rendered to PDF with LibreOffice to find the page
 of every heading, then rebuilt with those page numbers in the contents. In Word you
@@ -135,7 +136,7 @@ class Builder:
                 r.font.color.rgb = color
         return p
 
-    def body(self, text, align=WD_ALIGN_PARAGRAPH.JUSTIFY, size=12, after=6, spacing=1.3):
+    def body(self, text, align=WD_ALIGN_PARAGRAPH.JUSTIFY, size=12, after=6, spacing=1.5):
         p = self.para()
         pf = p.paragraph_format
         pf.alignment = align
@@ -213,6 +214,7 @@ class Builder:
                 cell.width = Inches(widths[j])
                 cp_ = cell.paragraphs[0]
                 cp_.paragraph_format.space_after = Pt(1)
+                cp_.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
                 self.rich(cp_, str(val), size=10.5)
                 if i == 0:
                     for run in cp_.runs:
@@ -259,6 +261,79 @@ class Builder:
                 self.table(item[1], item[2], item[3], item[4])
             elif kind == "pagebreak":
                 self.page_break()
+
+
+def fill_personal_details(doc):
+    """Replace the template's placeholders on the cover and certificate pages."""
+    S = C.STUDENT
+    black = RGBColor(0, 0, 0)
+    body = doc.element.body
+
+    def runs_of(p_el):
+        return [r for r in p_el.iter(qn("w:r")) if r.find(qn("w:t")) is not None]
+
+    def set_text(r, text, color=None, br_before=False):
+        t = r.find(qn("w:t"))
+        t.text = text
+        t.set(qn("xml:space"), "preserve")
+        if br_before:
+            t.addprevious(el("w:br"))
+        if color is not None:
+            rpr = r.find(qn("w:rPr"))
+            if rpr is None:
+                rpr = el("w:rPr")
+                r.insert(0, rpr)
+            for c in rpr.findall(qn("w:color")):
+                rpr.remove(c)
+            rpr.append(el("w:color", **{"w:val": "000000"}))
+
+    exact = {  # whole-run replacements
+        "<Name of Student>": S["name"],
+        "<Enrolment No.>": S["enrolment"],
+        "<Name of Internal guide>": S["guide"],
+        "<Guide Name>": S["guide"],
+        "Computer Engineering": S["branch"],
+        "Computer Engineering/ICT/CSE/IT": S["branch"],
+        "Madhuri Parekh/": "Madhuri Parekh",
+        "SachiBhavsar": "",
+        ", IT": ", IT ",
+    }
+    for p_el in body.iter(qn("w:p")):
+        runs = runs_of(p_el)
+        texts = [r.find(qn("w:t")).text or "" for r in runs]
+        joined = "".join(texts)
+        # certificate heading: "... INSTITUTE CE/IT/CSE/ICT (Write Full Name of Branch)"
+        if "Write Full Name of Branch" in joined:
+            for r, tx in zip(runs, texts):
+                if tx.startswith("CE/IT/CSE/"):
+                    set_text(r, S["branch"].upper(), color=black, br_before=True)
+                elif tx in ("ICT", " (", "Write Full Name of Branch)"):
+                    set_text(r, "")
+            continue
+        # certificate paragraph
+        if "has been carried out by" in joined:
+            for r, tx in zip(runs, texts):
+                if "<student name>" in tx:
+                    set_text(r, f"{S['name']} ({S['enrolment']}) ")
+                elif tx.startswith("under") and "Summer" in tx:
+                    set_text(r, "under my guidance in completion of Summer Internship in "
+                                f"{S['branch']} Branch, 7")
+                elif tx.strip() == "th":
+                    set_text(r, "th ")
+            continue
+        for r, tx in zip(runs, texts):
+            if tx == "Prof." and "SachiBhavsar" in joined:
+                set_text(r, "")
+            elif tx in exact:
+                set_text(r, exact[tx], color=black if tx.startswith("<") else None)
+            elif tx == "Dr." and "Madhuri" in joined:
+                set_text(r, "Dr. ")
+
+
+def side_indent(p, inches=0.3):
+    """Keep text clear of the page border on the bordered front-matter pages."""
+    p.paragraph_format.left_indent = Inches(inches)
+    p.paragraph_format.right_indent = Inches(inches)
 
 
 def set_page_break_before(p):
@@ -353,6 +428,8 @@ def build(page_numbers=None):
         if t.text and "<Title name>" in t.text:
             t.text = t.text.replace("<Title name>", C.TITLE)
 
+    fill_personal_details(doc)
+
     # ---- abstract ----------------------------------------------------------------
     i_abs = find(lambda e: text_of(e).strip() == "ABSTRACT")
     i_abs_end = find(lambda e: e.tag == qn("w:p") and 'w:type="page"' in e.xml.replace("'", '"'), i_abs)
@@ -361,7 +438,7 @@ def build(page_numbers=None):
     B.anchor = ch[i_abs_end]
     B.body("", after=4)
     for para in C.ABSTRACT:
-        B.body(para, spacing=1.25, after=7)
+        side_indent(B.body(para, after=6))
 
     # ---- introduction --------------------------------------------------------------
     i_int = find(lambda e: text_of(e).strip() == "Introduction", i_abs_end)
@@ -377,7 +454,7 @@ def build(page_numbers=None):
     B.anchor = ch[i_tbl]
     B.body("", after=2)
     for para in C.INTRODUCTION:
-        B.body(para, spacing=1.25, after=7)
+        side_indent(B.body(para, after=6))
     B.page_break()
 
     # ---- contents ------------------------------------------------------------------
@@ -417,7 +494,7 @@ def build(page_numbers=None):
     h = B.heading("References", 1)
     set_page_break_before(h)
     for ref in C.REFERENCES:
-        p = B.body(ref, align=WD_ALIGN_PARAGRAPH.LEFT, after=6, spacing=1.15)
+        p = B.body(ref, after=6)
         pf = p.paragraph_format
         pf.left_indent = Inches(0.4)
         pf.first_line_indent = Inches(-0.4)
@@ -432,7 +509,7 @@ def build(page_numbers=None):
     for p in s3.header.paragraphs:
         for t in p._p.iter(qn("w:t")):
             if t.text and "201260107006" in t.text:
-                t.text = t.text.replace("201260107006", "<Enrolment No.>")
+                t.text = t.text.replace("201260107006", C.STUDENT["enrolment"])
     fp = s3.footer.paragraphs[0]
     fp.alignment = WD_ALIGN_PARAGRAPH.CENTER
     add_field(fp._p, "PAGE")
