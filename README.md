@@ -33,7 +33,7 @@ compares **79,390 real product listings** (₹) from **Myntra, BigBasket and Ama
 | 8 | Price depends on brand and category, not gender. Random-forest permutation importance is **0.97 for brand vs 0.02 for gender** | scikit-learn, test R² = 0.78 |
 
 These results match recent research that finds no *systematic* premium for identical products,
-with the gap coming from product differentiation instead (Moshary, Tuchman & Bhatia, 2023). The
+with the gap coming from product differentiation instead (Moshary, Tuchman & Bhatia, 2021). The
 larger gaps in earlier studies (for example NYC DCA, 2015) mostly compared differentiated products.
 
 <p align="center">
@@ -87,7 +87,7 @@ PinkTax/
 ├── outputs/interactive/       # Plotly HTML chart
 ├── excel/PinkTax_Analysis.xlsx        # formulas, pivot summary, charts
 ├── powerbi/                   # data model CSVs, DAX measures, theme, build guide
-├── report/                    # internship report (Word)
+├── report/                    # internship report: .docx (+ PDF preview), content.py, build_report.py
 └── docs/screenshots/          # notebook / Excel screenshots used in the report
 ```
 
@@ -107,6 +107,9 @@ python 07_powerbi_export.py
 
 You can also open the notebook in **Google Colab** using the badge above and choose *Runtime → Run all*.
 
+To rebuild the internship report after editing `report/content.py`, run `cd report && python build_report.py --pdf`
+(this needs LibreOffice for page numbering). You can also edit `report/PinkTax_Internship_Report.docx` directly in Word.
+
 ## Tools
 
 Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels, scikit-learn, OpenPyXL) ·
@@ -123,6 +126,6 @@ Google Colab / Jupyter · Microsoft Excel · Power BI · Git & GitHub
 
 1. New York City Department of Consumer Affairs (2015). *From Cradle to Cane: The Cost of Being a Female Consumer.*
 2. U.S. Government Accountability Office (2018). *Gender-Related Price Differences for Goods and Services* (GAO-18-500).
-3. Moshary, S., Tuchman, A. & Bhatia, N. (2023). *Investigating the Pink Tax: Evidence Against a Systematic Price Premium for Women in CPG.* Marketing Science.
+3. Moshary, S., Tuchman, A. & Bhatia, N. (2021). *Investigating the Pink Tax: Evidence Against a Systematic Price Premium for Women in CPG.* SSRN Working Paper.
 4. Duesterhaus, M., Grauerholz, L., Weichsel, R. & Guittar, N. (2011). *The Cost of Doing Femininity: Gendered Disparities in Pricing of Personal Care Products and Services.* Gender Issues, 28, 175–191.
 5. California Assembly (2022). *AB-1287 Price discrimination: gender* (Pink Tax repeal).
