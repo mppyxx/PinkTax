@@ -1,0 +1,861 @@
+source,age_group,segment,category,brand,median_men,median_women,n_men,n_women,ratio,log_ratio,outcome
+Amazon.in,Adult,Personal Care,Body Wash,NIVEA,449.0,411.5,30.0,6.0,0.9164810690423163,-0.08721386762512974,Men's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,AJMAL,399.0,399.0,15.0,9.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,ANTONIO,595.0,500.0,5.0,2.0,0.8403361344537815,-0.173953307123438,Men's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,ARMAF,349.0,349.0,37.0,33.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,BELLA,249.0,299.0,6.0,3.0,1.2008032128514057,0.18299067692597887,Women's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,BEVERLY,1724.0,299.0,5.0,5.0,0.1734338747099768,-1.751958877832952,Men's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,CARLTON,890.0,716.0,3.0,3.0,0.8044943820224719,-0.2175412957655399,Men's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,CFS,262.5,412.5,2.0,2.0,1.5714285714285714,0.4519851237430572,Women's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,CHRIS,250.0,262.5,2.0,4.0,1.05,0.04879016416943204,Women's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,COLORBAR,249.0,249.0,4.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,DOVE,734.5,425.0,16.0,11.0,0.5786249149081008,-0.5471008266895152,Men's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,EMBARK,345.0,345.0,2.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,ENGAGE,225.0,249.0,11.0,9.0,1.1066666666666667,0.1013524942602875,Women's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,ENVY,220.0,220.0,12.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,FOGG,275.0,275.0,42.0,13.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,ITAL,349.0,699.0,2.0,3.0,2.002865329512894,0.6945788200313832,Women's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,JUST,325.0,310.0,2.0,2.0,0.9538461538461539,-0.0472528848505455,Men's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,LA,799.0,799.0,7.0,6.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,LAFZ,225.0,225.0,5.0,8.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,LAYERR,249.0,296.0,14.0,4.0,1.1887550200803212,0.1729065578593527,Women's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,NIKE,369.0,369.0,9.0,12.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,NIVEA,429.0,285.0,56.0,20.0,0.6643356643356644,-0.40896773865936636,Men's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,PLAYBOY,374.0,349.0,6.0,6.0,0.9331550802139037,-0.06918387521210483,Men's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,RASASI,349.0,349.0,16.0,16.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,REYANE,895.0,895.0,2.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,RIIFFS,275.0,499.0,9.0,5.0,1.8145454545454545,0.5958349980849473,Women's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,RIYA,352.5,500.0,2.0,2.0,1.4184397163120568,0.34955747616986843,Women's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,SAPIL,299.0,299.0,6.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,SKINN,1695.0,499.0,3.0,3.0,0.2943952802359882,-1.2228319240630319,Men's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,SUGANDH,330.0,330.0,2.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,THE FRENCH,1049.0,1074.0,3.0,2.0,1.0238322211630124,0.02355266667251285,Women's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,TOP,180.0,180.0,3.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,UNITED,479.5,525.0,4.0,3.0,1.094890510948905,0.09065436826813084,Women's version dearer
+Amazon.in,Adult,Personal Care,Deodorant,WOODSMOKES,1500.0,1500.0,2.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,YARDLEY,225.0,225.0,26.0,13.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Deodorant,ZM,250.0,225.0,5.0,2.0,0.9,-0.10536051565782628,Men's version dearer
+Amazon.in,Adult,Personal Care,Face Wash,NIVEA,424.5,245.0,14.0,4.0,0.5771495877502945,-0.549653795206675,Men's version dearer
+Amazon.in,Adult,Personal Care,Hair Removal Cream,VEET,145.0,135.0,3.0,5.0,0.9310344827586207,-0.07145896398214498,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ACO,335.0,320.0,10.0,7.0,0.9552238805970149,-0.04580953603129422,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ADIVEDA,799.0,799.0,4.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,AIDIN,999.0,999.0,2.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,AJMAL,1750.0,1526.0,211.0,112.0,0.872,-0.13696585507315742,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,AL,399.0,545.0,12.0,3.0,1.3659147869674186,0.3118243777733807,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ALL,1140.0,990.0,4.0,3.0,0.868421052631579,-0.14107859825990549,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ARMAF,1975.0,1800.0,43.0,20.0,0.9113924050632911,-0.09278173345096621,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ARRAS,712.0,699.0,4.0,4.0,0.9817415730337079,-0.018427169178165472,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,ATHENIA,999.0,999.0,2.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,AVON,1365.02,1024.0,3.0,6.0,0.7501721586496901,-0.2874525539269193,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,BELLA,799.0,834.5,7.0,8.0,1.044430538172716,0.04347179733561512,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,BELLCURY,449.0,449.0,8.0,9.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,BERGAMOT,411.0,411.0,3.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,BIOTIQUE,1114.0,822.0,2.0,2.0,0.7378815080789947,-0.30397202543104934,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,BN,430.0,430.0,35.0,18.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,BRYAN,350.0,750.0,4.0,8.0,2.142857142857143,0.7621400520468967,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,BURBERRY,7950.0,10450.0,2.0,4.0,1.3144654088050314,0.2734300497445794,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,CALVIN,4823.46,5707.5,3.0,2.0,1.183279222798572,0.16828958656121953,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,CARLTON,375.0,612.0,3.0,14.0,1.632,0.4898062565419152,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,CFS,405.0,405.0,3.0,9.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,CICCIO,799.0,599.0,2.0,2.0,0.7496871088861077,-0.28809934765082523,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,CORE,999.0,999.0,2.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,DANIEL,990.0,1099.0,2.0,3.0,1.11010101010101,0.10445101127498568,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,DORALL,599.0,599.0,6.0,13.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,EM5,899.0,899.0,31.0,8.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,EMBARK,845.0,1093.0,7.0,6.0,1.293491124260355,0.25734486081936475,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,EMPER,1500.0,1225.0,3.0,4.0,0.8166666666666667,-0.2025242641114741,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ENGAGE,540.0,385.0,15.0,18.0,0.7129629629629629,-0.3383258052705359,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ENVY,299.0,324.0,7.0,4.0,1.0836120401337792,0.08029994240164291,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ESTIARA,999.0,1149.0,3.0,2.0,1.15015015015015,0.1398924992002021,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ESXENSE,699.0,699.0,3.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,EXOTIX,877.0,999.0,15.0,2.0,1.1391106043329533,0.13024778627637051,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,EZE,695.0,695.0,3.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,FASTRACK,495.0,895.0,2.0,4.0,1.8080808080808082,0.5922659557061651,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,FERNWEH,564.0,904.0,2.0,2.0,1.6028368794326242,0.47177510889411767,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,FORMLESS,798.0,636.0,3.0,5.0,0.7969924812030075,-0.2269100341096867,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,FRAGRANCE,499.0,499.0,7.0,5.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,FRAGRANTIA,299.0,499.0,7.0,4.0,1.6688963210702341,0.5121625223608323,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,FRANCK,2000.0,2250.0,3.0,2.0,1.125,0.11778303565638346,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,FRENCH,749.0,999.0,4.0,4.0,1.3337783711615487,0.288015795131334,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,GIORGIO,9499.0,8549.0,3.0,4.0,0.8999894725760607,-0.10537221286394874,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,GLEEVERS,1109.0,1059.0,10.0,14.0,0.9549143372407575,-0.04613364174896054,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,GUESS,2520.0,3130.0,2.0,6.0,1.242063492063492,0.21677410302872993,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,HAMIDI,369.0,1934.5,6.0,2.0,5.242547425474255,1.6568075301000404,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,HUGO,6999.0,6375.0,7.0,10.0,0.9108444063437634,-0.09338319066291276,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ILDELA,2000.0,1000.0,15.0,6.0,0.5,-0.6931471805599453,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ISSEY,5430.0,8225.0,5.0,4.0,1.514732965009208,0.41523916270559147,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,JANNATUL,600.0,500.0,16.0,2.0,0.8333333333333334,-0.1823215567939546,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,JAZZY,1784.0,799.0,4.0,3.0,0.44786995515695066,-0.80325236737368,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,JD,414.5,430.0,4.0,2.0,1.037394451145959,0.03671223411225842,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,JOHN,999.0,749.0,11.0,2.0,0.7497497497497497,-0.2880157951313341,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,JOVAN,1085.0,1100.0,3.0,3.0,1.0138248847926268,0.013730192811902037,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,KAOREE,979.0,999.0,6.0,4.0,1.0204290091930541,0.020223136118043127,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,LACOSTE,6624.0,3585.0,4.0,2.0,0.541213768115942,-0.6139409430313749,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,LAFZ,849.0,599.0,2.0,2.0,0.7055359246171967,-0.34879758819589796,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,LARMAAN,252.0,414.0,6.0,4.0,1.6428571428571428,0.49643688631389105,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,LATTAFA,1419.5,1586.5,8.0,4.0,1.1176470588235294,0.1112256351102244,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,LIBERTY,2349.0,999.0,6.0,5.0,0.42528735632183906,-0.8549902060103594,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,LOMANI,799.0,3377.0,9.0,2.0,4.226533166458073,1.4413820746192931,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,LYLA,799.0,499.0,8.0,3.0,0.6245306633291614,-0.4707548500147561,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,MANASIK,430.0,430.0,4.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,MARYAJ,884.7149999999999,699.0,16.0,10.0,0.7900849426086367,-0.23561481701176334,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,MB,708.0,850.0,2.0,6.0,1.2005649717514124,0.18279225579064237,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,MENJEWELL,449.0,449.0,30.0,32.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,MERCEDESBENZ,5355.0,4445.0,6.0,4.0,0.8300653594771242,-0.18625083493384414,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,MINISO,510.0,430.0,4.0,8.0,0.8431372549019608,-0.17062551703076334,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,MOCEMSA,999.0,2122.5,13.0,8.0,2.1246246246246248,0.7535951395369489,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,MYDOUX,699.0,699.0,5.0,8.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,NASEEM,1500.0,1675.0,5.0,6.0,1.1166666666666667,0.11034805716886541,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,NEW NB,549.0,549.0,4.0,7.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,NIKE,996.5,942.5,8.0,12.0,0.9458103361766181,-0.055713220330683606,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,OSCAR,255.0,195.0,8.0,11.0,0.7647058823529411,-0.2682639865946794,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,OSR,257.0,263.0,7.0,2.0,1.0233463035019454,0.023077947282544673,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,PACO,5050.0,6200.0,3.0,5.0,1.2277227722772277,0.2051610487637774,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,PARAG,999.0,699.0,439.0,57.0,0.6996996996996997,-0.35710403641474325,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,PARIS,862.0,862.0,4.0,23.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,PERFUMERS,595.5,599.0,8.0,8.0,1.0058774139378674,0.005860209320094663,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,PETER,300.0,300.0,2.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,POLICE,2292.5,2460.0,2.0,8.0,1.0730643402399127,0.07051842479578853,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,PRADA,12000.0,12400.0,3.0,3.0,1.0333333333333334,0.03278982282299097,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,RAMCO,422.0,660.0,7.0,5.0,1.5639810426540284,0.44723452098445937,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,RAMSONS,525.0,360.0,12.0,7.0,0.6857142857142857,-0.37729423114146804,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,RASASI,1354.0,1162.5,31.0,26.0,0.8585672082717873,-0.15249031601070887,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,RIHANAH,1260.0,1260.0,17.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,RIIFFS,1299.0,1125.0,29.0,24.0,0.8660508083140878,-0.14381170203207902,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,RIYA,440.0,440.0,35.0,30.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,SALVATORE,5734.0,8063.0,4.0,3.0,1.406173700732473,0.34087232824170693,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,SAPIL,1324.5,1154.0,2.0,5.0,0.8712721781804454,-0.13780086164407954,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,SCENTICE,789.0,789.0,3.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,SCNTED,490.0,490.0,3.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,SKINN,1705.0,1705.0,11.0,13.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,STJOHN,499.0,749.0,6.0,2.0,1.501002004008016,0.40613288776570083,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,SUGANDHCO,780.0,560.0,3.0,7.0,0.717948717948718,-0.3313571359544425,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,SUGANDHVYAPAR,430.0,340.0,3.0,2.0,0.7906976744186046,-0.23483959107740107,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,THE ROSE,400.0,609.0,4.0,2.0,1.5225,0.420353720601915,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,TITAN,2335.0,2020.0,5.0,2.0,0.8650963597430407,-0.14491437970774726,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,TOMMY,3390.0,3640.0,2.0,3.0,1.0737463126843658,0.07115376025629044,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,TREE,599.0,599.0,5.0,5.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,ULRIC,907.0,867.5,3.0,2.0,0.9564498346196252,-0.0445269382941223,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,UNITED,2800.0,2699.5,3.0,2.0,0.9641071428571428,-0.03655284650495365,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,VEGAS,299.0,299.0,2.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,VINCE,5250.0,5750.0,3.0,5.0,1.0952380952380953,0.09097177820572679,Women's version dearer
+Amazon.in,Adult,Personal Care,Perfume,WOODSMOKES,1500.0,1500.0,2.0,6.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Perfume,WPC,374.5,299.0,4.0,3.0,0.7983978638184246,-0.2251482295665877,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,YARDLEY,649.0,364.5,9.0,12.0,0.561633281972265,-0.5769061652553772,Men's version dearer
+Amazon.in,Adult,Personal Care,Perfume,ZAIEN,989.0,989.0,3.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in,Adult,Personal Care,Razor,GILLETTE,524.5,675.0,8.0,7.0,1.286939942802669,0.25226726303617786,Women's version dearer
+Amazon.in,Adult,Personal Care,Razor,KAI,262.0,332.5,2.0,2.0,1.2690839694656488,0.23829535633481197,Women's version dearer
+Amazon.in,Adult,Personal Care,Razor,LETSSHAVE,698.0,797.0,13.0,5.0,1.1418338108882522,0.13263557602784262,Women's version dearer
+Amazon.in,Adult,Personal Care,Trimmer,AGARO,599.0,1046.5,3.0,2.0,1.7470784641068446,0.557944943770605,Women's version dearer
+Amazon.in,Adult,Personal Care,Trimmer,CLEANFLY,527.0,449.0,2.0,2.0,0.8519924098671727,-0.16017766079910797,Men's version dearer
+Amazon.in,Adult,Personal Care,Trimmer,VEGA,999.0,1079.0,17.0,2.0,1.08008008008008,0.07703518660958111,Women's version dearer
+BigBasket,Adult,Personal Care,Deodorant,ALL GOOD SCENTS,844.5,450.0,2.0,3.0,0.5328596802841918,-0.6294971534834893,Men's version dearer
+BigBasket,Adult,Personal Care,Deodorant,ARMAF,437.5,500.0,2.0,10.0,1.1428571428571428,0.13353139262452257,Women's version dearer
+BigBasket,Adult,Personal Care,Deodorant,ENGAGE,210.0,299.0,16.0,14.0,1.4238095238095239,0.3533360426732178,Women's version dearer
+BigBasket,Adult,Personal Care,Deodorant,FOGG,275.0,460.0,34.0,12.0,1.6727272727272726,0.5144553918165693,Women's version dearer
+BigBasket,Adult,Personal Care,Deodorant,NIKE,279.0,279.0,37.0,34.0,1.0,0.0,Within +/-2%
+BigBasket,Adult,Personal Care,Deodorant,NIVEA,199.0,209.0,3.0,13.0,1.050251256281407,0.049029427240318606,Women's version dearer
+BigBasket,Adult,Personal Care,Deodorant,RASASI,299.0,299.0,6.0,3.0,1.0,0.0,Within +/-2%
+BigBasket,Adult,Personal Care,Deodorant,REXONA,195.0,135.0,3.0,4.0,0.6923076923076923,-0.3677247801253174,Men's version dearer
+BigBasket,Adult,Personal Care,Deodorant,SPINZ,200.0,190.0,4.0,8.0,0.95,-0.05129329438755058,Men's version dearer
+BigBasket,Adult,Personal Care,Deodorant,YARDLEY LONDON,398.0,597.0,10.0,7.0,1.5,0.4054651081081644,Women's version dearer
+BigBasket,Adult,Personal Care,Perfume,AJMAL,1800.0,1500.0,21.0,16.0,0.8333333333333334,-0.1823215567939546,Men's version dearer
+BigBasket,Adult,Personal Care,Perfume,DKNY,5550.0,3500.0,2.0,6.0,0.6306306306306306,-0.46103495926297516,Men's version dearer
+BigBasket,Adult,Personal Care,Perfume,DORALL COLLECTION,599.0,599.0,19.0,17.0,1.0,0.0,Within +/-2%
+BigBasket,Adult,Personal Care,Perfume,EMBARK,1595.0,1145.0,6.0,2.0,0.7178683385579937,-0.33146909923060497,Men's version dearer
+BigBasket,Adult,Personal Care,Perfume,ENGAGE,279.5,999.0,6.0,5.0,3.5742397137745976,1.2737524860533997,Women's version dearer
+BigBasket,Adult,Personal Care,Perfume,GUESS,3990.0,3990.0,5.0,3.0,1.0,0.0,Within +/-2%
+BigBasket,Adult,Personal Care,Perfume,MARYAJ,1669.0,1569.0,5.0,5.0,0.9400838825644098,-0.061786170928802536,Men's version dearer
+BigBasket,Adult,Personal Care,Perfume,NIKE,798.0,798.0,13.0,8.0,1.0,0.0,Within +/-2%
+BigBasket,Adult,Personal Care,Perfume,POLICE,2900.0,2450.0,5.0,7.0,0.8448275862068966,-0.1686227124357927,Men's version dearer
+BigBasket,Adult,Personal Care,Perfume,SKINN BY TITAN,1595.0,1795.0,5.0,7.0,1.1253918495297806,0.11813128570343429,Women's version dearer
+BigBasket,Adult,Personal Care,Perfume,UNITED COLORS OF BENETTON,1900.0,1400.0,3.0,3.0,0.7368421052631579,-0.3053816495511819,Men's version dearer
+BigBasket,Adult,Personal Care,Perfume,YARDLEY LONDON,674.0,1300.0,6.0,3.0,1.9287833827893175,0.656889432537321,Women's version dearer
+Myntra,Adult,Accessories,Belts,BUCKLEUP,3249.0,1899.0,11.0,4.0,0.5844875346260388,-0.5370198248568144,Men's version dearer
+Myntra,Adult,Accessories,Belts,CALVADOSS,1198.0,999.0,19.0,20.0,0.833889816360601,-0.18165400002684115,Men's version dearer
+Myntra,Adult,Accessories,Belts,KASTNER,1999.0,1199.0,40.0,40.0,0.599799899949975,-0.5111591794728859,Men's version dearer
+Myntra,Adult,Accessories,Belts,MAST & HARBOUR,1299.0,799.0,7.0,21.0,0.6150885296381832,-0.48598907090432497,Men's version dearer
+Myntra,Adult,Accessories,Belts,ROADSTER,1499.0,949.0,8.0,2.0,0.6330887258172114,-0.4571446994926699,Men's version dearer
+Myntra,Adult,Accessories,Belts,TEAKWOOD LEATHERS,2249.0,1499.0,26.0,2.0,0.6665184526456203,-0.405687453856718,Men's version dearer
+Myntra,Adult,Accessories,Belts,URBAN ALFAMI,1499.0,999.0,3.0,2.0,0.6664442961974649,-0.4057987194540443,Men's version dearer
+Myntra,Adult,Accessories,Belts,ZEVORA,2499.0,1499.0,17.0,6.0,0.5998399359743898,-0.5110924327323546,Men's version dearer
+Myntra,Adult,Accessories,Sunglasses,CARLTON LONDON,1645.0,2595.0,16.0,10.0,1.5775075987841944,0.4558461324005167,Women's version dearer
+Myntra,Adult,Accessories,Sunglasses,IDEE,3080.0,2880.0,6.0,2.0,0.935064935064935,-0.06713930283762856,Men's version dearer
+Myntra,Adult,Accessories,Sunglasses,LEE COOPER,2899.0,1899.0,18.0,4.0,0.6550534667126595,-0.42303841810936965,Men's version dearer
+Myntra,Adult,Accessories,Sunglasses,TOMMY HILFIGER,7990.0,7990.0,10.0,2.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Accessories,Sunglasses,VOYAGE,3000.0,1800.0,3.0,25.0,0.6,-0.5108256237659907,Men's version dearer
+Myntra,Adult,Accessories,Wallets,ALLEN SOLLY,1399.0,1299.0,44.0,27.0,0.9285203716940672,-0.07416295799488162,Men's version dearer
+Myntra,Adult,Accessories,Wallets,BAGGIT,790.0,1290.0,18.0,244.0,1.6329113924050633,0.49036455189465067,Women's version dearer
+Myntra,Adult,Accessories,Wallets,DA MILANO,2999.0,4499.0,43.0,14.0,1.5001667222407469,0.4055762500921632,Women's version dearer
+Myntra,Adult,Accessories,Wallets,HIDESIGN,2195.0,3195.0,27.0,75.0,1.4555808656036446,0.37540504130236346,Women's version dearer
+Myntra,Adult,Accessories,Wallets,MAST & HARBOUR,1349.0,1899.0,6.0,29.0,1.407709414381023,0.34196385460452994,Women's version dearer
+Myntra,Adult,Accessories,Wallets,TEAKWOOD LEATHERS,1999.0,2499.0,9.0,4.0,1.2501250625312657,0.22324359633455235,Women's version dearer
+Myntra,Adult,Accessories,Wallets,TOMMY HILFIGER,2999.0,4999.0,74.0,56.0,1.6668889629876626,0.5109589926645614,Women's version dearer
+Myntra,Adult,Accessories,Wallets,VAN HEUSEN,1499.0,1499.0,58.0,24.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Accessories,Watches,ARMANI EXCHANGE,14495.0,12995.0,39.0,18.0,0.8965160400137978,-0.10923909428016529,Men's version dearer
+Myntra,Adult,Accessories,Watches,CALVIN KLEIN,22650.0,17900.0,2.0,9.0,0.7902869757174393,-0.23535913908233366,Men's version dearer
+Myntra,Adult,Accessories,Watches,CASIO,7295.0,7995.0,97.0,23.0,1.0959561343385882,0.09162716431116869,Women's version dearer
+Myntra,Adult,Accessories,Watches,DANIEL KLEIN,5500.0,4825.0,40.0,72.0,0.8772727272727273,-0.13093735744747595,Men's version dearer
+Myntra,Adult,Accessories,Watches,DANIEL WELLINGTON,19799.0,15499.0,8.0,41.0,0.7828173140057578,-0.24485592565964784,Men's version dearer
+Myntra,Adult,Accessories,Watches,EMPORIO ARMANI,21995.0,14495.0,11.0,6.0,0.6590134121391226,-0.4170113924270642,Men's version dearer
+Myntra,Adult,Accessories,Watches,FASTRACK,2295.0,2295.0,71.0,59.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Accessories,Watches,FOSSIL,11995.0,9995.0,105.0,109.0,0.8332638599416423,-0.18240492833929456,Men's version dearer
+Myntra,Adult,Accessories,Watches,FRENCH CONNECTION,5450.0,6950.0,3.0,92.0,1.275229357798165,0.24312605090154799,Women's version dearer
+Myntra,Adult,Accessories,Watches,GUESS,12900.0,12500.0,33.0,55.0,0.9689922480620154,-0.03149866705937105,Men's version dearer
+Myntra,Adult,Accessories,Watches,HAMT,2899.0,2899.0,8.0,5.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Accessories,Watches,HELIX,1995.0,2195.0,3.0,6.0,1.100250626566416,0.0955379961853079,Women's version dearer
+Myntra,Adult,Accessories,Watches,HYMT,2999.0,2499.0,3.0,2.0,0.8332777592530843,-0.18238824791405672,Men's version dearer
+Myntra,Adult,Accessories,Watches,KOOK N KEECH,1999.0,1999.0,6.0,2.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Accessories,Watches,LACOSTE,11950.0,11625.0,15.0,7.0,0.9728033472803347,-0.02757332690409971,Men's version dearer
+Myntra,Adult,Accessories,Watches,LOIS CARON,1899.0,1799.0,22.0,10.0,0.9473407056345445,-0.054096476861752736,Men's version dearer
+Myntra,Adult,Accessories,Watches,MAST & HARBOUR,3249.0,3299.0,24.0,8.0,1.015389350569406,0.015272135559481195,Within +/-2%
+Myntra,Adult,Accessories,Watches,MICHAEL KORS,21995.0,18495.0,2.0,48.0,0.8408729256649239,-0.17331472951626573,Men's version dearer
+Myntra,Adult,Accessories,Watches,MVMT,11760.0,10752.0,22.0,25.0,0.9142857142857143,-0.08961215868968717,Men's version dearer
+Myntra,Adult,Accessories,Watches,PUMA,4995.0,4995.0,4.0,3.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Accessories,Watches,RAGE ENTERPRISE,1499.0,999.0,2.0,9.0,0.6664442961974649,-0.4057987194540443,Men's version dearer
+Myntra,Adult,Accessories,Watches,RELISH,849.0,699.0,4.0,3.0,0.823321554770318,-0.1944084440775371,Men's version dearer
+Myntra,Adult,Accessories,Watches,ROADSTER,3099.0,2699.0,56.0,2.0,0.8709261051952243,-0.13819814476974357,Men's version dearer
+Myntra,Adult,Accessories,Watches,SKAGEN,11995.0,9495.0,5.0,10.0,0.7915798249270529,-0.23372455202740872,Men's version dearer
+Myntra,Adult,Accessories,Watches,SONATA,1099.0,999.0,43.0,31.0,0.9090081892629663,-0.09540117575506783,Men's version dearer
+Myntra,Adult,Accessories,Watches,STRAND BY OBAKU,4995.0,5245.0,3.0,4.0,1.05005005005005,0.04883782974774364,Women's version dearer
+Myntra,Adult,Accessories,Watches,SWADESI STUFF,1750.0,1995.0,3.0,7.0,1.14,0.131028262406404,Women's version dearer
+Myntra,Adult,Accessories,Watches,TIMESMITH,2499.0,2499.0,6.0,6.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Accessories,Watches,TIMEX,2895.0,3595.0,53.0,46.0,1.241796200345423,0.21655888014805136,Women's version dearer
+Myntra,Adult,Accessories,Watches,TITAN,3665.0,4195.0,114.0,91.0,1.144611186903138,0.1350650045805548,Women's version dearer
+Myntra,Adult,Accessories,Watches,TOMMY HILFIGER,10122.5,10995.0,58.0,27.0,1.0861941220054334,0.08267995508254534,Women's version dearer
+Myntra,Adult,Accessories,Watches,TRYST,9149.0,7199.0,2.0,12.0,0.7868619521259154,-0.2397024562102324,Men's version dearer
+Myntra,Adult,Accessories,Watches,WM,2499.0,2499.0,3.0,4.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Innerwear (Briefs),DOLLAR,375.0,570.0,2.0,8.0,1.52,0.41871033485818504,Women's version dearer
+Myntra,Adult,Apparel,Innerwear (Briefs),H&M,2299.0,1299.0,5.0,14.0,0.5650282731622445,-0.570879508092582,Men's version dearer
+Myntra,Adult,Apparel,Innerwear (Briefs),HRX BY HRITHIK ROSHAN,1199.0,749.0,6.0,15.0,0.6246872393661385,-0.4705041715102948,Men's version dearer
+Myntra,Adult,Apparel,Innerwear (Briefs),JOCKEY,378.0,265.0,105.0,72.0,0.701058201058201,-0.3551643696333655,Men's version dearer
+Myntra,Adult,Apparel,Innerwear (Briefs),MARKS & SPENCER,2299.0,1499.0,3.0,11.0,0.6520226185297956,-0.4276760266605838,Men's version dearer
+Myntra,Adult,Apparel,Innerwear (Briefs),MAST & HARBOUR,999.0,999.0,3.0,22.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Innerwear (Briefs),MAX,374.0,349.0,2.0,9.0,0.9331550802139037,-0.06918387521210483,Men's version dearer
+Myntra,Adult,Apparel,Innerwear (Briefs),ROADSTER,999.0,999.0,9.0,13.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Innerwear (Briefs),VAN HEUSEN,259.0,469.0,11.0,9.0,1.8108108108108107,0.5937747067467416,Women's version dearer
+Myntra,Adult,Apparel,Jackets,ALCIS,1649.0,1649.0,2.0,2.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jackets,AMERICAN EAGLE OUTFITTERS,2999.0,6499.0,5.0,2.0,2.1670556852284095,0.7733694191453399,Women's version dearer
+Myntra,Adult,Apparel,Jackets,ASICS,5999.0,4499.0,3.0,2.0,0.7499583263877313,-0.28773763881192077,Men's version dearer
+Myntra,Adult,Apparel,Jackets,CAMPUS SUTRA,2599.0,2699.0,26.0,6.0,1.0384763370527126,0.0377545783765144,Women's version dearer
+Myntra,Adult,Apparel,Jackets,CHKOKKO,3649.0,3164.5,10.0,4.0,0.8672238969580707,-0.14245809222108763,Men's version dearer
+Myntra,Adult,Apparel,Jackets,CL SPORT,1999.0,3999.0,2.0,4.0,2.0005002501250626,0.6933972743464183,Women's version dearer
+Myntra,Adult,Apparel,Jackets,COLUMBIA,9999.0,10499.0,9.0,4.0,1.05000500050005,0.048794926539091975,Women's version dearer
+Myntra,Adult,Apparel,Jackets,DUKE,2549.0,3899.0,8.0,13.0,1.5296194586112202,0.42501898460648196,Women's version dearer
+Myntra,Adult,Apparel,Jackets,FLYING MACHINE,4499.0,3699.0,7.0,2.0,0.8221827072682818,-0.19579263700871835,Men's version dearer
+Myntra,Adult,Apparel,Jackets,FORCLAZ BY DECATHLON,2999.0,3699.0,8.0,7.0,1.233411137045682,0.20978361308344495,Women's version dearer
+Myntra,Adult,Apparel,Jackets,FURRYFLAIR,1999.0,1499.0,3.0,9.0,0.7498749374687343,-0.2878488363978024,Men's version dearer
+Myntra,Adult,Apparel,Jackets,GANT,22999.0,20499.0,11.0,2.0,0.8912996217226836,-0.11507463225632218,Men's version dearer
+Myntra,Adult,Apparel,Jackets,H&M,3999.0,2699.0,7.0,23.0,0.6749187296824206,-0.3931629958288137,Men's version dearer
+Myntra,Adult,Apparel,Jackets,HARVARD,2699.0,2699.0,4.0,5.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jackets,HERE&NOW,5099.0,4999.0,37.0,12.0,0.9803883114336144,-0.019806549641585434,Within +/-2%
+Myntra,Adult,Apparel,Jackets,HIGH STAR,2299.0,1999.0,11.0,6.0,0.8695084819486734,-0.13982719026278145,Men's version dearer
+Myntra,Adult,Apparel,Jackets,HRX BY HRITHIK ROSHAN,4499.0,3999.0,57.0,16.0,0.8888641920426762,-0.11781081999435387,Men's version dearer
+Myntra,Adult,Apparel,Jackets,JUSTANNED,19998.0,15998.0,7.0,5.0,0.7999799979998,-0.22316855412702746,Men's version dearer
+Myntra,Adult,Apparel,Jackets,KOOK N KEECH,3099.0,2549.0,2.0,8.0,0.8225233946434334,-0.1953783534116328,Men's version dearer
+Myntra,Adult,Apparel,Jackets,LEATHER RETAIL,3999.0,3999.0,19.0,17.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jackets,LEVIS,5999.0,5499.0,5.0,7.0,0.9166527754625771,-0.08702653114527842,Men's version dearer
+Myntra,Adult,Apparel,Jackets,MARKS & SPENCER,5999.0,3499.0,4.0,4.0,0.5832638773128854,-0.5391155752854052,Men's version dearer
+Myntra,Adult,Apparel,Jackets,MAST & HARBOUR,3299.0,2999.0,36.0,20.0,0.9090633525310701,-0.09534049247957228,Men's version dearer
+Myntra,Adult,Apparel,Jackets,MONTE CARLO,4795.0,3995.0,3.0,5.0,0.8331595411887383,-0.18253012911716357,Men's version dearer
+Myntra,Adult,Apparel,Jackets,MONTREZ,2499.0,1999.0,3.0,4.0,0.7999199679871949,-0.2232435963345523,Men's version dearer
+Myntra,Adult,Apparel,Jackets,OKANE,3449.0,3699.0,5.0,9.0,1.0724847781965787,0.06997817889561309,Women's version dearer
+Myntra,Adult,Apparel,Jackets,PEPE JEANS,4999.0,3499.0,5.0,3.0,0.6999399879975995,-0.3567606790458824,Men's version dearer
+Myntra,Adult,Apparel,Jackets,PERFKT-U,3333.0,2399.0,6.0,4.0,0.7197719771977198,-0.3288208154680451,Men's version dearer
+Myntra,Adult,Apparel,Jackets,PUMA,4999.0,4499.0,76.0,24.0,0.8999799959991999,-0.10538274257239805,Men's version dearer
+Myntra,Adult,Apparel,Jackets,QUECHUA BY DECATHLON,1749.0,1199.0,14.0,11.0,0.6855345911949685,-0.3775563199910879,Men's version dearer
+Myntra,Adult,Apparel,Jackets,ROADSTER,2899.0,3199.0,33.0,89.0,1.103483959986202,0.09847241102786246,Women's version dearer
+Myntra,Adult,Apparel,Jackets,SPYKAR,4999.0,4149.0,11.0,2.0,0.8299659931986397,-0.18637055108070247,Men's version dearer
+Myntra,Adult,Apparel,Jackets,WOODLAND,7995.0,7495.0,16.0,4.0,0.9374609130706691,-0.06458021473135656,Men's version dearer
+Myntra,Adult,Apparel,Jackets,WOODS,20495.0,18745.0,2.0,2.0,0.9146133203220298,-0.0892539037684255,Men's version dearer
+Myntra,Adult,Apparel,Jackets,ZALORA BASICS,3349.0,3399.0,12.0,11.0,1.0149298297999403,0.014819476901911424,Within +/-2%
+Myntra,Adult,Apparel,Jeans,ABOF,1799.0,1499.0,12.0,9.0,0.8332406892718177,-0.18243273584793535,Men's version dearer
+Myntra,Adult,Apparel,Jeans,AEROPOSTALE,3299.0,1599.0,10.0,2.0,0.4846923310093968,-0.7242409583946272,Men's version dearer
+Myntra,Adult,Apparel,Jeans,AMERICAN EAGLE OUTFITTERS,3999.0,3999.0,50.0,31.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jeans,BEING HUMAN,3299.0,2399.0,16.0,2.0,0.7271900575932101,-0.3185674083888868,Men's version dearer
+Myntra,Adult,Apparel,Jeans,CALVIN KLEIN JEANS,9999.0,8999.0,11.0,5.0,0.8999899989999,-0.10537162794190089,Men's version dearer
+Myntra,Adult,Apparel,Jeans,CAMPUS SUTRA,1899.0,1899.0,26.0,10.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jeans,CHEROKEE,1149.0,1199.0,6.0,6.0,1.0435161009573541,0.042595877178758484,Women's version dearer
+Myntra,Adult,Apparel,Jeans,CODE 61,3399.0,2899.0,10.0,22.0,0.8528979111503383,-0.15911542077446056,Men's version dearer
+Myntra,Adult,Apparel,Jeans,ETHER,1999.0,1899.0,26.0,22.0,0.9499749874937469,-0.05131962368811419,Men's version dearer
+Myntra,Adult,Apparel,Jeans,FLYING MACHINE,2499.0,1999.0,381.0,25.0,0.7999199679871949,-0.2232435963345523,Men's version dearer
+Myntra,Adult,Apparel,Jeans,FOREVER 21,1799.0,1949.0,31.0,16.0,1.083379655364091,0.08008546555702764,Women's version dearer
+Myntra,Adult,Apparel,Jeans,GANT,9499.0,8499.0,12.0,2.0,0.8947257606063796,-0.11123802039155617,Men's version dearer
+Myntra,Adult,Apparel,Jeans,H&M,2699.0,2299.0,3.0,15.0,0.8517969618377177,-0.16040708825482308,Men's version dearer
+Myntra,Adult,Apparel,Jeans,HARVARD,1898.0,1898.0,38.0,47.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jeans,HERE&NOW,2199.0,2299.0,240.0,22.0,1.045475216007276,0.04447153420842033,Women's version dearer
+Myntra,Adult,Apparel,Jeans,HIGH STAR,1514.0,1849.0,24.0,136.0,1.2212681638044913,0.1998897973897307,Women's version dearer
+Myntra,Adult,Apparel,Jeans,HUBBERHOLME,1699.0,1699.0,7.0,11.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jeans,INSTAFAB PLUS,2499.0,2499.0,4.0,4.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jeans,IVOC,1799.0,1799.0,14.0,6.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jeans,KOOK N KEECH,2299.0,2299.0,27.0,7.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jeans,LEVIS,4399.0,3799.0,156.0,88.0,0.863605364855649,-0.1466393681610942,Men's version dearer
+Myntra,Adult,Apparel,Jeans,M&H OUR WATER,2599.0,2499.0,8.0,9.0,0.9615236629472874,-0.03923610380653788,Men's version dearer
+Myntra,Adult,Apparel,Jeans,MARKS & SPENCER,2999.0,2999.0,15.0,6.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jeans,MAST & HARBOUR,1899.0,1999.0,123.0,42.0,1.0526592943654556,0.051319623688114255,Women's version dearer
+Myntra,Adult,Apparel,Jeans,MAX,999.0,1099.0,15.0,15.0,1.1001001001001,0.09540117575506782,Women's version dearer
+Myntra,Adult,Apparel,Jeans,MODA RAPIDO,2599.0,2499.0,59.0,13.0,0.9615236629472874,-0.03923610380653788,Men's version dearer
+Myntra,Adult,Apparel,Jeans,MONTE CARLO,2599.0,2499.0,3.0,6.0,0.9615236629472874,-0.03923610380653788,Men's version dearer
+Myntra,Adult,Apparel,Jeans,NAUTICA,4999.0,3899.0,18.0,8.0,0.7799559911982397,-0.24851778243097303,Men's version dearer
+Myntra,Adult,Apparel,Jeans,PARIS HAMILTON,1999.0,1999.0,8.0,27.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Jeans,PEOPLE,1499.0,1399.0,24.0,34.0,0.933288859239493,-0.06904052343711652,Men's version dearer
+Myntra,Adult,Apparel,Jeans,PEPE JEANS,3999.0,2799.0,107.0,43.0,0.6999249812453113,-0.35678211933136483,Men's version dearer
+Myntra,Adult,Apparel,Jeans,PLUSS,2890.0,3189.5,2.0,4.0,1.1036332179930797,0.09860766257553223,Women's version dearer
+Myntra,Adult,Apparel,Jeans,ROADSTER,1999.0,2399.0,463.0,338.0,1.2001000500250125,0.18240492833929453,Women's version dearer
+Myntra,Adult,Apparel,Jeans,SF JEANS BY PANTALOONS,1999.0,2199.0,5.0,8.0,1.1000500250125063,0.09535565605436112,Women's version dearer
+Myntra,Adult,Apparel,Jeans,SPYKAR,3199.0,2499.0,144.0,46.0,0.7811816192560175,-0.24694760911456565,Men's version dearer
+Myntra,Adult,Apparel,Jeans,SZTORI,2299.0,2199.0,11.0,6.0,0.9565028273162245,-0.044471534208420316,Men's version dearer
+Myntra,Adult,Apparel,Jeans,TRENDYOL,3799.0,3599.0,20.0,17.0,0.9473545669913135,-0.05408184510859489,Men's version dearer
+Myntra,Adult,Apparel,Jeans,UNITED COLORS OF BENETTON,3499.0,2999.0,38.0,7.0,0.857102029151186,-0.15419831361867894,Men's version dearer
+Myntra,Adult,Apparel,Jeans,V-MART,1025.0,799.0,26.0,15.0,0.7795121951219512,-0.24908694580623386,Men's version dearer
+Myntra,Adult,Apparel,Jeans,WOODLAND,3995.0,3695.0,10.0,6.0,0.9249061326658323,-0.07806302481807285,Men's version dearer
+Myntra,Adult,Apparel,Jeans,ZALORA BASICS,3049.0,2899.0,4.0,25.0,0.9508035421449655,-0.05044781806659931,Men's version dearer
+Myntra,Adult,Apparel,Kurtas,ANOUK,1999.0,1899.0,69.0,449.0,0.9499749874937469,-0.05131962368811419,Men's version dearer
+Myntra,Adult,Apparel,Kurtas,ENCHANTED DRAPES,1300.0,1300.0,6.0,6.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Kurtas,FABINDIA,1499.0,3290.0,23.0,165.0,2.1947965310206805,0.7860893456568199,Women's version dearer
+Myntra,Adult,Apparel,Kurtas,HOUSE OF PATAUDI,2499.0,2199.0,83.0,67.0,0.879951980792317,-0.12788794028019115,Men's version dearer
+Myntra,Adult,Apparel,Kurtas,INDO ERA,2599.0,2199.0,8.0,97.0,0.8460946517891497,-0.1671240440867291,Men's version dearer
+Myntra,Adult,Apparel,Kurtas,JOMPERS,1999.0,1499.0,58.0,27.0,0.7498749374687343,-0.2878488363978024,Men's version dearer
+Myntra,Adult,Apparel,Kurtas,MAX,599.0,599.0,4.0,128.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Kurtas,ODE BY HOUSE OF PATAUDI,1499.0,1499.0,52.0,31.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Kurtas,SEE DESIGNS,2199.0,1299.0,22.0,4.0,0.5907230559345157,-0.5264079738841616,Men's version dearer
+Myntra,Adult,Apparel,Kurtas,SZTORI,2199.0,1899.0,7.0,16.0,0.8635743519781719,-0.1466752797424753,Men's version dearer
+Myntra,Adult,Apparel,Kurtas,TAAVI,2899.0,2799.0,11.0,13.0,0.965505346671266,-0.03510363940620196,Men's version dearer
+Myntra,Adult,Apparel,Kurtas,V-MART,550.0,549.0,2.0,25.0,0.9981818181818182,-0.0018198367169859828,Within +/-2%
+Myntra,Adult,Apparel,Lounge Pants,BEWAKOOF,1599.0,1174.0,3.0,4.0,0.734208880550344,-0.3089617124459125,Men's version dearer
+Myntra,Adult,Apparel,Lounge Pants,ETC,1424.0,1074.0,4.0,56.0,0.7542134831460674,-0.2820798169031111,Men's version dearer
+Myntra,Adult,Apparel,Lounge Pants,HYPERNATION,1199.0,1199.0,2.0,4.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Lounge Pants,JOCKEY,1199.0,899.0,6.0,10.0,0.749791492910759,-0.287960120555894,Men's version dearer
+Myntra,Adult,Apparel,Lounge Pants,MAX,599.0,499.0,2.0,21.0,0.8330550918196995,-0.1826555023639307,Men's version dearer
+Myntra,Adult,Apparel,Lounge Pants,OKANE,799.0,910.0,16.0,22.0,1.1389236545682102,0.130083653744621,Women's version dearer
+Myntra,Adult,Apparel,Lounge Pants,SWEET DREAMS,1184.0,1049.0,18.0,14.0,0.8859797297297297,-0.12106120704765383,Men's version dearer
+Myntra,Adult,Apparel,Lounge Pants,URBAN SCOTTISH,1499.0,1899.0,19.0,17.0,1.266844563042028,0.23652921270968813,Women's version dearer
+Myntra,Adult,Apparel,Lounge Pants,VIMAL JONNEY,1798.0,2299.0,4.0,4.0,1.278642936596218,0.24579930973161593,Women's version dearer
+Myntra,Adult,Apparel,Night Suits,FLUFFALUMP,1749.0,2000.0,18.0,8.0,1.1435105774728416,0.13410298452348024,Women's version dearer
+Myntra,Adult,Apparel,Night Suits,MARKS & SPENCER,2999.0,2499.0,14.0,14.0,0.8332777592530843,-0.18238824791405672,Men's version dearer
+Myntra,Adult,Apparel,Night Suits,MAST & HARBOUR,2099.0,1649.0,9.0,8.0,0.7856121962839447,-0.2412919972610341,Men's version dearer
+Myntra,Adult,Apparel,Shirts,AMERICAN EAGLE OUTFITTERS,2599.0,2299.0,36.0,5.0,0.8845709888418622,-0.12265250987830872,Men's version dearer
+Myntra,Adult,Apparel,Shirts,CAMPUS SUTRA,1499.0,1399.0,44.0,5.0,0.933288859239493,-0.06904052343711652,Men's version dearer
+Myntra,Adult,Apparel,Shirts,CRIMSOUNE CLUB,1699.0,1499.0,3.0,6.0,0.8822836962919365,-0.12524162356933427,Men's version dearer
+Myntra,Adult,Apparel,Shirts,DEFACTO,2799.0,2949.0,9.0,8.0,1.0535905680600215,0.05220391929982278,Women's version dearer
+Myntra,Adult,Apparel,Shirts,FOREVER 21,1499.0,1399.0,19.0,9.0,0.933288859239493,-0.06904052343711652,Men's version dearer
+Myntra,Adult,Apparel,Shirts,GANT,6999.0,6499.0,41.0,2.0,0.9285612230318617,-0.07411896279519074,Men's version dearer
+Myntra,Adult,Apparel,Shirts,H&M,1999.0,1499.0,17.0,16.0,0.7498749374687343,-0.2878488363978024,Men's version dearer
+Myntra,Adult,Apparel,Shirts,HANCOCK,1999.0,2099.0,90.0,56.0,1.0500250125062531,0.04881398532023293,Women's version dearer
+Myntra,Adult,Apparel,Shirts,HARVARD,1498.0,1599.0,65.0,9.0,1.0674232309746328,0.06524754875678937,Women's version dearer
+Myntra,Adult,Apparel,Shirts,HERE&NOW,1999.0,1199.0,187.0,2.0,0.599799899949975,-0.5111591794728859,Men's version dearer
+Myntra,Adult,Apparel,Shirts,HIGH STAR,1549.0,1199.0,2.0,2.0,0.7740477727566172,-0.25612168538935437,Men's version dearer
+Myntra,Adult,Apparel,Shirts,KOOK N KEECH,1999.0,1899.0,9.0,3.0,0.9499749874937469,-0.05131962368811419,Men's version dearer
+Myntra,Adult,Apparel,Shirts,LEVIS,2799.0,2799.0,84.0,7.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Shirts,MARKS & SPENCER,2799.0,2999.0,39.0,15.0,1.0714540907466952,0.0690166892335555,Women's version dearer
+Myntra,Adult,Apparel,Shirts,MAST & HARBOUR,1899.0,1299.0,294.0,11.0,0.684044233807267,-0.37973269414168637,Men's version dearer
+Myntra,Adult,Apparel,Shirts,MAX,999.0,749.0,31.0,6.0,0.7497497497497497,-0.2880157951313341,Men's version dearer
+Myntra,Adult,Apparel,Shirts,PARK AVENUE,2199.0,1799.0,135.0,3.0,0.8180991359708959,-0.20077175660422802,Men's version dearer
+Myntra,Adult,Apparel,Shirts,PEOPLE,1149.0,999.0,17.0,4.0,0.8694516971279374,-0.13989249920020214,Men's version dearer
+Myntra,Adult,Apparel,Shirts,PEPE JEANS,2599.0,1999.0,77.0,23.0,0.7691419776837245,-0.26247970014109023,Men's version dearer
+Myntra,Adult,Apparel,Shirts,PLUSS,2780.0,1849.0,23.0,8.0,0.6651079136690647,-0.4078059752975579,Men's version dearer
+Myntra,Adult,Apparel,Shirts,ROADSTER,1699.0,1499.0,546.0,98.0,0.8822836962919365,-0.12524162356933427,Men's version dearer
+Myntra,Adult,Apparel,Shirts,SHAFTESBURY LONDON,2099.0,1999.0,16.0,10.0,0.9523582658408766,-0.04881398532023296,Men's version dearer
+Myntra,Adult,Apparel,Shirts,THE SOULED STORE,1999.0,1499.0,12.0,2.0,0.7498749374687343,-0.2878488363978024,Men's version dearer
+Myntra,Adult,Apparel,Shirts,TOMMY HILFIGER,4599.0,3999.0,46.0,3.0,0.8695368558382257,-0.13979455869310545,Men's version dearer
+Myntra,Adult,Apparel,Shirts,TRENDYOL,1899.0,1799.0,55.0,5.0,0.9473407056345445,-0.054096476861752736,Men's version dearer
+Myntra,Adult,Apparel,Shirts,UNITED COLORS OF BENETTON,2899.0,2299.0,138.0,3.0,0.7930320800275957,-0.23189160415847393,Men's version dearer
+Myntra,Adult,Apparel,Shirts,VAN HEUSEN,2599.0,2099.0,163.0,4.0,0.8076183147364371,-0.21366571482085728,Men's version dearer
+Myntra,Adult,Apparel,Shirts,ZALORA BASICS,2699.0,2499.0,21.0,2.0,0.9258984809188588,-0.07699068218305226,Men's version dearer
+Myntra,Adult,Apparel,Shorts,ADIDAS,2999.0,2299.0,6.0,3.0,0.766588862954318,-0.2658046539858276,Men's version dearer
+Myntra,Adult,Apparel,Shorts,AEROPOSTALE,1999.0,1699.0,5.0,2.0,0.8499249624812406,-0.16260721282846805,Men's version dearer
+Myntra,Adult,Apparel,Shorts,AJILE BY PANTALOONS,899.0,499.0,17.0,8.0,0.5550611790878754,-0.5886769387201015,Men's version dearer
+Myntra,Adult,Apparel,Shorts,AMERICAN EAGLE OUTFITTERS,2999.0,2749.0,6.0,2.0,0.9166388796265422,-0.08704169058376333,Men's version dearer
+Myntra,Adult,Apparel,Shorts,ARISE,1299.0,999.0,29.0,3.0,0.76905311778291,-0.262595238022046,Men's version dearer
+Myntra,Adult,Apparel,Shorts,CHKOKKO,1832.0,2330.0,6.0,7.0,1.2718340611353711,0.24046000132567064,Women's version dearer
+Myntra,Adult,Apparel,Shorts,DEFACTO,1849.0,1299.0,8.0,4.0,0.7025419145484045,-0.3530502147165253,Men's version dearer
+Myntra,Adult,Apparel,Shorts,DOMYOS BY DECATHLON,799.0,999.0,11.0,3.0,1.2503128911138923,0.22339383288227882,Women's version dearer
+Myntra,Adult,Apparel,Shorts,FILA,1499.0,1749.0,3.0,2.0,1.1667778519012675,0.15424597691600433,Women's version dearer
+Myntra,Adult,Apparel,Shorts,FOREVER 21,1099.0,999.0,13.0,13.0,0.9090081892629663,-0.09540117575506783,Men's version dearer
+Myntra,Adult,Apparel,Shorts,H&M,1499.0,1299.0,42.0,47.0,0.866577718478986,-0.14320348143199813,Men's version dearer
+Myntra,Adult,Apparel,Shorts,HERE&NOW,1399.0,999.0,3.0,2.0,0.7140814867762688,-0.3367581960169276,Men's version dearer
+Myntra,Adult,Apparel,Shorts,HIGH STAR,949.0,1199.0,3.0,5.0,1.2634351949420441,0.2338343564175863,Women's version dearer
+Myntra,Adult,Apparel,Shorts,HRX BY HRITHIK ROSHAN,1599.0,1499.0,91.0,52.0,0.9374609130706691,-0.06458021473135656,Men's version dearer
+Myntra,Adult,Apparel,Shorts,HYPERNATION,1199.0,1199.0,12.0,12.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Shorts,KAPPA,999.0,699.0,7.0,2.0,0.6996996996996997,-0.35710403641474325,Men's version dearer
+Myntra,Adult,Apparel,Shorts,MARKS & SPENCER,1999.0,2499.0,12.0,8.0,1.2501250625312657,0.22324359633455235,Women's version dearer
+Myntra,Adult,Apparel,Shorts,MAST & HARBOUR,1699.0,1399.0,18.0,18.0,0.8234255444379046,-0.19428214700645088,Men's version dearer
+Myntra,Adult,Apparel,Shorts,MAX,799.0,499.0,25.0,10.0,0.6245306633291614,-0.4707548500147561,Men's version dearer
+Myntra,Adult,Apparel,Shorts,NIKE,2395.0,2095.0,21.0,13.0,0.8747390396659708,-0.1338296774887775,Men's version dearer
+Myntra,Adult,Apparel,Shorts,ORIGIN BY ZALORA,3699.0,3299.0,3.0,2.0,0.8918626655852934,-0.11444312060387252,Men's version dearer
+Myntra,Adult,Apparel,Shorts,PEOPLE,1299.0,1049.0,5.0,4.0,0.8075442648190916,-0.2137574082743024,Men's version dearer
+Myntra,Adult,Apparel,Shorts,PEPE JEANS,2799.0,2049.0,7.0,4.0,0.7320471596998929,-0.3119103412765537,Men's version dearer
+Myntra,Adult,Apparel,Shorts,PUMA,2499.0,2499.0,125.0,24.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Shorts,REEBOK,1799.0,1499.0,17.0,3.0,0.8332406892718177,-0.18243273584793535,Men's version dearer
+Myntra,Adult,Apparel,Shorts,ROADSTER,1299.0,1499.0,7.0,53.0,1.1539645881447267,0.14320348143199815,Women's version dearer
+Myntra,Adult,Apparel,Shorts,SZTORI,1749.0,1399.0,14.0,8.0,0.7998856489422527,-0.22328650035312095,Men's version dearer
+Myntra,Adult,Apparel,Shorts,THE SOULED STORE,999.0,999.0,5.0,6.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Shorts,TOMMY HILFIGER,3999.0,2799.0,4.0,4.0,0.6999249812453113,-0.35678211933136483,Men's version dearer
+Myntra,Adult,Apparel,Shorts,TRENDYOL,1699.0,1449.0,25.0,6.0,0.8528546203649205,-0.15916617935124963,Men's version dearer
+Myntra,Adult,Apparel,Shorts,UNDER ARMOUR,2999.0,2499.0,29.0,7.0,0.8332777592530843,-0.18238824791405672,Men's version dearer
+Myntra,Adult,Apparel,Shorts,V-MART,639.0,599.0,4.0,7.0,0.9374021909233177,-0.06464285626208548,Men's version dearer
+Myntra,Adult,Apparel,Shorts,WOODLAND,2795.0,2295.0,2.0,2.0,0.8211091234347049,-0.19709926309455394,Men's version dearer
+Myntra,Adult,Apparel,Shorts,ZALORA ACTIVE,2199.0,2249.0,2.0,4.0,1.022737608003638,0.02248296140455459,Women's version dearer
+Myntra,Adult,Apparel,Shorts,ZALORA BASICS,2699.0,2299.0,3.0,7.0,0.8517969618377177,-0.16040708825482308,Men's version dearer
+Myntra,Adult,Apparel,Socks,ADIDAS,549.0,474.0,34.0,2.0,0.8633879781420765,-0.14689111981445419,Men's version dearer
+Myntra,Adult,Apparel,Socks,BALENZIA,599.0,674.0,16.0,6.0,1.1252086811352253,0.11796851279685763,Women's version dearer
+Myntra,Adult,Apparel,Socks,HRX BY HRITHIK ROSHAN,599.0,549.0,14.0,11.0,0.9165275459098498,-0.08716315660591872,Men's version dearer
+Myntra,Adult,Apparel,Socks,HUSH PUPPIES,529.0,549.0,4.0,2.0,1.0378071833648392,0.03711000965123117,Women's version dearer
+Myntra,Adult,Apparel,Socks,MAX,349.0,299.0,8.0,14.0,0.8567335243553008,-0.15462834881174078,Men's version dearer
+Myntra,Adult,Apparel,Socks,REEBOK,399.0,499.0,9.0,3.0,1.25062656641604,0.2236446788616552,Women's version dearer
+Myntra,Adult,Apparel,Sweaters,ETHER,1699.0,1699.0,10.0,7.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Sweaters,FOREVER 21,1799.0,1399.0,2.0,3.0,0.7776542523624236,-0.25147325928505193,Men's version dearer
+Myntra,Adult,Apparel,Sweaters,GANT,10249.0,8999.0,16.0,2.0,0.8780368816469899,-0.13006667979761447,Men's version dearer
+Myntra,Adult,Apparel,Sweaters,H&M,2299.0,1499.0,25.0,33.0,0.6520226185297956,-0.4276760266605838,Men's version dearer
+Myntra,Adult,Apparel,Sweaters,MAST & HARBOUR,1949.0,1699.0,4.0,5.0,0.8717290918419702,-0.1372765778356288,Men's version dearer
+Myntra,Adult,Apparel,Sweaters,PEPE JEANS,2199.0,2499.0,3.0,2.0,1.136425648021828,0.1278879402801911,Women's version dearer
+Myntra,Adult,Apparel,Sweaters,ROADSTER,1749.0,1499.0,24.0,8.0,0.8570611778158947,-0.15424597691600442,Men's version dearer
+Myntra,Adult,Apparel,Sweatshirts,CAMPUS SUTRA,1699.0,1849.0,25.0,2.0,1.0882872277810476,0.08460510971519274,Women's version dearer
+Myntra,Adult,Apparel,Sweatshirts,DUKE,1045.0,1445.0,2.0,4.0,1.3827751196172249,0.3240924361476212,Women's version dearer
+Myntra,Adult,Apparel,Sweatshirts,ETHER,1849.0,1599.0,10.0,4.0,0.8647917793401839,-0.14526651855317058,Men's version dearer
+Myntra,Adult,Apparel,Sweatshirts,FAME FOREVER BY LIFESTYLE,1299.0,1049.0,3.0,4.0,0.8075442648190916,-0.2137574082743024,Men's version dearer
+Myntra,Adult,Apparel,Sweatshirts,H&M,1999.0,1499.0,41.0,81.0,0.7498749374687343,-0.2878488363978024,Men's version dearer
+Myntra,Adult,Apparel,Sweatshirts,HARVARD,1799.0,2398.0,2.0,2.0,1.3329627570872706,0.2874041016369264,Women's version dearer
+Myntra,Adult,Apparel,Sweatshirts,HERE&NOW,2149.0,1999.0,19.0,5.0,0.9302000930665426,-0.07235556214211036,Men's version dearer
+Myntra,Adult,Apparel,Sweatshirts,KAPPA,1899.0,1299.0,2.0,3.0,0.684044233807267,-0.37973269414168637,Men's version dearer
+Myntra,Adult,Apparel,Sweatshirts,KOOK N KEECH DISNEY,2049.0,2149.0,2.0,2.0,1.0488042947779403,0.047650748403610596,Women's version dearer
+Myntra,Adult,Apparel,Sweatshirts,LEVIS,2699.0,2799.0,15.0,6.0,1.0370507595405707,0.03638087649744896,Women's version dearer
+Myntra,Adult,Apparel,Sweatshirts,MARKS & SPENCER,3499.0,2749.0,2.0,4.0,0.7856530437267791,-0.24124000420244224,Men's version dearer
+Myntra,Adult,Apparel,Sweatshirts,MAST & HARBOUR,1899.0,1599.0,31.0,17.0,0.8420221169036335,-0.17194899797833166,Men's version dearer
+Myntra,Adult,Apparel,Sweatshirts,MONTE CARLO,1422.5,1845.0,2.0,5.0,1.29701230228471,0.26006339047414156,Women's version dearer
+Myntra,Adult,Apparel,Sweatshirts,PEPE JEANS,2449.0,2399.0,6.0,5.0,0.9795835034708044,-0.020627794112473216,Men's version dearer
+Myntra,Adult,Apparel,Sweatshirts,PUMA,3799.0,3499.0,81.0,15.0,0.9210318504869702,-0.08226066081993758,Men's version dearer
+Myntra,Adult,Apparel,Sweatshirts,ROADSTER,1599.0,1599.0,27.0,26.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Sweatshirts,STYLE QUOTIENT,1849.0,1299.0,2.0,3.0,0.7025419145484045,-0.3530502147165253,Men's version dearer
+Myntra,Adult,Apparel,Sweatshirts,SZTORI,2599.0,2449.0,6.0,6.0,0.9422854944209311,-0.05944697768932252,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,ADIDAS,2299.0,2299.0,52.0,15.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,ADIDAS ORIGINALS,2649.0,2399.0,10.0,4.0,0.9056247640619102,-0.09913022643237511,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,AEROPOSTALE,1199.0,1199.0,35.0,39.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,AJILE BY PANTALOONS,399.0,449.0,30.0,17.0,1.1253132832080202,0.11806147085239092,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,ALCIS,1299.0,1199.0,19.0,11.0,0.9230177059276367,-0.08010686164308528,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,AMERICAN EAGLE OUTFITTERS,1599.0,1599.0,79.0,6.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,ARMISTO,899.0,799.0,10.0,18.0,0.8887652947719689,-0.1179220887053456,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,ASICS,1599.0,1299.0,22.0,12.0,0.8123827392120075,-0.20778369616335465,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,BEVERLY HILLS POLO CLUB,2999.0,1899.0,9.0,3.0,0.6332110703567856,-0.4569514679367232,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,BEWAKOOF,999.0,999.0,59.0,21.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,CAMPUS SUTRA,1199.0,799.0,59.0,9.0,0.6663886572143453,-0.40588220926123963,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,CHKOKKO,1665.0,1999.0,48.0,12.0,1.2006006006006007,0.18282193208585595,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,CRIMSOUNE CLUB,1399.0,999.0,3.0,11.0,0.7140814867762688,-0.3367581960169276,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,CULTSPORT,1299.0,1699.0,5.0,2.0,1.3079291762894534,0.26844510500133245,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,DEFACTO,2299.0,1399.0,9.0,11.0,0.60852544584602,-0.49671655009770044,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,DIFFERENCE OF OPINION,1299.0,1299.0,49.0,45.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,DILLINGER,1249.0,1199.0,39.0,120.0,0.9599679743795037,-0.04085535509806338,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,DISRUPT,1099.0,799.0,4.0,7.0,0.727024567788899,-0.31879500863734667,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,DOMYOS BY DECATHLON,699.0,699.0,7.0,6.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,EDRIO,1199.0,1149.0,6.0,17.0,0.9582985821517932,-0.042595877178758526,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,ETHER,799.0,799.0,33.0,57.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,FILA,1324.0,1449.0,34.0,14.0,1.0944108761329305,0.09021620582372887,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,FLEXIMAA,749.0,899.0,58.0,65.0,1.2002670226969292,0.18254405095440077,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,FLYING MACHINE,1099.0,1299.0,79.0,8.0,1.1819836214740673,0.16719406226697817,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,FOREVER 21,699.0,1099.0,63.0,4.0,1.5722460658082975,0.45250521216981104,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,FREE AUTHORITY,1249.0,799.0,62.0,5.0,0.6397117694155324,-0.446737564359303,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,GANT,4999.0,5499.0,71.0,3.0,1.1000200040008001,0.09532836509424432,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,GLOBUS,1574.0,1099.0,10.0,7.0,0.6982210927573063,-0.3592194745737271,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,H&M,999.0,1149.0,55.0,46.0,1.15015015015015,0.1398924992002021,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,HARVARD,999.0,898.0,21.0,47.0,0.8988988988988988,-0.10658471034635397,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,HERE&NOW,899.0,799.0,282.0,33.0,0.8887652947719689,-0.1179220887053456,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,HRX,2699.0,2199.0,3.0,2.0,0.8147462022971471,-0.20487862246324345,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,HRX BY HRITHIK ROSHAN,1099.0,999.0,274.0,154.0,0.9090081892629663,-0.09540117575506783,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,HUETRAP,1499.0,1399.0,94.0,2.0,0.933288859239493,-0.06904052343711652,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,HUMMEL,999.0,849.0,4.0,2.0,0.8498498498498499,-0.16269559233720615,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,HYPERNATION,992.0,985.0,4.0,2.0,0.9929435483870968,-0.007081466112783933,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,INESIS BY DECATHLON,549.0,699.0,2.0,2.0,1.273224043715847,0.2415523007242797,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,INVINCIBLE,599.0,599.0,2.0,3.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,JOCKEY,699.0,599.0,63.0,15.0,0.8569384835479256,-0.15438914411836097,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,JUMP USA,1499.0,1449.0,3.0,5.0,0.9666444296197465,-0.03392455578191532,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,KALENJI BY DECATHLON,798.5,1199.0,4.0,5.0,1.501565435190983,0.4065081873724471,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,KALT,1200.0,800.0,27.0,9.0,0.6666666666666666,-0.40546510810816444,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,KAPPA,799.0,699.0,29.0,7.0,0.8748435544430538,-0.13371020353246438,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,KOOK N KEECH,899.0,899.0,25.0,44.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,KOOK N KEECH DISNEY,949.0,899.0,8.0,20.0,0.9473129610115911,-0.054125764138307615,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,KOOK N KEECH EMOJI,1099.0,899.0,4.0,3.0,0.8180163785259327,-0.20087291993200107,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,KOOK N KEECH MARVEL,999.0,949.0,28.0,14.0,0.94994994994995,-0.05134598003862564,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,LEVIS,1799.0,1299.0,140.0,43.0,0.7220678154530294,-0.3256362172799336,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,M&H EASY,849.0,799.0,36.0,24.0,0.9411071849234394,-0.06069824054507262,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,M&H OUR WATER,999.0,849.0,5.0,14.0,0.8498498498498499,-0.16269559233720615,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,MARKS & SPENCER,1499.0,1299.0,42.0,43.0,0.866577718478986,-0.14320348143199813,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,MAST & HARBOUR,899.0,749.0,335.0,148.0,0.8331479421579533,-0.1825440509544008,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,MAX,599.0,399.0,109.0,126.0,0.666110183639399,-0.40630018122558587,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,MINIONS BY KOOK N KEECH,999.0,899.0,4.0,4.0,0.8998998998998999,-0.10547174417693321,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,MKH,2199.0,1999.0,4.0,6.0,0.9090495679854479,-0.09535565605436117,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,MODA RAPIDO,999.0,849.0,184.0,11.0,0.8498498498498499,-0.16269559233720615,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,MONTE CARLO,1457.5,782.5,30.0,14.0,0.5368782161234992,-0.6219839958103391,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,NAUTICA,2999.0,1599.0,205.0,9.0,0.5331777259086362,-0.6289004659150549,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,NBA,1399.0,949.0,7.0,5.0,0.6783416726233024,-0.3881041760555533,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,NIKE,1795.0,1895.0,72.0,10.0,1.0557103064066853,0.05421381659414752,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,NYAMBA BY DECATHLON,599.0,899.0,9.0,4.0,1.5008347245409015,0.40602143635617094,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,OCTAVE,749.0,899.0,47.0,2.0,1.2002670226969292,0.18254405095440077,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,OFF LIMITS,699.0,999.0,3.0,3.0,1.4291845493562232,0.35710403641474325,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,OKANE,899.0,699.0,32.0,15.0,0.7775305895439377,-0.25163229223781,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,PEOPLE,699.0,499.0,15.0,11.0,0.7138769670958512,-0.33704464648229154,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,PEPE JEANS,1449.0,1299.0,64.0,31.0,0.8964803312629399,-0.10927892565008289,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,PLUSS,1780.0,1200.0,12.0,10.0,0.6741573033707865,-0.39429180751003917,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,PROLINE,1049.0,974.0,2.0,2.0,0.9285033365109628,-0.07418130475376206,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,PUMA,1799.0,1799.0,280.0,67.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,QUECHUA BY DECATHLON,999.0,899.0,3.0,5.0,0.8998998998998999,-0.10547174417693321,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,REEBOK,1399.0,1399.0,49.0,15.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,REEBOK CLASSIC,1799.0,1699.0,13.0,7.0,0.9444135630906059,-0.0571911122786011,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,RIGO,999.0,949.0,26.0,2.0,0.94994994994995,-0.05134598003862564,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,ROADSTER,999.0,899.0,894.0,462.0,0.8998998998998999,-0.10547174417693321,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,SLAZENGER,1199.0,899.0,43.0,12.0,0.749791492910759,-0.287960120555894,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,SZTORI,1699.0,1299.0,119.0,15.0,0.7645673925838729,-0.2684451050013325,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,THE DRY STATE,1299.0,1299.0,3.0,19.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,THE SOULED STORE,999.0,1249.0,65.0,18.0,1.2502502502502502,0.22334373147702408,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,TOMMY HILFIGER,2299.0,1599.0,134.0,7.0,0.6955197912135711,-0.36309581192922735,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,TRENDYOL,1399.0,1299.0,157.0,32.0,0.9285203716940672,-0.07416295799488162,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,UNDER ARMOUR,2799.0,2499.0,41.0,30.0,0.8928188638799571,-0.11337155868050114,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,UNITED COLORS OF BENETTON,1299.0,1499.0,208.0,3.0,1.1539645881447267,0.14320348143199815,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,V-MART,499.0,375.0,35.0,32.0,0.751503006012024,-0.2856800697811079,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,VEIRDO,1199.0,1199.0,46.0,6.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,T-Shirts,WOODLAND,1695.0,1645.0,13.0,2.0,0.9705014749262537,-0.02994235661507834,Men's version dearer
+Myntra,Adult,Apparel,T-Shirts,WOODS,1745.0,1795.0,4.0,2.0,1.0286532951289398,0.028250466285851653,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,YUUKI,599.0,1849.0,4.0,2.0,3.0868113522537564,1.1271386332716755,Women's version dearer
+Myntra,Adult,Apparel,T-Shirts,ZALORA BASICS,2149.0,1999.0,6.0,2.0,0.9302000930665426,-0.07235556214211036,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,ABOF,1299.0,999.0,2.0,2.0,0.76905311778291,-0.262595238022046,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,ADIDAS,3299.0,1799.0,12.0,9.0,0.5453167626553501,-0.6063884372780483,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,ADIDAS ORIGINALS,5599.0,4999.0,9.0,4.0,0.8928380067869263,-0.1133501179353229,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,AJILE BY PANTALOONS,1049.0,1199.0,63.0,16.0,1.1429933269780743,0.13365054663121703,Women's version dearer
+Myntra,Adult,Apparel,Track Pants,ALCIS,2299.0,1499.0,11.0,3.0,0.6520226185297956,-0.4276760266605838,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,ASICS,2299.0,2149.0,10.0,4.0,0.9347542409743367,-0.06747162812067108,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,CHKOKKO,2470.0,2124.0,6.0,6.0,0.8599190283400809,-0.15091704726019348,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,CULTSPORT,2799.0,2449.0,3.0,2.0,0.8749553411932833,-0.13358243256328575,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,DEFACTO,1799.0,2324.0,3.0,4.0,1.2918287937743191,0.2560588840212688,Women's version dearer
+Myntra,Adult,Apparel,Track Pants,DUKE,1272.0,1247.0,18.0,2.0,0.9803459119496856,-0.01984979822003097,Within +/-2%
+Myntra,Adult,Apparel,Track Pants,EDRIO,2199.0,2249.0,8.0,6.0,1.022737608003638,0.02248296140455459,Women's version dearer
+Myntra,Adult,Apparel,Track Pants,ETHER,1699.0,1299.0,3.0,3.0,0.7645673925838729,-0.2684451050013325,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,FILA,2099.0,1799.0,15.0,11.0,0.8570747975226298,-0.15423008587009987,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,FLYING MACHINE,1999.0,1699.0,12.0,10.0,0.8499249624812406,-0.16260721282846805,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,FRENCH FLEXIOUS,1878.0,1837.0,6.0,9.0,0.9781682641107561,-0.02207357455308261,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,GALLUS,1299.0,1399.0,9.0,3.0,1.0769822940723635,0.07416295799488173,Women's version dearer
+Myntra,Adult,Apparel,Track Pants,HARVARD,1499.0,1399.0,15.0,84.0,0.933288859239493,-0.06904052343711652,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,HERE&NOW,1899.0,1599.0,92.0,14.0,0.8420221169036335,-0.17194899797833166,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,HRX BY HRITHIK ROSHAN,2099.0,1899.0,161.0,86.0,0.9047165316817533,-0.10013360900834707,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,HUBBERHOLME,1649.0,1499.0,24.0,6.0,0.9090357792601577,-0.09537082445700121,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,JOCKEY,1364.0,909.0,24.0,21.0,0.6664222873900293,-0.4058317442259286,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,KAPPA,1499.0,1299.0,16.0,6.0,0.866577718478986,-0.14320348143199813,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,KOOK N KEECH,1799.0,1499.0,23.0,23.0,0.8332406892718177,-0.18243273584793535,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,M&H EASY,2049.0,1599.0,4.0,7.0,0.780380673499268,-0.24797343540494546,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,MARKS & SPENCER,2499.0,2749.0,5.0,8.0,1.1000400160064026,0.09534655733029332,Women's version dearer
+Myntra,Adult,Apparel,Track Pants,MAST & HARBOUR,1799.0,1699.0,37.0,45.0,0.9444135630906059,-0.0571911122786011,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,MAX,849.0,699.0,8.0,21.0,0.823321554770318,-0.1944084440775371,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,MONTE CARLO,1165.0,967.5,19.0,4.0,0.8304721030042919,-0.18576094109586405,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,NIKE,3495.0,3795.0,12.0,3.0,1.0858369098712446,0.08235103516181963,Women's version dearer
+Myntra,Adult,Apparel,Track Pants,OKANE,1274.5,1299.0,16.0,11.0,1.019223224794037,0.01904079285442946,Within +/-2%
+Myntra,Adult,Apparel,Track Pants,PEOPLE,1024.0,1099.0,20.0,8.0,1.0732421875,0.07068414880416826,Women's version dearer
+Myntra,Adult,Apparel,Track Pants,PUMA,3299.0,2999.0,150.0,49.0,0.9090633525310701,-0.09534049247957228,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,PUMA MOTORSPORT,4999.0,4499.0,28.0,3.0,0.8999799959991999,-0.10538274257239805,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,RED TAPE,3299.0,3099.0,4.0,4.0,0.9393755683540467,-0.06253991344083319,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,REEBOK CLASSIC,2699.0,2799.0,4.0,3.0,1.0370507595405707,0.03638087649744896,Women's version dearer
+Myntra,Adult,Apparel,Track Pants,ROADSTER,1699.0,1499.0,14.0,7.0,0.8822836962919365,-0.12524162356933427,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,SLAZENGER,1899.0,1699.0,61.0,10.0,0.894681411269089,-0.1112875891403539,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,SZTORI,2399.0,2499.0,13.0,2.0,1.0416840350145895,0.0408386679952579,Women's version dearer
+Myntra,Adult,Apparel,Track Pants,THE SOULED STORE,1999.0,1999.0,14.0,9.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Track Pants,TRENDYOL,1699.0,1699.0,30.0,6.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Track Pants,V-MART,600.0,449.0,3.0,17.0,0.7483333333333333,-0.2899067674738921,Men's version dearer
+Myntra,Adult,Apparel,Track Pants,VIMAL JONNEY,2198.0,2048.5,10.0,2.0,0.9319836214740673,-0.07044003797664092,Men's version dearer
+Myntra,Adult,Apparel,Tracksuits,ALCIS,2599.0,3099.0,5.0,2.0,1.192381685263563,0.17595272314625798,Women's version dearer
+Myntra,Adult,Apparel,Tracksuits,EDRIO,3999.0,3999.0,4.0,2.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Tracksuits,HRX BY HRITHIK ROSHAN,3699.0,4099.0,17.0,7.0,1.1081373344147067,0.10268052867188363,Women's version dearer
+Myntra,Adult,Apparel,Tracksuits,OFF LIMITS,3399.0,3249.0,4.0,2.0,0.9558693733451015,-0.04513401402701574,Men's version dearer
+Myntra,Adult,Apparel,Tracksuits,RIGO,3398.0,2999.0,2.0,3.0,0.8825779870512066,-0.12490812348286823,Men's version dearer
+Myntra,Adult,Apparel,Trousers,AMERICAN EAGLE OUTFITTERS,3299.0,3299.0,3.0,3.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Trousers,CANTABIL,3349.0,1499.0,6.0,4.0,0.44759629740220963,-0.8038635746916069,Men's version dearer
+Myntra,Adult,Apparel,Trousers,CODE BY LIFESTYLE,1499.0,1499.0,4.0,5.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Trousers,DEFACTO,2699.0,2249.0,2.0,18.0,0.8332715820674323,-0.182395661058689,Men's version dearer
+Myntra,Adult,Apparel,Trousers,DOMYOS BY DECATHLON,999.0,1099.0,4.0,4.0,1.1001001001001,0.09540117575506782,Women's version dearer
+Myntra,Adult,Apparel,Trousers,DUKE,2175.0,1299.0,3.0,2.0,0.5972413793103448,-0.5154339268521849,Men's version dearer
+Myntra,Adult,Apparel,Trousers,ETHER,2299.0,1999.0,11.0,7.0,0.8695084819486734,-0.13982719026278145,Men's version dearer
+Myntra,Adult,Apparel,Trousers,FLYING MACHINE,2299.0,2299.0,11.0,5.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Trousers,FORCLAZ BY DECATHLON,3249.0,2999.0,8.0,5.0,0.9230532471529701,-0.08006835692009126,Men's version dearer
+Myntra,Adult,Apparel,Trousers,FOREVER 21,1799.0,1799.0,5.0,15.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Trousers,H&M,1999.0,1499.0,15.0,59.0,0.7498749374687343,-0.2878488363978024,Men's version dearer
+Myntra,Adult,Apparel,Trousers,HERE&NOW,2699.0,2299.0,33.0,8.0,0.8517969618377177,-0.16040708825482308,Men's version dearer
+Myntra,Adult,Apparel,Trousers,HRX BY HRITHIK ROSHAN,3049.0,2999.0,10.0,8.0,0.9836011807149885,-0.01653476823924574,Within +/-2%
+Myntra,Adult,Apparel,Trousers,LEVIS,2999.0,2899.0,20.0,7.0,0.9666555518506169,-0.033913049827353554,Men's version dearer
+Myntra,Adult,Apparel,Trousers,MARKS & SPENCER,3499.0,2999.0,10.0,24.0,0.857102029151186,-0.15419831361867894,Men's version dearer
+Myntra,Adult,Apparel,Trousers,MAST & HARBOUR,2299.0,2299.0,54.0,43.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Apparel,Trousers,MAX,1124.0,799.0,6.0,23.0,0.7108540925266904,-0.3412880846873617,Men's version dearer
+Myntra,Adult,Apparel,Trousers,MODA RAPIDO,3449.0,3299.0,4.0,4.0,0.9565091330820528,-0.04446494170825949,Men's version dearer
+Myntra,Adult,Apparel,Trousers,PEOPLE,1199.0,1299.0,6.0,7.0,1.0834028356964136,0.08010686164308523,Women's version dearer
+Myntra,Adult,Apparel,Trousers,QUECHUA BY DECATHLON,1749.0,1499.0,4.0,3.0,0.8570611778158947,-0.15424597691600442,Men's version dearer
+Myntra,Adult,Apparel,Trousers,ROADSTER,2199.0,2399.0,109.0,33.0,1.090950432014552,0.08704927228493332,Women's version dearer
+Myntra,Adult,Apparel,Trousers,SOJANYA,2799.0,1199.0,33.0,2.0,0.42836727402643804,-0.8477743344879393,Men's version dearer
+Myntra,Adult,Apparel,Trousers,SZTORI,3099.0,2499.0,4.0,10.0,0.8063891577928364,-0.2151888269527959,Men's version dearer
+Myntra,Adult,Apparel,Trousers,TRENDYOL,3449.0,2099.0,6.0,16.0,0.6085821977384749,-0.49662329311620795,Men's version dearer
+Myntra,Adult,Apparel,Trousers,UNITED COLORS OF BENETTON,3499.0,2999.0,12.0,3.0,0.857102029151186,-0.15419831361867894,Men's version dearer
+Myntra,Adult,Apparel,Trousers,V-MART,999.0,649.5,72.0,4.0,0.6501501501501501,-0.43055194253789936,Men's version dearer
+Myntra,Adult,Apparel,Trousers,WOODLAND,3495.0,2895.0,11.0,2.0,0.8283261802575107,-0.18834826466081506,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,ACTIV,2299.0,2490.0,2.0,5.0,1.0830795998260112,0.07980846469557165,Women's version dearer
+Myntra,Adult,Footwear,Casual Shoes,AFROJACK,3995.0,3745.0,42.0,11.0,0.9374217772215269,-0.06462196224905524,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,ANOUK,2499.0,1099.0,43.0,2.0,0.43977591036414565,-0.821489976431331,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,AQUALITE,699.0,599.0,3.0,3.0,0.8569384835479256,-0.15438914411836097,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,ASIAN,999.0,999.0,30.0,28.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Casual Shoes,BATA,2299.0,899.0,67.0,26.0,0.39103958242714226,-0.9389464902915612,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,BUGATTI,8499.0,9999.0,7.0,6.0,1.1764913519237556,0.16253657847722305,Women's version dearer
+Myntra,Adult,Footwear,Casual Shoes,CARLTON LONDON,3299.0,3495.0,45.0,13.0,1.0594119430130342,0.05771398343932917,Women's version dearer
+Myntra,Adult,Footwear,Casual Shoes,CARLTON LONDON SPORTS,3699.0,1899.0,5.0,7.0,0.51338199513382,-0.666735081020168,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,CHAMPS,1299.0,1049.0,2.0,2.0,0.8075442648190916,-0.2137574082743024,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,CIPRAMO SPORTS,1099.0,999.0,19.0,4.0,0.9090081892629663,-0.09540117575506783,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,CLARKS,7499.0,6499.0,7.0,3.0,0.8666488865182024,-0.14312135940704057,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,CREW STREET,3099.0,3099.0,24.0,8.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Casual Shoes,EL PASO,4495.0,3995.0,48.0,15.0,0.8887652947719689,-0.1179220887053456,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,FAUSTO,1299.0,999.0,118.0,2.0,0.76905311778291,-0.262595238022046,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,FILA,3699.0,8999.0,9.0,5.0,2.4328196809948635,0.8890509472014946,Women's version dearer
+Myntra,Adult,Footwear,Casual Shoes,FOREVER 21,2199.0,1999.0,7.0,3.0,0.9090495679854479,-0.09535565605436117,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,GEOX,11990.0,10990.0,28.0,13.0,0.9165971643035863,-0.08708720062389291,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,H&M,1499.0,1899.0,13.0,4.0,1.266844563042028,0.23652921270968813,Women's version dearer
+Myntra,Adult,Footwear,Casual Shoes,HRX BY HRITHIK ROSHAN,4099.0,3899.0,43.0,7.0,0.9512076116125885,-0.05002293152174018,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,HUSH PUPPIES,4999.0,5999.0,28.0,5.0,1.2000400080016003,0.1823548962395227,Women's version dearer
+Myntra,Adult,Footwear,Casual Shoes,KAZARMAX,2499.0,2499.0,2.0,18.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Casual Shoes,KHADIMS,1299.0,799.0,29.0,7.0,0.6150885296381832,-0.48598907090432497,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,KOOK N KEECH,2299.0,2299.0,7.0,56.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Casual Shoes,LIBERTY,1599.0,799.0,14.0,13.0,0.4996873045653533,-0.6937727670676797,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,LONDON RAG,3699.0,3549.0,3.0,2.0,0.959448499594485,-0.04139663918595755,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,M7 BY METRONAUT,1499.0,1999.0,50.0,7.0,1.333555703802535,0.2878488363978023,Women's version dearer
+Myntra,Adult,Footwear,Casual Shoes,MAST & HARBOUR,2699.0,2299.0,123.0,74.0,0.8517969618377177,-0.16040708825482308,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,MAX,999.0,949.0,21.0,6.0,0.94994994994995,-0.05134598003862564,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,METRO,3290.0,2490.0,46.0,8.0,0.756838905775076,-0.27860485430066434,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,MOCHI,3490.0,2690.0,49.0,12.0,0.7707736389684814,-0.26036054260058805,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,MOZAFIA,1949.0,1499.0,10.0,5.0,0.7691123653155464,-0.2625182014049632,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,NAUTICA,4699.0,3499.0,13.0,10.0,0.7446265162800596,-0.29487250673512766,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,NEEMANS,3299.0,3299.0,3.0,2.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Casual Shoes,NIKE,8595.0,8195.0,3.0,5.0,0.9534613147178592,-0.04765642663901957,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,NORTH STAR,1799.0,2249.0,17.0,14.0,1.2501389660922735,0.22325471800878258,Women's version dearer
+Myntra,Adult,Footwear,Casual Shoes,POWER,2499.0,2749.0,19.0,4.0,1.1000400160064026,0.09534655733029332,Women's version dearer
+Myntra,Adult,Footwear,Casual Shoes,PUMA,3999.0,6999.0,54.0,23.0,1.7501875468867216,0.5597229518427213,Women's version dearer
+Myntra,Adult,Footwear,Casual Shoes,RED TAPE,4999.0,4399.0,5.0,8.0,0.8799759951990398,-0.12786065006485062,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,ROADSTER,2899.0,2499.0,182.0,60.0,0.8620213866850638,-0.14847519808670315,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,SKECHERS,5999.0,5899.0,31.0,16.0,0.9833305550925154,-0.016809943650017808,Within +/-2%
+Myntra,Adult,Footwear,Casual Shoes,TOMMY HILFIGER,6999.0,5999.0,29.0,30.0,0.8571224460637233,-0.15417449303644662,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,TRUFFLE COLLECTION,3999.0,3399.0,4.0,2.0,0.8499624906226556,-0.16256305915070243,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,VANS,6149.0,4499.0,8.0,4.0,0.7316636851520573,-0.3124343171122974,Men's version dearer
+Myntra,Adult,Footwear,Casual Shoes,WALKWAY,999.0,999.0,9.0,12.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Flip-Flops,ADDA,799.0,874.0,40.0,24.0,1.0938673341677096,0.08971942988926081,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,ADIDAS,1499.0,1799.0,8.0,5.0,1.200133422281521,0.18243273584793537,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,AJANTA,374.0,399.0,6.0,2.0,1.0668449197860963,0.06470561947533157,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,BATA,599.0,515.5,16.0,14.0,0.8606010016694491,-0.15012429465843474,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,BEWAKOOF,1099.0,999.0,3.0,10.0,0.9090081892629663,-0.09540117575506783,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,CAMPUS,649.0,325.0,78.0,13.0,0.5007704160246533,-0.6916075343743525,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,CARLTON LONDON,1699.0,999.0,69.0,68.0,0.5879929370217775,-0.5310403430233785,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,CARLTON LONDON SPORTS,1499.0,1499.0,30.0,94.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Flip-Flops,CHUPPS,899.0,699.0,3.0,26.0,0.7775305895439377,-0.25163229223781,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,DA NATURO ITALY,674.0,749.0,2.0,2.0,1.1112759643916914,0.10550887260491246,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,DUKE,549.0,499.0,22.0,8.0,0.9089253187613844,-0.09549234575801191,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,FOREVER 21,639.0,999.0,3.0,4.0,1.5633802816901408,0.4468503242710187,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,H&M,1299.0,2999.0,3.0,2.0,2.308698999230177,0.8366841620784095,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,HAVAIANAS,1249.0,1399.0,2.0,10.0,1.1200960768614892,0.11341446453990346,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,HUMMEL,999.0,999.0,2.0,5.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Flip-Flops,KOOK N KEECH,1149.0,1199.0,4.0,48.0,1.0435161009573541,0.042595877178758484,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,LIBERTY,549.0,449.0,18.0,4.0,0.8178506375227687,-0.20107555376727637,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,LONGWALK,499.0,499.0,3.0,2.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Flip-Flops,M7 BY METRONAUT,1349.0,924.0,2.0,4.0,0.6849518161601186,-0.37840678456607174,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,MAST & HARBOUR,1699.0,1199.0,28.0,30.0,0.7057092407298411,-0.3485519666444178,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,MAX,499.0,399.0,17.0,10.0,0.7995991983967936,-0.22364467886165518,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,MOCHI,1490.0,1690.0,4.0,2.0,1.1342281879194631,0.12595240897761437,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,NEOZ,999.0,849.0,7.0,4.0,0.8498498498498499,-0.16269559233720615,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,NIKE,2795.0,2545.0,2.0,6.0,0.9105545617173524,-0.09370145660457645,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,PAMPY ANGEL,999.0,799.0,31.0,33.0,0.7997997997997998,-0.2233938328822789,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,POWER,692.5,745.5,8.0,2.0,1.0765342960288808,0.07374689614329952,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,PUMA,1699.0,1149.0,54.0,14.0,0.6762801648028252,-0.3911478438231764,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,RED TAPE,1999.0,2999.0,3.0,5.0,1.5002501250625313,0.40563184424860904,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,REEBOK,1599.0,1299.0,4.0,5.0,0.8123827392120075,-0.20778369616335465,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,REFOAM,2299.0,1799.0,7.0,25.0,0.7825141365811222,-0.24524329081264842,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,ROADSTER,1799.0,999.0,14.0,21.0,0.5553085047248472,-0.5882314553019795,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,SHOEXPRESS,3049.0,1699.0,4.0,13.0,0.5572318793046901,-0.5847738253163227,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,SOLETHREADS,799.0,999.0,28.0,19.0,1.2503128911138923,0.22339383288227882,Women's version dearer
+Myntra,Adult,Footwear,Flip-Flops,TOMMY HILFIGER,2999.0,2999.0,17.0,25.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Flip-Flops,TRY ME,999.0,799.0,7.0,15.0,0.7997997997997998,-0.2233938328822789,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,UNITED COLORS OF BENETTON,1899.0,699.0,4.0,6.0,0.36808846761453395,-0.9994319685784756,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,WALKWAY,999.0,699.0,3.0,3.0,0.6996996996996997,-0.35710403641474325,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,WELCOME,699.0,599.0,5.0,3.0,0.8569384835479256,-0.15438914411836097,Men's version dearer
+Myntra,Adult,Footwear,Flip-Flops,YOHO,699.0,699.0,4.0,3.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Sports Shoes,ABROS,1599.0,999.0,37.0,7.0,0.624765478424015,-0.4703789341854008,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,ACTION,2299.0,2349.0,53.0,6.0,1.0217485863418878,0.021515459895731278,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,ADIDAS,4299.0,13999.0,56.0,12.0,3.2563386834147474,1.1806034609785436,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,AFROJACK,3745.0,3995.0,6.0,5.0,1.0667556742323097,0.0646219622490551,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,ASIAN,1299.0,999.0,181.0,24.0,0.76905311778291,-0.262595238022046,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,ASICS,11499.0,12999.0,12.0,5.0,1.1304461257500653,0.1226123563593544,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,BACCA BUCCI,2999.0,2999.0,28.0,10.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Sports Shoes,BUCIK,2799.0,3299.0,10.0,4.0,1.1786352268667382,0.16435718171312794,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,CAMPUS,1699.0,1449.0,220.0,34.0,0.8528546203649205,-0.15916617935124963,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,CHAMPS,1199.0,999.0,26.0,2.0,0.8331943286071727,-0.18248837637896068,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,CREW STREET,4299.0,3299.0,8.0,11.0,0.7673877645964178,-0.2647630452677001,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,DUKE,3445.0,2595.0,16.0,25.0,0.7532656023222061,-0.28333738784776996,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,FABBMATE,1499.0,1999.0,25.0,21.0,1.333555703802535,0.2878488363978023,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,FAUSTO,899.0,899.0,10.0,5.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Sports Shoes,FURO BY RED CHIEF,2120.0,2595.0,60.0,8.0,1.224056603773585,0.2021704279339309,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,HRX BY HRITHIK ROSHAN,4999.0,3699.0,53.0,54.0,0.7399479895979196,-0.3011753795811163,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,IMPAKTO,999.0,1279.0,19.0,13.0,1.2802802802802802,0.2470790229302891,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,KALENJI BY DECATHLON,2999.0,2399.0,9.0,5.0,0.7999333111037013,-0.22322691590931448,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,KHADIMS,1299.0,999.0,23.0,2.0,0.76905311778291,-0.262595238022046,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,LIBERTY,1499.0,1299.0,47.0,16.0,0.866577718478986,-0.14320348143199813,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,LONGWALK,1599.0,1499.0,2.0,37.0,0.9374609130706691,-0.06458021473135656,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,MAX,1099.0,1299.0,11.0,4.0,1.1819836214740673,0.16719406226697817,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,NEW BALANCE,5499.0,6999.0,5.0,22.0,1.2727768685215495,0.24120102418172504,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,NEWFEEL BY DECATHLON,1999.0,2299.0,8.0,12.0,1.1500750375187594,0.13982719026278148,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,NIKE,5695.0,10495.0,12.0,8.0,1.8428446005267778,0.6113103563734508,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,OFF LIMITS,2299.0,1999.0,75.0,31.0,0.8695084819486734,-0.13982719026278145,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,PERFLY BY DECATHLON,4499.0,3499.0,4.0,2.0,0.7777283840853523,-0.2513779364734843,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,PLAETO,2699.0,2699.0,2.0,2.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Footwear,Sports Shoes,POWER,2249.0,2499.0,22.0,21.0,1.1111605157847932,0.1054049788756367,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,PUMA,4499.0,7249.0,69.0,22.0,1.6112469437652812,0.4770083784597055,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,QUECHUA BY DECATHLON,4499.0,4249.0,7.0,8.0,0.944432096021338,-0.057171488726360756,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,RED TAPE,5499.0,6099.0,31.0,45.0,1.1091107474086197,0.10355856578864157,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,REEBOK,3599.0,3299.0,31.0,9.0,0.9166435120866907,-0.08703663685044932,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,REFOAM,9549.0,2999.0,15.0,2.0,0.3140642999266939,-1.1581575372011934,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,SHOEXPRESS,3999.0,3699.0,13.0,48.0,0.9249812453113279,-0.07798181701436434,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,SKECHERS,6499.0,5999.0,45.0,20.0,0.9230650869364517,-0.08005553024125582,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,SPARX,1349.0,1074.0,104.0,2.0,0.7961452928094885,-0.22797358113894586,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,TRASE,1399.0,1299.0,2.0,13.0,0.9285203716940672,-0.07416295799488162,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,UCLA,2499.0,1899.0,8.0,8.0,0.7599039615846338,-0.2745632200226666,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,UNDER ARMOUR,6499.0,6999.0,14.0,24.0,1.0769349130635482,0.0741189627951907,Women's version dearer
+Myntra,Adult,Footwear,Sports Shoes,XTEP,4999.0,4699.0,20.0,41.0,0.9399879975995199,-0.06188817231075465,Men's version dearer
+Myntra,Adult,Footwear,Sports Shoes,YUUKI,1999.0,1999.0,48.0,20.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Personal Care,Perfume,AJMAL,2200.0,1350.0,13.0,8.0,0.6136363636363636,-0.48835276791393206,Men's version dearer
+Myntra,Adult,Personal Care,Perfume,ARMAF,1699.0,924.5,11.0,6.0,0.5441436138905238,-0.6085420708447525,Men's version dearer
+Myntra,Adult,Personal Care,Perfume,BATH & BODY WORKS,1399.0,1499.0,4.0,11.0,1.071479628305933,0.06904052343711663,Women's version dearer
+Myntra,Adult,Personal Care,Perfume,CAROLINA HERRERA,7450.0,7200.0,2.0,3.0,0.9664429530201343,-0.03413300636945847,Men's version dearer
+Myntra,Adult,Personal Care,Perfume,COLOUR ME,699.0,1700.0,3.0,2.0,2.432045779685265,0.8887327878104972,Women's version dearer
+Myntra,Adult,Personal Care,Perfume,DAVIDOFF,4750.0,4600.0,7.0,5.0,0.968421052631579,-0.03208831455150051,Men's version dearer
+Myntra,Adult,Personal Care,Perfume,DOLCE & GABBANA,4900.0,7150.0,3.0,2.0,1.4591836734693877,0.3778771515893353,Women's version dearer
+Myntra,Adult,Personal Care,Perfume,ENGAGE,450.0,362.0,8.0,4.0,0.8044444444444444,-0.21760337093859444,Men's version dearer
+Myntra,Adult,Personal Care,Perfume,FOGG,650.0,574.5,8.0,4.0,0.8838461538461538,-0.12347226560087243,Men's version dearer
+Myntra,Adult,Personal Care,Perfume,GIORGIO ARMANI,7500.0,7950.0,4.0,3.0,1.06,0.058268908123975824,Women's version dearer
+Myntra,Adult,Personal Care,Perfume,GUESS,4400.0,4400.0,6.0,9.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Personal Care,Perfume,JIMMY CHOO,4500.0,5550.0,3.0,3.0,1.2333333333333334,0.2097205309820691,Women's version dearer
+Myntra,Adult,Personal Care,Perfume,LOMANI,1500.0,1450.0,6.0,2.0,0.9666666666666667,-0.03390155167568134,Men's version dearer
+Myntra,Adult,Personal Care,Perfume,MARKS & SPENCER,1099.0,2049.0,2.0,2.0,1.8644222020018197,0.6229511938352783,Women's version dearer
+Myntra,Adult,Personal Care,Perfume,MENJEWELL,599.0,599.0,6.0,6.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Personal Care,Perfume,PACO RABANNE,6100.0,6150.0,11.0,2.0,1.0081967213114753,0.008163310639160835,Within +/-2%
+Myntra,Adult,Personal Care,Perfume,POLICE,2900.0,2797.5,6.0,4.0,0.9646551724137931,-0.03598457578848514,Men's version dearer
+Myntra,Adult,Personal Care,Perfume,SKINN,1895.0,1595.0,15.0,12.0,0.841688654353562,-0.1723451022975818,Men's version dearer
+Myntra,Adult,Personal Care,Perfume,ST. JOHN,499.0,499.0,8.0,3.0,1.0,0.0,Within +/-2%
+Myntra,Adult,Personal Care,Perfume,THE BODY SHOP,1745.0,1045.0,2.0,5.0,0.5988538681948424,-0.5127376702376161,Men's version dearer
+Myntra,Adult,Personal Care,Perfume,UNITED COLORS OF BENETTON,1850.0,1600.0,10.0,6.0,0.8648648648648649,-0.14518200984449783,Men's version dearer
+Myntra,Adult,Personal Care,Perfume,VERSACE,6450.0,7250.0,5.0,4.0,1.124031007751938,0.11692133805890229,Women's version dearer
+Myntra,Kids,Apparel,Clothing Sets,ALLEN SOLLY JUNIOR,1599.0,1599.0,9.0,3.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Clothing Sets,BABY GO,999.0,1099.0,8.0,3.0,1.1001001001001,0.09540117575506782,Women's version dearer
+Myntra,Kids,Apparel,Clothing Sets,CUTIEKINS,1999.0,1999.0,3.0,34.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Clothing Sets,DEAR TO DAD,927.0,927.0,2.0,6.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Clothing Sets,H&M,1499.0,1299.0,19.0,58.0,0.866577718478986,-0.14320348143199813,Men's version dearer
+Myntra,Kids,Apparel,Clothing Sets,HOPSCOTCH,1239.0,1149.0,21.0,13.0,0.927360774818402,-0.07541260378038675,Men's version dearer
+Myntra,Kids,Apparel,Clothing Sets,KIDLING,1499.0,999.0,5.0,2.0,0.6664442961974649,-0.4057987194540443,Men's version dearer
+Myntra,Kids,Apparel,Clothing Sets,KINSEY,999.0,999.0,7.0,2.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Clothing Sets,LAZY SHARK,1499.0,1499.0,6.0,2.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Clothing Sets,M&H JUNIORS,1399.0,2499.0,3.0,3.0,1.7862759113652609,0.5801329561694711,Women's version dearer
+Myntra,Kids,Apparel,Clothing Sets,MINI KLUB,1499.0,1149.0,3.0,2.0,0.7665110073382255,-0.265906220253842,Men's version dearer
+Myntra,Kids,Apparel,Clothing Sets,NAUTI NATI,1499.0,1399.0,4.0,14.0,0.933288859239493,-0.06904052343711652,Men's version dearer
+Myntra,Kids,Apparel,Clothing Sets,NOTTIE PLANET,590.0,524.0,4.0,4.0,0.888135593220339,-0.11863085257872298,Men's version dearer
+Myntra,Kids,Apparel,Clothing Sets,PANTALOONS BABY,899.0,774.0,4.0,2.0,0.8609566184649611,-0.14971116088189315,Men's version dearer
+Myntra,Kids,Apparel,Clothing Sets,TINYO,449.0,449.0,26.0,4.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Clothing Sets,TOONYPORT,799.0,1699.0,4.0,5.0,2.126408010012516,0.7544341759056574,Women's version dearer
+Myntra,Kids,Apparel,Clothing Sets,YK,2249.0,1699.0,4.0,7.0,0.7554468652734548,-0.2804458302873837,Men's version dearer
+Myntra,Kids,Apparel,Jeans,ALLEN SOLLY JUNIOR,1899.0,1699.0,9.0,11.0,0.894681411269089,-0.1112875891403539,Men's version dearer
+Myntra,Kids,Apparel,Jeans,CHERRY CRUMBLE,2099.0,1949.0,4.0,2.0,0.9285373987613149,-0.07414462031307217,Men's version dearer
+Myntra,Kids,Apparel,Jeans,GINI AND JONY,1699.0,1499.0,7.0,7.0,0.8822836962919365,-0.12524162356933427,Men's version dearer
+Myntra,Kids,Apparel,Jeans,M&H JUNIORS,1599.0,1599.0,10.0,5.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Jeans,MAX,599.0,699.0,15.0,13.0,1.1669449081803005,0.1543891441183609,Women's version dearer
+Myntra,Kids,Apparel,Jeans,PANTALOONS JUNIOR,899.0,749.0,15.0,17.0,0.8331479421579533,-0.1825440509544008,Men's version dearer
+Myntra,Kids,Apparel,Jeans,TALES & STORIES,999.0,1199.0,15.0,2.0,1.2002002002002001,0.18248837637896068,Women's version dearer
+Myntra,Kids,Apparel,Jeans,U.S. POLO ASSN. KIDS,1699.0,1699.0,34.0,3.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Jeans,UNITED COLORS OF BENETTON,1999.0,1699.0,15.0,8.0,0.8499249624812406,-0.16260721282846805,Men's version dearer
+Myntra,Kids,Apparel,Jeans,UTH BY ROADSTER,1949.0,2099.0,4.0,15.0,1.076962544894818,0.07414462031307223,Women's version dearer
+Myntra,Kids,Apparel,Jeans,YK,1899.0,1999.0,12.0,5.0,1.0526592943654556,0.051319623688114255,Women's version dearer
+Myntra,Kids,Apparel,Kurta Sets,HOPSCOTCH,1349.0,2799.0,2.0,2.0,2.0748702742772425,0.7298986333076977,Women's version dearer
+Myntra,Kids,Apparel,Kurta Sets,KID1,2899.0,1999.0,2.0,2.0,0.6895481200413935,-0.3717187944212555,Men's version dearer
+Myntra,Kids,Apparel,Kurta Sets,LITTLE BANSI,2249.0,2875.0,3.0,2.0,1.2783459315251222,0.24556700127213507,Women's version dearer
+Myntra,Kids,Apparel,Kurta Sets,MAX,899.0,899.0,2.0,3.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Kurta Sets,SUPERMINIS,1799.0,1699.0,6.0,3.0,0.9444135630906059,-0.0571911122786011,Men's version dearer
+Myntra,Kids,Apparel,Kurta Sets,VASTRAMAY,2499.0,2999.0,43.0,4.0,1.200080032012805,0.1823882479140567,Women's version dearer
+Myntra,Kids,Apparel,Night Suits,ANTHRILO,874.0,1048.0,38.0,22.0,1.1990846681922196,0.18155848922545195,Women's version dearer
+Myntra,Kids,Apparel,Night Suits,CHERRY CRUMBLE,2399.0,2399.0,3.0,7.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Night Suits,ED-A-MAMMA,899.0,899.0,3.0,2.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Night Suits,FRANGIPANI,1049.0,1099.0,2.0,2.0,1.0476644423260248,0.046563346007324244,Women's version dearer
+Myntra,Kids,Apparel,Night Suits,HERE&NOW,1999.0,2199.0,8.0,2.0,1.1000500250125063,0.09535565605436112,Women's version dearer
+Myntra,Kids,Apparel,Night Suits,LILPICKS,1499.0,1499.0,4.0,4.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Night Suits,MAX,599.0,549.0,18.0,15.0,0.9165275459098498,-0.08716315660591872,Men's version dearer
+Myntra,Kids,Apparel,Night Suits,NAP CHIEF,1090.0,1490.0,3.0,5.0,1.3669724770642202,0.31259842371631547,Women's version dearer
+Myntra,Kids,Apparel,Night Suits,PANTALOONS JUNIOR,699.0,599.0,7.0,4.0,0.8569384835479256,-0.15438914411836097,Men's version dearer
+Myntra,Kids,Apparel,Night Suits,SWEET DREAMS,1369.0,1429.0,3.0,6.0,1.043827611395179,0.04289435264141854,Women's version dearer
+Myntra,Kids,Apparel,Shorts,BUMZEE,1049.0,1249.0,10.0,6.0,1.1906577693040992,0.17450590172928052,Women's version dearer
+Myntra,Kids,Apparel,Shorts,CHERRY CRUMBLE,1549.0,1599.0,11.0,9.0,1.0322788896061976,0.031768872417085675,Women's version dearer
+Myntra,Kids,Apparel,Shorts,ED-A-MAMMA,999.0,799.0,11.0,3.0,0.7997997997997998,-0.2233938328822789,Men's version dearer
+Myntra,Kids,Apparel,Shorts,GINI AND JONY,799.0,949.0,8.0,2.0,1.1877346683354193,0.1720478528436532,Women's version dearer
+Myntra,Kids,Apparel,Shorts,H&M,1299.0,999.0,60.0,34.0,0.76905311778291,-0.262595238022046,Men's version dearer
+Myntra,Kids,Apparel,Shorts,HERE&NOW,949.0,1799.0,5.0,2.0,1.8956796628029504,0.6395774353406052,Women's version dearer
+Myntra,Kids,Apparel,Shorts,HRX BY HRITHIK ROSHAN,1399.0,1399.0,23.0,14.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Shorts,JUNIORS BY LIFESTYLE,299.0,299.0,3.0,3.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Shorts,KIDDOPANTI,724.0,999.0,6.0,5.0,1.3798342541436464,0.3219633862628371,Women's version dearer
+Myntra,Kids,Apparel,Shorts,LILPICKS,1649.0,1249.0,4.0,4.0,0.7574287446937538,-0.27782581243402127,Men's version dearer
+Myntra,Kids,Apparel,Shorts,M&H JUNIORS,1199.0,899.0,6.0,2.0,0.749791492910759,-0.287960120555894,Men's version dearer
+Myntra,Kids,Apparel,Shorts,MARKS & SPENCER,999.0,949.0,5.0,2.0,0.94994994994995,-0.05134598003862564,Men's version dearer
+Myntra,Kids,Apparel,Shorts,MAX,499.0,329.0,25.0,3.0,0.6593186372745491,-0.4165483449861468,Men's version dearer
+Myntra,Kids,Apparel,Shorts,MOTHERCARE,1749.0,949.0,2.0,2.0,0.5425957690108634,-0.6113906764086742,Men's version dearer
+Myntra,Kids,Apparel,Shorts,PANTALOONS BABY,399.0,399.0,9.0,4.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Shorts,PANTALOONS JUNIOR,549.0,399.0,26.0,9.0,0.726775956284153,-0.31913702461966714,Men's version dearer
+Myntra,Kids,Apparel,Shorts,PLUM TREE,799.0,999.0,8.0,5.0,1.2503128911138923,0.22339383288227882,Women's version dearer
+Myntra,Kids,Apparel,Shorts,U.S. POLO ASSN. KIDS,1599.0,1299.0,22.0,2.0,0.8123827392120075,-0.20778369616335465,Men's version dearer
+Myntra,Kids,Apparel,Shorts,UNITED COLORS OF BENETTON,1699.0,999.0,17.0,8.0,0.5879929370217775,-0.5310403430233785,Men's version dearer
+Myntra,Kids,Apparel,Shorts,YK,1199.0,1399.0,7.0,15.0,1.1668056713928274,0.154269819637967,Women's version dearer
+Myntra,Kids,Apparel,Sweatshirts,ALLEN SOLLY JUNIOR,1399.0,1349.0,3.0,2.0,0.9642601858470335,-0.03639411845772535,Men's version dearer
+Myntra,Kids,Apparel,Sweatshirts,H&M,1299.0,1299.0,23.0,23.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Sweatshirts,LILPICKS,1249.0,1349.0,2.0,2.0,1.0800640512409927,0.07702034608217811,Women's version dearer
+Myntra,Kids,Apparel,T-Shirts,ALLEN SOLLY JUNIOR,899.0,799.0,43.0,28.0,0.8887652947719689,-0.1179220887053456,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,ANTHRILO,399.0,449.0,7.0,26.0,1.1253132832080202,0.11806147085239092,Women's version dearer
+Myntra,Kids,Apparel,T-Shirts,ED-A-MAMMA,699.0,624.0,17.0,26.0,0.8927038626609443,-0.11350037386438254,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,FAME FOREVER BY LIFESTYLE,299.0,299.0,12.0,5.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,T-Shirts,GINI AND JONY,799.0,524.0,23.0,6.0,0.655819774718398,-0.42186926144523246,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,H&M,799.0,799.0,54.0,36.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,T-Shirts,HERE&NOW,849.0,899.0,35.0,12.0,1.0588928150765606,0.057223848160272935,Women's version dearer
+Myntra,Kids,Apparel,T-Shirts,HRX BY HRITHIK ROSHAN,999.0,1199.0,28.0,25.0,1.2002002002002001,0.18248837637896068,Women's version dearer
+Myntra,Kids,Apparel,T-Shirts,KIDDEO,2499.0,1999.0,2.0,5.0,0.7999199679871949,-0.2232435963345523,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,KIDS VILLE,899.0,1199.0,11.0,2.0,1.3337041156840934,0.28796012055589393,Women's version dearer
+Myntra,Kids,Apparel,T-Shirts,KINSEY,899.0,799.0,5.0,3.0,0.8887652947719689,-0.1179220887053456,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,LUKE & LILLY,1999.0,2299.0,3.0,2.0,1.1500750375187594,0.13982719026278148,Women's version dearer
+Myntra,Kids,Apparel,T-Shirts,M&H JUNIORS,699.0,699.0,16.0,7.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,T-Shirts,MARKS & SPENCER,999.0,549.0,5.0,2.0,0.5495495495495496,-0.5986563371390228,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,MAX,249.0,249.0,119.0,63.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,T-Shirts,MINIONS BY KOOK N KEECH TEENS,799.0,674.0,3.0,2.0,0.8435544430538173,-0.17013083485396757,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,NYNSH- PLUSS KIDS,780.0,640.0,2.0,4.0,0.8205128205128205,-0.19782574332991992,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,PANTALOONS BABY,229.0,199.0,15.0,16.0,0.868995633187773,-0.14041717882974722,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,PANTALOONS JUNIOR,299.0,279.0,34.0,14.0,0.9331103678929766,-0.06923179156932074,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,PEPE JEANS,1049.0,1299.0,19.0,3.0,1.238322211630124,0.21375740827430242,Women's version dearer
+Myntra,Kids,Apparel,T-Shirts,TOMMY HILFIGER,2099.0,1349.0,4.0,6.0,0.6426869938065746,-0.4420974636128771,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,U.S. POLO ASSN. KIDS,1299.0,1199.0,45.0,5.0,0.9230177059276367,-0.08010686164308528,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,UNITED COLORS OF BENETTON,999.0,999.0,41.0,23.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,T-Shirts,UTH BY ROADSTER,999.0,699.0,42.0,60.0,0.6996996996996997,-0.35710403641474325,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,V-MART,475.0,330.0,2.0,5.0,0.6947368421052632,-0.3642221495741152,Men's version dearer
+Myntra,Kids,Apparel,T-Shirts,YK DISNEY,899.0,1930.0,13.0,21.0,2.1468298109010013,0.7639922474273111,Women's version dearer
+Myntra,Kids,Apparel,Track Pants,BUMZEE,1399.0,1549.0,6.0,2.0,1.1072194424588993,0.1018518657513875,Women's version dearer
+Myntra,Kids,Apparel,Track Pants,FAME FOREVER BY LIFESTYLE,799.0,599.0,2.0,6.0,0.7496871088861077,-0.28809934765082523,Men's version dearer
+Myntra,Kids,Apparel,Track Pants,GINI AND JONY,1199.0,1499.0,11.0,2.0,1.250208507089241,0.22331034307508346,Women's version dearer
+Myntra,Kids,Apparel,Track Pants,HRX BY HRITHIK ROSHAN,1699.0,1699.0,22.0,11.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Track Pants,KOOK N KEECH MARVEL TEENS,1499.0,1499.0,3.0,2.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Track Pants,MAX,724.0,1099.0,18.0,8.0,1.5179558011049723,0.41736456201790495,Women's version dearer
+Myntra,Kids,Apparel,Track Pants,PANTALOONS JUNIOR,999.0,499.0,13.0,10.0,0.4994994994994995,-0.6941486828970348,Men's version dearer
+Myntra,Kids,Apparel,Track Pants,U.S. POLO ASSN. KIDS,1349.0,1299.0,12.0,4.0,0.9629355077835434,-0.03776883953715628,Men's version dearer
+Myntra,Kids,Apparel,Track Pants,YK,2099.0,1399.0,7.0,7.0,0.6665078608861362,-0.40570334515515183,Men's version dearer
+Myntra,Kids,Apparel,Track Pants,YK DISNEY,2065.0,2220.0,3.0,4.0,1.0750605326876512,0.0723769694711919,Women's version dearer
+Myntra,Kids,Apparel,Trousers,ALLEN SOLLY JUNIOR,1549.0,1349.0,8.0,4.0,0.8708844415752098,-0.13824598420911272,Men's version dearer
+Myntra,Kids,Apparel,Trousers,H&M,1299.0,999.0,10.0,15.0,0.76905311778291,-0.262595238022046,Men's version dearer
+Myntra,Kids,Apparel,Trousers,MAX,899.0,499.0,15.0,3.0,0.5550611790878754,-0.5886769387201015,Men's version dearer
+Myntra,Kids,Apparel,Trousers,PANTALOONS BABY,599.0,599.0,5.0,3.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Apparel,Trousers,PANTALOONS JUNIOR,849.0,799.0,23.0,5.0,0.9411071849234394,-0.06069824054507262,Men's version dearer
+Myntra,Kids,Apparel,Trousers,UNITED COLORS OF BENETTON,1699.0,999.0,7.0,7.0,0.5879929370217775,-0.5310403430233785,Men's version dearer
+Myntra,Kids,Apparel,Trousers,YK,1299.0,999.0,2.0,5.0,0.76905311778291,-0.262595238022046,Men's version dearer
+Myntra,Kids,Footwear,Casual Shoes,BATA,1066.0,979.0,20.0,4.0,0.9183864915572233,-0.08513696219527943,Men's version dearer
+Myntra,Kids,Footwear,Casual Shoes,FAME FOREVER BY LIFESTYLE,1199.0,1199.0,3.0,5.0,1.0,0.0,Within +/-2%
+Myntra,Kids,Footwear,Casual Shoes,KIDS VILLE,699.0,849.0,7.0,4.0,1.2145922746781115,0.19440844407753696,Women's version dearer
+Myntra,Kids,Footwear,Casual Shoes,MAX,649.0,599.0,17.0,13.0,0.9229583975346687,-0.08017111858864069,Men's version dearer
+Myntra,Kids,Footwear,Casual Shoes,MINI KLUB,849.0,749.0,4.0,2.0,0.8822143698468787,-0.12532020279412778,Men's version dearer
+Myntra,Kids,Footwear,Casual Shoes,PANTALOONS JUNIOR,999.0,799.0,7.0,3.0,0.7997997997997998,-0.2233938328822789,Men's version dearer
+Myntra,Kids,Footwear,Casual Shoes,PUMA,2999.0,2399.0,5.0,2.0,0.7999333111037013,-0.22322691590931448,Men's version dearer
+Myntra,Kids,Footwear,Casual Shoes,SHOEXPRESS,3799.0,4299.0,2.0,8.0,1.1316135825217162,0.12364456330865592,Women's version dearer
+Myntra,Kids,Footwear,Casual Shoes,SKECHERS,3149.0,2399.0,4.0,14.0,0.7618291521117815,-0.2720329582613301,Men's version dearer
+Myntra,Kids,Footwear,Casual Shoes,TOOTHLESS,1449.0,999.0,2.0,4.0,0.6894409937888198,-0.3718741636721289,Men's version dearer
+Myntra,Kids,Footwear,Casual Shoes,YK,1899.0,1299.0,27.0,11.0,0.684044233807267,-0.37973269414168637,Men's version dearer
