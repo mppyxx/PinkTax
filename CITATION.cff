@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Pink Tax: A Data-Driven Analysis of Gender-Based Price Differences in Indian Online Retail"
+type: software
+authors:
+  - family-names: Shah
+    given-names: Kanishka
+    affiliation: "SAL Engineering and Technical Institute, Gujarat Technological University"
+repository-code: "https://github.com/mppyxx/PinkTax"
+url: "https://github.com/mppyxx/PinkTax"
+date-released: 2026-09-30
+abstract: >-
+  Tests whether products marketed to women in India cost more than comparable
+  products marketed to men, using 79,390 product listings (INR) from Myntra,
+  BigBasket and Amazon.in across 44 categories. Summer Internship (3170001)
+  project, B.E. Computer Science & Engineering, under the guidance of
+  Prof. Himani Patel.
+keywords:
+  - pink tax
+  - gender-based pricing
+  - data analysis
+  - e-commerce
+  - India

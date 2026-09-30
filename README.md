@@ -134,6 +134,14 @@ Google Colab / Jupyter · Microsoft Excel · Power BI · Git & GitHub
 - Listings are snapshots from 2022–2023 and show listed prices, not sales volumes.
 - Amazon brands are taken from the first word of the title.
 
+## Authors
+
+- **Kanishka Shah** – project author: research, data analysis, statistics, visualisation, Excel, Power BI and the internship report
+  (B.E. Computer Science & Engineering, SAL Engineering and Technical Institute, GTU)
+- **Prof. Himani Patel** – internal guide
+
+To cite this project, use the **"Cite this repository"** button in the sidebar (generated from [`CITATION.cff`](CITATION.cff)).
+
 ## References
 
 1. New York City Department of Consumer Affairs (2015). *From Cradle to Cane: The Cost of Being a Female Consumer.*
