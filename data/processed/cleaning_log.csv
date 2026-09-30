@@ -1,0 +1,8 @@
+source,step,rows
+Myntra,raw rows in scope,72914
+BigBasket,raw rows in scope,7273
+Amazon.in,raw rows in scope,62078
+all,after gender + category tagging,80008
+all,after removing zero / missing prices,79817
+all,after keeping comparable categories (>=15 per gender),79553
+all,after log-IQR outlier removal,79391

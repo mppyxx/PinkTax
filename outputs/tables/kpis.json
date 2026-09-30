@@ -1,0 +1,29 @@
+{
+  "products": 79390,
+  "categories": 44,
+  "brands": 2769,
+  "sources": [
+    "Amazon.in",
+    "BigBasket",
+    "Myntra"
+  ],
+  "cells_tested": 44,
+  "cells_women_more": 4,
+  "cells_men_more": 22,
+  "cells_no_gap": 18,
+  "median_cell_premium_pct": -11.050466483415615,
+  "matched_pairs": 860,
+  "pairs_women_dearer_pct": 27.209302325581397,
+  "pairs_men_dearer_pct": 54.418604651162795,
+  "pairs_geo_premium_pct": -5.899389042863978,
+  "fe_within_category_pct": -11.94546586963028,
+  "fe_within_brand_pct": -7.7023396141259415,
+  "discount_mean_women": 36.66634056410042,
+  "discount_mean_men": 32.90541660479201,
+  "discount_p": 5.82010066892094e-129,
+  "chi2_segment_outcome": {
+    "chi2": 37.03100243279607,
+    "dof": 6,
+    "p": 1.7365537755505614e-06
+  }
+}

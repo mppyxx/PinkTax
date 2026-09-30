@@ -1,0 +1,104 @@
+// =====================================================================
+//  Pink Tax dashboard - DAX measures
+//  Create a blank table called _Measures (Home > Enter data > OK) and
+//  add each measure below with Modeling > New measure.
+//  Tables: fact_products, dim_category, category_premium, brand_pairs
+// =====================================================================
+
+// ---------- counts -----------------------------------------------------
+Products = COUNTROWS ( fact_products )
+
+Products (Women) =
+CALCULATE ( [Products], fact_products[gender] = "Women" )
+
+Products (Men) =
+CALCULATE ( [Products], fact_products[gender] = "Men" )
+
+Share Women % =
+DIVIDE ( [Products (Women)], [Products] )
+
+// ---------- prices -----------------------------------------------------
+Median MRP (Women) =
+CALCULATE ( MEDIAN ( fact_products[mrp] ), fact_products[gender] = "Women" )
+
+Median MRP (Men) =
+CALCULATE ( MEDIAN ( fact_products[mrp] ), fact_products[gender] = "Men" )
+
+Pink Tax % (median MRP) =
+DIVIDE ( [Median MRP (Women)], [Median MRP (Men)] ) - 1
+
+Avg MRP (Women) =
+CALCULATE ( AVERAGE ( fact_products[mrp] ), fact_products[gender] = "Women" )
+
+Avg MRP (Men) =
+CALCULATE ( AVERAGE ( fact_products[mrp] ), fact_products[gender] = "Men" )
+
+Pink Tax % (average MRP) =
+DIVIDE ( [Avg MRP (Women)], [Avg MRP (Men)] ) - 1
+
+Median Selling (Women) =
+CALCULATE ( MEDIAN ( fact_products[selling_price] ), fact_products[gender] = "Women" )
+
+Median Selling (Men) =
+CALCULATE ( MEDIAN ( fact_products[selling_price] ), fact_products[gender] = "Men" )
+
+Pink Tax % (price paid) =
+DIVIDE ( [Median Selling (Women)], [Median Selling (Men)] ) - 1
+
+// ---------- unit price (Rs per 100 ml) --------------------------------
+Median Rs per 100ml (Women) =
+CALCULATE ( MEDIAN ( fact_products[unit_price_100] ),
+            fact_products[gender] = "Women", NOT ISBLANK ( fact_products[unit_price_100] ) )
+
+Median Rs per 100ml (Men) =
+CALCULATE ( MEDIAN ( fact_products[unit_price_100] ),
+            fact_products[gender] = "Men", NOT ISBLANK ( fact_products[unit_price_100] ) )
+
+Pink Tax % (per 100ml) =
+DIVIDE ( [Median Rs per 100ml (Women)], [Median Rs per 100ml (Men)] ) - 1
+
+// ---------- discounts --------------------------------------------------
+Avg Discount % (Women) =
+CALCULATE ( AVERAGE ( fact_products[discount_pct] ), fact_products[gender] = "Women" ) / 100
+
+Avg Discount % (Men) =
+CALCULATE ( AVERAGE ( fact_products[discount_pct] ), fact_products[gender] = "Men" ) / 100
+
+Discount Gap (pp) =
+( [Avg Discount % (Women)] - [Avg Discount % (Men)] ) * 100
+
+// ---------- statistical results (from category_premium) ---------------
+Categories Tested = COUNTROWS ( category_premium )
+
+Categories Women Pay More =
+CALCULATE ( COUNTROWS ( category_premium ), category_premium[direction] = "Women pay more" )
+
+Categories Men Pay More =
+CALCULATE ( COUNTROWS ( category_premium ), category_premium[direction] = "Men pay more" )
+
+// ---------- brand-matched pairs ----------------------------------------
+Matched Pairs = COUNTROWS ( brand_pairs )
+
+Pairs Women Dearer % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( brand_pairs ), brand_pairs[outcome] = "Women's version dearer" ),
+    [Matched Pairs] )
+
+Pairs Men Dearer % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( brand_pairs ), brand_pairs[outcome] = "Men's version dearer" ),
+    [Matched Pairs] )
+
+Brand-matched Gap % =
+EXP ( AVERAGE ( brand_pairs[log_ratio] ) ) - 1
+
+// ---------- formatting helpers ----------------------------------------
+Pink Tax Colour =
+VAR g = [Pink Tax % (median MRP)]
+RETURN SWITCH ( TRUE (), g > 0.02, "#D6457F", g < -0.02, "#2A78D6", "#B9B8B2" )
+
+Pink Tax Label =
+VAR g = [Pink Tax % (median MRP)]
+RETURN IF ( ISBLANK ( g ), BLANK (),
+            IF ( g > 0, "Women pay " & FORMAT ( g, "0%" ) & " more",
+                        "Men pay " & FORMAT ( -g, "0%" ) & " more" ) )
