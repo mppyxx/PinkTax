@@ -1,0 +1,34 @@
+{
+  "name": "Pink Tax",
+  "dataColors": [
+    "#d6457f",
+    "#2a78d6",
+    "#8a8983",
+    "#eb6834",
+    "#1baf7a",
+    "#4a3aa7"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F1F1D",
+  "tableAccent": "#d6457f",
+  "good": "#2a78d6",
+  "neutral": "#b9b8b2",
+  "bad": "#d6457f",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#1F1F1D"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#5C5B57"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 26,
+      "color": "#1F1F1D"
+    }
+  }
+}
