@@ -12,6 +12,14 @@ Markup used by the builder:
   ("pagebreak",)
 """
 
+STUDENT = {
+    "name": "Kanishka Shah",
+    "enrolment": "231260131051",
+    "guide": "Prof. Himani Patel",
+    "branch": "Computer Science & Engineering",
+    "hod": "Dr. Madhuri Parekh",
+}
+
 TITLE = "Pink Tax: A Data-Driven Analysis of Gender-Based Price Differences in Indian Online Retail"
 
 ABSTRACT = [
@@ -120,21 +128,15 @@ CHAPTER1 = [
     ("h2", "1.3 Tools & Technology used during Internship"),
     ("table", "Table 1.1: Tools and technologies used",
      ["Tool / Library", "Purpose in this project"],
-     [["Python 3.11", "Main programming language for the complete data pipeline"],
-      ["Google Colab / Jupyter", "Interactive notebooks for exploration and a shareable, reproducible analysis"],
-      ["NumPy", "Fast numerical operations, logarithms, bootstrap resampling"],
-      ["Pandas", "Loading, cleaning, merging, grouping and pivoting tabular data"],
+     [["Python 3.11 with Google Colab / Jupyter", "Main language and notebooks for the complete, reproducible data pipeline"],
+      ["NumPy and Pandas", "Numerical operations, bootstrap resampling; loading, cleaning, grouping and pivoting data"],
       ["Regular expressions (re)", "Extracting gender, category and pack size from product titles and URLs"],
-      ["Matplotlib & Seaborn", "Static publication-quality charts (box plots, dot plots, heatmaps)"],
-      ["Plotly", "Interactive chart with hover details"],
-      ["SciPy", "Mann-Whitney U, Welch t-test, Wilcoxon, binomial and chi-square tests"],
-      ["Statsmodels", "OLS and fixed-effects regression, clustered errors, FDR correction"],
+      ["Matplotlib, Seaborn and Plotly", "Publication-quality static charts and an interactive chart with hover details"],
+      ["SciPy and Statsmodels", "Mann-Whitney, Welch, Wilcoxon and chi-square tests; OLS / fixed-effects regression, FDR correction"],
       ["scikit-learn", "Random-forest price model, target encoding, permutation importance"],
-      ["OpenPyXL", "Generating the Excel workbook with formulas, tables and charts"],
-      ["Microsoft Excel", "COUNTIFS / AVERAGEIFS summaries, pivot-style tables, conditional formatting"],
+      ["Microsoft Excel and OpenPyXL", "Workbook with COUNTIFS / AVERAGEIFS summaries, pivot-style tables, conditional formatting"],
       ["Power BI", "Star-schema data model, DAX measures and an interactive dashboard"],
-      ["Git & GitHub", "Version control and publishing the project (github.com/mppyxx/PinkTax)"],
-      ["Kaggle", "Source of the three public datasets"]],
+      ["Git, GitHub and Kaggle", "Version control, publishing (github.com/mppyxx/PinkTax) and the data source"]],
      [2.0, 4.4]),
     ("h2", "1.4 Dataset Description"),
     ("p", "All data came from public Kaggle datasets, and every price is in Indian Rupees. The **MRP** "
@@ -360,7 +362,7 @@ DAYS = [
            "one axis. The box plots already hint that adult women's median prices are not higher than men's "
            "in apparel and footwear."),
      ("fig", F + "fig03_price_distribution.png", "Figure 2.10: MRP distribution by segment and gender (adults)", 6.0),
-     ("fig", S + "plotly_interactive.png", "Figure 2.11: Interactive Plotly chart with hover details", 5.0)],
+     ("fig", S + "plotly_interactive.png", "Figure 2.11: Interactive Plotly chart with hover details", 6.3, 4.6)],
     # ------------------------------------------------------------------ 10
     [("h2", "Day-10: Hypothesis Testing Across 44 Categories"),
      ("p", "**Objective:** test, category by category, whether women's and men's prices differ."),
@@ -469,7 +471,7 @@ DAYS = [
            "quick way to validate both."),
      ("fig", S + "excel_category_summary_zoom.png", "Figure 2.19: Category_Summary sheet with formulas and "
                                                "conditional formatting", 6.3),
-     ("fig", S + "excel_charts.png", "Figure 2.20: Native Excel charts", 5.2)],
+     ("fig", S + "excel_charts.png", "Figure 2.20: Native Excel charts", 6.3, 4.6)],
     # ------------------------------------------------------------------ 15
     [("h2", "Day-15: Power BI Dashboard, GitHub Publishing and Report"),
      ("p", "**Objective:** build an interactive dashboard and publish the complete project."),
