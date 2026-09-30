@@ -17,6 +17,16 @@ compares **79,390 real product listings** (₹) from **Myntra, BigBasket and Ama
 > (+78%), kids' clothing sets (+11%) and women's sports shoes (+5%). Personal-care products show **no
 > significant gap per 100 ml** once brand and pack size are held constant.
 
+### Quick links
+
+| | |
+|---|---|
+| 📄 Internship report | [PDF preview](report/PinkTax_Internship_Report.pdf) · [Word (.docx)](report/PinkTax_Internship_Report.docx) |
+| 📓 Analysis notebook | [PinkTax_Analysis.ipynb](notebooks/PinkTax_Analysis.ipynb) · [Open in Colab](https://colab.research.google.com/github/mppyxx/PinkTax/blob/main/notebooks/PinkTax_Analysis.ipynb) |
+| 📊 Excel workbook | [PinkTax_Analysis.xlsx](excel/PinkTax_Analysis.xlsx) |
+| 📈 Power BI | [Build guide](powerbi/PowerBI_Build_Guide.md) · [DAX measures](powerbi/DAX_measures.dax) · [data model](powerbi/data) |
+| 🧮 Results | [Charts](outputs/figures) · [Statistical tables](outputs/tables) · [Cleaned dataset](data/processed/pinktax_master.csv) |
+
 ![Category premium](outputs/figures/fig04_category_premium.png)
 
 ---
