@@ -1,0 +1,45 @@
+category_key,source,age_group,segment,category,n_men,n_women,median_men,median_women,mean_men,mean_women,premium_median_pct,premium_mean_pct,ci_low_pct,ci_high_pct,mannwhitney_U,p_mannwhitney,welch_t_log,p_welch_log,cohens_d_log,p_adj_bh,significant,direction
+Myntra | Kids | Night Suits,Myntra,Kids,Apparel,Night Suits,122,174,899.0,1599.0,1178.1557,1663.5345,77.8643,41.1982,36.6972,94.5495,14536.0,0.0,5.8265,0.0,0.6751,0.0,True,Women pay more
+Myntra | Adult | Innerwear (Briefs),Myntra,Adult,Apparel,Innerwear (Briefs),408,488,496.5,662.0,670.6716,767.625,33.3333,14.4562,24.1309,45.0997,122396.0,0.0,5.2899,0.0,0.3596,0.0,True,Women pay more
+Amazon.in | Adult | Face Wash,Amazon.in,Adult,Personal Care,Face Wash,95,31,360.0,450.0,507.6316,524.129,25.0,3.2499,0.0,42.9799,1768.5,0.0939,1.4118,0.1623,0.2462,0.1291,False,No significant gap
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,327,178,1499.0,1798.0,2452.1193,2937.4326,19.9466,19.7916,-3.5693,55.5638,31388.0,0.1447,1.3921,0.1648,0.1331,0.1873,False,No significant gap
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,121,119,1099.0,1299.0,1434.686,1594.8151,18.1984,11.1613,-9.0992,54.5951,8042.5,0.1161,1.5869,0.1139,0.2049,0.1548,False,No significant gap
+Amazon.in | Adult | Body Wash,Amazon.in,Adult,Personal Care,Body Wash,97,28,449.0,499.0,467.2162,578.5714,11.1359,23.8338,-0.2662,41.7162,1712.0,0.0361,2.1922,0.034,0.4863,0.0588,False,No significant gap
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,216,291,1349.0,1499.0,1395.338,1642.4536,11.1193,17.7101,4.8985,30.4696,39652.0,0.0,5.0581,0.0,0.4748,0.0,True,Women pay more
+Myntra | Adult | Sweaters,Myntra,Adult,Apparel,Sweaters,174,283,2299.0,2499.0,3164.954,2631.7774,8.6994,-16.8463,0.0,16.3137,24359.0,0.8486,-1.6706,0.0959,-0.1718,0.8683,False,No significant gap
+BigBasket | Adult | Deodorant,BigBasket,Adult,Personal Care,Deodorant,329,171,279.0,299.0,379.6809,619.8596,7.1685,63.2581,0.0,34.4534,31288.5,0.0391,3.5038,0.0005,0.3654,0.0599,False,No significant gap
+Myntra | Adult | Wallets,Myntra,Adult,Accessories,Wallets,507,735,1699.0,1799.0,1942.3393,2147.6272,5.8858,10.5691,-3.3734,12.5078,181385.5,0.4266,0.7068,0.4799,0.0386,0.4939,False,No significant gap
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,1988,882,2095.0,2199.0,2861.9386,3382.5873,4.9642,18.1922,-4.7642,29.8149,946807.0,0.0006,3.8763,0.0001,0.1648,0.0012,True,Women pay more
+Amazon.in | Adult | Shampoo,Amazon.in,Adult,Personal Care,Shampoo,60,25,522.0,539.0,788.3667,599.44,3.2567,-23.9643,-29.8725,33.2629,703.5,0.6571,-1.1231,0.2666,-0.2509,0.7051,False,No significant gap
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,140,96,1297.0,1300.0,1737.9,1699.7188,0.2313,-2.197,-29.648,62.7034,6964.0,0.6358,0.7762,0.4384,0.099,0.7051,False,No significant gap
+Myntra | Kids | Kurta Sets,Myntra,Kids,Apparel,Kurta Sets,151,205,2499.0,2499.0,2502.9139,2614.6537,0.0,4.4644,-8.0032,15.5625,16447.0,0.3117,0.9736,0.331,0.1035,0.3707,False,No significant gap
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,766,377,349.0,349.0,563.7933,497.7337,0.0,-11.717,-5.4201,0.0,134702.0,0.0647,-2.1874,0.029,-0.1344,0.0918,False,No significant gap
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,792,6023,1999.0,1996.0,2143.7462,2184.5275,-0.1501,1.9023,-5.0025,0.0,2287411.5,0.0604,-1.5906,0.112,-0.0511,0.0885,False,No significant gap
+Myntra | Kids | Track Pants,Myntra,Kids,Apparel,Track Pants,206,76,1340.0,1299.0,1478.1796,1242.8684,-3.0597,-15.919,-25.0179,4.403,6392.0,0.018,-3.0883,0.0025,-0.4557,0.0305,True,Men pay more
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,234,125,1699.0,1599.0,1599.5256,1546.352,-5.8858,-3.3243,-5.8858,5.8858,14379.0,0.7927,-1.1846,0.2374,-0.1376,0.8304,False,No significant gap
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,1533,805,1599.0,1499.0,1719.9922,1576.7143,-6.2539,-8.3301,-6.2539,-6.2539,555633.5,0.0001,-4.4451,0.0,-0.1951,0.0002,True,Men pay more
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,432,194,1199.0,1099.0,1228.1111,1100.9072,-8.3403,-10.3577,-20.016,11.1223,37600.0,0.0395,-2.2573,0.0246,-0.1963,0.0599,False,No significant gap
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,9282,922,2099.0,1899.0,2187.8919,2117.9414,-9.5283,-3.1972,-14.2925,-9.4271,3765095.0,0.0,-4.0674,0.0001,-0.1572,0.0,True,Men pay more
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,1885,910,1899.0,1698.0,2147.3167,1785.9901,-10.5845,-16.8269,-15.7978,-10.5319,664002.5,0.0,-9.8122,0.0,-0.3888,0.0,True,Men pay more
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,2238,1378,959.5,849.0,1401.513,1776.0658,-11.5164,26.7249,-19.2532,-1.2736,1503097.5,0.202,0.7528,0.4516,0.0271,0.2492,False,No significant gap
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,3946,2621,2599.0,2299.0,2862.3614,2555.3571,-11.5429,-10.7256,-11.5429,-8.04,4364983.0,0.0,-11.0824,0.0,-0.2748,0.0,True,Men pay more
+Amazon.in | Adult | Trimmer,Amazon.in,Adult,Personal Care,Trimmer,356,151,999.0,878.0,1299.2714,1041.7836,-12.1121,-19.8179,-25.025,-2.3688,22012.0,0.0012,-3.381,0.0008,-0.311,0.0023,True,Men pay more
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,1119,1273,5999.0,5200.0,9102.1403,6998.4823,-13.3189,-23.1117,-29.0158,-0.9555,648885.5,0.0002,-4.1819,0.0,-0.1732,0.0004,True,Men pay more
+Myntra | Kids | Sweatshirts,Myntra,Kids,Apparel,Sweatshirts,87,51,1499.0,1299.0,1421.0805,1424.7647,-13.3422,0.2593,-13.3422,7.6982,2115.0,0.6474,0.0032,0.9974,0.0006,0.7051,False,No significant gap
+Myntra | Kids | Trousers,Myntra,Kids,Apparel,Trousers,117,63,1299.0,1099.0,1262.6838,1292.6508,-15.3965,2.3733,-28.5919,30.03,3719.5,0.9198,0.0948,0.9247,0.0152,0.9198,False,No significant gap
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,1014,845,1199.0,999.0,1341.6578,1233.5669,-16.6806,-8.0565,-23.0947,8.7443,399416.5,0.0116,-2.3602,0.0184,-0.109,0.0205,True,Men pay more
+Amazon.in | Adult | Razor,Amazon.in,Adult,Personal Care,Razor,157,83,599.0,498.0,1001.2676,671.2812,-16.8614,-32.9569,-42.8367,-6.6778,4449.5,0.0001,-3.6152,0.0004,-0.4836,0.0001,True,Men pay more
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,2750,2128,2299.0,1899.0,2415.0862,2026.4939,-17.3989,-16.0902,-21.7486,-17.3989,1994980.0,0.0,-18.706,0.0,-0.558,0.0,True,Men pay more
+Myntra | Adult | Lounge Pants,Myntra,Adult,Apparel,Lounge Pants,189,399,1290.0,1049.0,1314.2011,1221.1203,-18.6822,-7.0827,-23.0947,-8.6739,32550.5,0.0073,-2.9863,0.003,-0.2495,0.0134,True,Men pay more
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,673,370,2299.0,1849.0,2709.2704,2023.8405,-19.5737,-25.2994,-25.0104,-13.0492,81890.5,0.0,-9.8615,0.0,-0.5981,0.0,True,Men pay more
+Myntra | Adult | Socks,Myntra,Adult,Apparel,Socks,268,84,499.0,399.0,544.8134,485.7857,-20.0401,-10.8345,-30.0601,-8.016,7962.5,0.0,-3.0244,0.0031,-0.4238,0.0001,True,Men pay more
+Myntra | Adult | Night Suits,Myntra,Adult,Apparel,Night Suits,90,1351,2399.0,1899.0,2416.5444,1968.4449,-20.842,-18.543,-28.5816,-9.3182,39277.5,0.0,-6.9057,0.0,-0.6308,0.0,True,Men pay more
+Myntra | Adult | Tracksuits,Myntra,Adult,Apparel,Tracksuits,78,74,3995.0,3149.0,3978.9487,3213.7297,-21.1765,-19.2317,-25.3374,3.8971,1886.5,0.0002,-4.9347,0.0,-0.8093,0.0005,True,Men pay more
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,997,481,899.0,699.0,1060.9478,774.5239,-22.2469,-26.997,-30.03,-16.6852,177115.0,0.0,-7.2383,0.0,-0.3824,0.0,True,Men pay more
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,9383,3778,1299.0,999.0,1425.5288,1140.4328,-23.0947,-19.9993,-23.0947,-23.0947,13222124.5,0.0,-23.7822,0.0,-0.4492,0.0,True,Men pay more
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,3287,1066,3299.0,2490.0,3614.7551,2986.1163,-24.5226,-17.3909,-30.9402,-24.2498,1282715.0,0.0,-11.8386,0.0,-0.4599,0.0,True,Men pay more
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,1055,814,3999.0,2999.0,4945.8256,3602.1806,-25.0063,-27.1673,-28.5804,-20.005,274964.5,0.0,-12.7672,0.0,-0.5915,0.0,True,Men pay more
+Myntra | Adult | Sunglasses,Myntra,Adult,Accessories,Sunglasses,100,119,2949.0,1995.0,3742.1,2517.5798,-32.3499,-32.7228,-38.9624,-26.5614,3269.0,0.0,-5.1277,0.0,-0.7019,0.0,True,Men pay more
+Myntra | Adult | Blazers,Myntra,Adult,Apparel,Blazers,356,143,6995.0,4499.0,6795.6517,5044.7762,-35.6826,-25.7646,-42.8633,-17.0979,14181.5,0.0,-9.3149,0.0,-1.2665,0.0,True,Men pay more
+Myntra | Adult | Belts,Myntra,Adult,Accessories,Belts,564,250,1999.0,1147.0,2047.3316,1404.624,-42.6213,-31.3925,-50.025,-35.0175,31017.5,0.0,-12.7616,0.0,-1.0813,0.0,True,Men pay more
+Amazon.in | Adult | Hair Removal Cream,Amazon.in,Adult,Personal Care,Hair Removal Cream,16,25,594.0,270.0,568.75,410.368,-54.5455,-27.8474,-77.1429,53.1034,152.0,0.2039,-1.3917,0.1735,-0.4447,0.2492,False,No significant gap

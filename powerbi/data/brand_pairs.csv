@@ -1,0 +1,861 @@
+category_key,source,age_group,segment,category,brand,median_men,median_women,n_men,n_women,ratio,log_ratio,outcome
+Amazon.in | Adult | Body Wash,Amazon.in,Adult,Personal Care,Body Wash,NIVEA,449.0,411.5,30.0,6.0,0.9165,-0.0872,Men's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,AJMAL,399.0,399.0,15.0,9.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,ANTONIO,595.0,500.0,5.0,2.0,0.8403,-0.174,Men's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,ARMAF,349.0,349.0,37.0,33.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,BELLA,249.0,299.0,6.0,3.0,1.2008,0.183,Women's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,BEVERLY,1724.0,299.0,5.0,5.0,0.1734,-1.752,Men's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,CARLTON,890.0,716.0,3.0,3.0,0.8045,-0.2175,Men's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,CFS,262.5,412.5,2.0,2.0,1.5714,0.452,Women's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,CHRIS,250.0,262.5,2.0,4.0,1.05,0.0488,Women's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,COLORBAR,249.0,249.0,4.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,DOVE,734.5,425.0,16.0,11.0,0.5786,-0.5471,Men's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,EMBARK,345.0,345.0,2.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,ENGAGE,225.0,249.0,11.0,9.0,1.1067,0.1014,Women's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,ENVY,220.0,220.0,12.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,FOGG,275.0,275.0,42.0,13.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,ITAL,349.0,699.0,2.0,3.0,2.0029,0.6946,Women's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,JUST,325.0,310.0,2.0,2.0,0.9538,-0.0473,Men's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,LA,799.0,799.0,7.0,6.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,LAFZ,225.0,225.0,5.0,8.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,LAYERR,249.0,296.0,14.0,4.0,1.1888,0.1729,Women's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,NIKE,369.0,369.0,9.0,12.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,NIVEA,429.0,285.0,56.0,20.0,0.6643,-0.409,Men's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,PLAYBOY,374.0,349.0,6.0,6.0,0.9332,-0.0692,Men's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,RASASI,349.0,349.0,16.0,16.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,REYANE,895.0,895.0,2.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,RIIFFS,275.0,499.0,9.0,5.0,1.8145,0.5958,Women's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,RIYA,352.5,500.0,2.0,2.0,1.4184,0.3496,Women's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,SAPIL,299.0,299.0,6.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,SKINN,1695.0,499.0,3.0,3.0,0.2944,-1.2228,Men's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,SUGANDH,330.0,330.0,2.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,THE FRENCH,1049.0,1074.0,3.0,2.0,1.0238,0.0236,Women's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,TOP,180.0,180.0,3.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,UNITED,479.5,525.0,4.0,3.0,1.0949,0.0907,Women's version dearer
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,WOODSMOKES,1500.0,1500.0,2.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,YARDLEY,225.0,225.0,26.0,13.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Deodorant,Amazon.in,Adult,Personal Care,Deodorant,ZM,250.0,225.0,5.0,2.0,0.9,-0.1054,Men's version dearer
+Amazon.in | Adult | Face Wash,Amazon.in,Adult,Personal Care,Face Wash,NIVEA,424.5,245.0,14.0,4.0,0.5771,-0.5497,Men's version dearer
+Amazon.in | Adult | Hair Removal Cream,Amazon.in,Adult,Personal Care,Hair Removal Cream,VEET,145.0,135.0,3.0,5.0,0.931,-0.0715,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ACO,335.0,320.0,10.0,7.0,0.9552,-0.0458,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ADIVEDA,799.0,799.0,4.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,AIDIN,999.0,999.0,2.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,AJMAL,1750.0,1526.0,211.0,112.0,0.872,-0.137,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,AL,399.0,545.0,12.0,3.0,1.3659,0.3118,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ALL,1140.0,990.0,4.0,3.0,0.8684,-0.1411,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ARMAF,1975.0,1800.0,43.0,20.0,0.9114,-0.0928,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ARRAS,712.0,699.0,4.0,4.0,0.9817,-0.0184,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ATHENIA,999.0,999.0,2.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,AVON,1365.02,1024.0,3.0,6.0,0.7502,-0.2875,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,BELLA,799.0,834.5,7.0,8.0,1.0444,0.0435,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,BELLCURY,449.0,449.0,8.0,9.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,BERGAMOT,411.0,411.0,3.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,BIOTIQUE,1114.0,822.0,2.0,2.0,0.7379,-0.304,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,BN,430.0,430.0,35.0,18.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,BRYAN,350.0,750.0,4.0,8.0,2.1429,0.7621,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,BURBERRY,7950.0,10450.0,2.0,4.0,1.3145,0.2734,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,CALVIN,4823.46,5707.5,3.0,2.0,1.1833,0.1683,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,CARLTON,375.0,612.0,3.0,14.0,1.632,0.4898,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,CFS,405.0,405.0,3.0,9.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,CICCIO,799.0,599.0,2.0,2.0,0.7497,-0.2881,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,CORE,999.0,999.0,2.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,DANIEL,990.0,1099.0,2.0,3.0,1.1101,0.1045,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,DORALL,599.0,599.0,6.0,13.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,EM5,899.0,899.0,31.0,8.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,EMBARK,845.0,1093.0,7.0,6.0,1.2935,0.2573,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,EMPER,1500.0,1225.0,3.0,4.0,0.8167,-0.2025,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ENGAGE,540.0,385.0,15.0,18.0,0.713,-0.3383,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ENVY,299.0,324.0,7.0,4.0,1.0836,0.0803,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ESTIARA,999.0,1149.0,3.0,2.0,1.1502,0.1399,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ESXENSE,699.0,699.0,3.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,EXOTIX,877.0,999.0,15.0,2.0,1.1391,0.1302,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,EZE,695.0,695.0,3.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,FASTRACK,495.0,895.0,2.0,4.0,1.8081,0.5923,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,FERNWEH,564.0,904.0,2.0,2.0,1.6028,0.4718,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,FORMLESS,798.0,636.0,3.0,5.0,0.797,-0.2269,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,FRAGRANCE,499.0,499.0,7.0,5.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,FRAGRANTIA,299.0,499.0,7.0,4.0,1.6689,0.5122,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,FRANCK,2000.0,2250.0,3.0,2.0,1.125,0.1178,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,FRENCH,749.0,999.0,4.0,4.0,1.3338,0.288,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,GIORGIO,9499.0,8549.0,3.0,4.0,0.9,-0.1054,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,GLEEVERS,1109.0,1059.0,10.0,14.0,0.9549,-0.0461,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,GUESS,2520.0,3130.0,2.0,6.0,1.2421,0.2168,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,HAMIDI,369.0,1934.5,6.0,2.0,5.2425,1.6568,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,HUGO,6999.0,6375.0,7.0,10.0,0.9108,-0.0934,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ILDELA,2000.0,1000.0,15.0,6.0,0.5,-0.6931,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ISSEY,5430.0,8225.0,5.0,4.0,1.5147,0.4152,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,JANNATUL,600.0,500.0,16.0,2.0,0.8333,-0.1823,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,JAZZY,1784.0,799.0,4.0,3.0,0.4479,-0.8033,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,JD,414.5,430.0,4.0,2.0,1.0374,0.0367,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,JOHN,999.0,749.0,11.0,2.0,0.7497,-0.288,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,JOVAN,1085.0,1100.0,3.0,3.0,1.0138,0.0137,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,KAOREE,979.0,999.0,6.0,4.0,1.0204,0.0202,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,LACOSTE,6624.0,3585.0,4.0,2.0,0.5412,-0.6139,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,LAFZ,849.0,599.0,2.0,2.0,0.7055,-0.3488,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,LARMAAN,252.0,414.0,6.0,4.0,1.6429,0.4964,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,LATTAFA,1419.5,1586.5,8.0,4.0,1.1176,0.1112,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,LIBERTY,2349.0,999.0,6.0,5.0,0.4253,-0.855,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,LOMANI,799.0,3377.0,9.0,2.0,4.2265,1.4414,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,LYLA,799.0,499.0,8.0,3.0,0.6245,-0.4708,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,MANASIK,430.0,430.0,4.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,MARYAJ,884.715,699.0,16.0,10.0,0.7901,-0.2356,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,MB,708.0,850.0,2.0,6.0,1.2006,0.1828,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,MENJEWELL,449.0,449.0,30.0,32.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,MERCEDESBENZ,5355.0,4445.0,6.0,4.0,0.8301,-0.1863,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,MINISO,510.0,430.0,4.0,8.0,0.8431,-0.1706,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,MOCEMSA,999.0,2122.5,13.0,8.0,2.1246,0.7536,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,MYDOUX,699.0,699.0,5.0,8.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,NASEEM,1500.0,1675.0,5.0,6.0,1.1167,0.1103,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,NEW NB,549.0,549.0,4.0,7.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,NIKE,996.5,942.5,8.0,12.0,0.9458,-0.0557,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,OSCAR,255.0,195.0,8.0,11.0,0.7647,-0.2683,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,OSR,257.0,263.0,7.0,2.0,1.0233,0.0231,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,PACO,5050.0,6200.0,3.0,5.0,1.2277,0.2052,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,PARAG,999.0,699.0,439.0,57.0,0.6997,-0.3571,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,PARIS,862.0,862.0,4.0,23.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,PERFUMERS,595.5,599.0,8.0,8.0,1.0059,0.0059,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,PETER,300.0,300.0,2.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,POLICE,2292.5,2460.0,2.0,8.0,1.0731,0.0705,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,PRADA,12000.0,12400.0,3.0,3.0,1.0333,0.0328,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,RAMCO,422.0,660.0,7.0,5.0,1.564,0.4472,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,RAMSONS,525.0,360.0,12.0,7.0,0.6857,-0.3773,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,RASASI,1354.0,1162.5,31.0,26.0,0.8586,-0.1525,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,RIHANAH,1260.0,1260.0,17.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,RIIFFS,1299.0,1125.0,29.0,24.0,0.8661,-0.1438,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,RIYA,440.0,440.0,35.0,30.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,SALVATORE,5734.0,8063.0,4.0,3.0,1.4062,0.3409,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,SAPIL,1324.5,1154.0,2.0,5.0,0.8713,-0.1378,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,SCENTICE,789.0,789.0,3.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,SCNTED,490.0,490.0,3.0,4.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,SKINN,1705.0,1705.0,11.0,13.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,STJOHN,499.0,749.0,6.0,2.0,1.501,0.4061,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,SUGANDHCO,780.0,560.0,3.0,7.0,0.7179,-0.3314,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,SUGANDHVYAPAR,430.0,340.0,3.0,2.0,0.7907,-0.2348,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,THE ROSE,400.0,609.0,4.0,2.0,1.5225,0.4204,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,TITAN,2335.0,2020.0,5.0,2.0,0.8651,-0.1449,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,TOMMY,3390.0,3640.0,2.0,3.0,1.0737,0.0712,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,TREE,599.0,599.0,5.0,5.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ULRIC,907.0,867.5,3.0,2.0,0.9564,-0.0445,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,UNITED,2800.0,2699.5,3.0,2.0,0.9641,-0.0366,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,VEGAS,299.0,299.0,2.0,2.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,VINCE,5250.0,5750.0,3.0,5.0,1.0952,0.091,Women's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,WOODSMOKES,1500.0,1500.0,2.0,6.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,WPC,374.5,299.0,4.0,3.0,0.7984,-0.2251,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,YARDLEY,649.0,364.5,9.0,12.0,0.5616,-0.5769,Men's version dearer
+Amazon.in | Adult | Perfume,Amazon.in,Adult,Personal Care,Perfume,ZAIEN,989.0,989.0,3.0,3.0,1.0,0.0,Within +/-2%
+Amazon.in | Adult | Razor,Amazon.in,Adult,Personal Care,Razor,GILLETTE,524.5,675.0,8.0,7.0,1.2869,0.2523,Women's version dearer
+Amazon.in | Adult | Razor,Amazon.in,Adult,Personal Care,Razor,KAI,262.0,332.5,2.0,2.0,1.2691,0.2383,Women's version dearer
+Amazon.in | Adult | Razor,Amazon.in,Adult,Personal Care,Razor,LETSSHAVE,698.0,797.0,13.0,5.0,1.1418,0.1326,Women's version dearer
+Amazon.in | Adult | Trimmer,Amazon.in,Adult,Personal Care,Trimmer,AGARO,599.0,1046.5,3.0,2.0,1.7471,0.5579,Women's version dearer
+Amazon.in | Adult | Trimmer,Amazon.in,Adult,Personal Care,Trimmer,CLEANFLY,527.0,449.0,2.0,2.0,0.852,-0.1602,Men's version dearer
+Amazon.in | Adult | Trimmer,Amazon.in,Adult,Personal Care,Trimmer,VEGA,999.0,1079.0,17.0,2.0,1.0801,0.077,Women's version dearer
+BigBasket | Adult | Deodorant,BigBasket,Adult,Personal Care,Deodorant,ALL GOOD SCENTS,844.5,450.0,2.0,3.0,0.5329,-0.6295,Men's version dearer
+BigBasket | Adult | Deodorant,BigBasket,Adult,Personal Care,Deodorant,ARMAF,437.5,500.0,2.0,10.0,1.1429,0.1335,Women's version dearer
+BigBasket | Adult | Deodorant,BigBasket,Adult,Personal Care,Deodorant,ENGAGE,210.0,299.0,16.0,14.0,1.4238,0.3533,Women's version dearer
+BigBasket | Adult | Deodorant,BigBasket,Adult,Personal Care,Deodorant,FOGG,275.0,460.0,34.0,12.0,1.6727,0.5145,Women's version dearer
+BigBasket | Adult | Deodorant,BigBasket,Adult,Personal Care,Deodorant,NIKE,279.0,279.0,37.0,34.0,1.0,0.0,Within +/-2%
+BigBasket | Adult | Deodorant,BigBasket,Adult,Personal Care,Deodorant,NIVEA,199.0,209.0,3.0,13.0,1.0503,0.049,Women's version dearer
+BigBasket | Adult | Deodorant,BigBasket,Adult,Personal Care,Deodorant,RASASI,299.0,299.0,6.0,3.0,1.0,0.0,Within +/-2%
+BigBasket | Adult | Deodorant,BigBasket,Adult,Personal Care,Deodorant,REXONA,195.0,135.0,3.0,4.0,0.6923,-0.3677,Men's version dearer
+BigBasket | Adult | Deodorant,BigBasket,Adult,Personal Care,Deodorant,SPINZ,200.0,190.0,4.0,8.0,0.95,-0.0513,Men's version dearer
+BigBasket | Adult | Deodorant,BigBasket,Adult,Personal Care,Deodorant,YARDLEY LONDON,398.0,597.0,10.0,7.0,1.5,0.4055,Women's version dearer
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,AJMAL,1800.0,1500.0,21.0,16.0,0.8333,-0.1823,Men's version dearer
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,DKNY,5550.0,3500.0,2.0,6.0,0.6306,-0.461,Men's version dearer
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,DORALL COLLECTION,599.0,599.0,19.0,17.0,1.0,0.0,Within +/-2%
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,EMBARK,1595.0,1145.0,6.0,2.0,0.7179,-0.3315,Men's version dearer
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,ENGAGE,279.5,999.0,6.0,5.0,3.5742,1.2738,Women's version dearer
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,GUESS,3990.0,3990.0,5.0,3.0,1.0,0.0,Within +/-2%
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,MARYAJ,1669.0,1569.0,5.0,5.0,0.9401,-0.0618,Men's version dearer
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,NIKE,798.0,798.0,13.0,8.0,1.0,0.0,Within +/-2%
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,POLICE,2900.0,2450.0,5.0,7.0,0.8448,-0.1686,Men's version dearer
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,SKINN BY TITAN,1595.0,1795.0,5.0,7.0,1.1254,0.1181,Women's version dearer
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,UNITED COLORS OF BENETTON,1900.0,1400.0,3.0,3.0,0.7368,-0.3054,Men's version dearer
+BigBasket | Adult | Perfume,BigBasket,Adult,Personal Care,Perfume,YARDLEY LONDON,674.0,1300.0,6.0,3.0,1.9288,0.6569,Women's version dearer
+Myntra | Adult | Belts,Myntra,Adult,Accessories,Belts,BUCKLEUP,3249.0,1899.0,11.0,4.0,0.5845,-0.537,Men's version dearer
+Myntra | Adult | Belts,Myntra,Adult,Accessories,Belts,CALVADOSS,1198.0,999.0,19.0,20.0,0.8339,-0.1817,Men's version dearer
+Myntra | Adult | Belts,Myntra,Adult,Accessories,Belts,KASTNER,1999.0,1199.0,40.0,40.0,0.5998,-0.5112,Men's version dearer
+Myntra | Adult | Belts,Myntra,Adult,Accessories,Belts,MAST & HARBOUR,1299.0,799.0,7.0,21.0,0.6151,-0.486,Men's version dearer
+Myntra | Adult | Belts,Myntra,Adult,Accessories,Belts,ROADSTER,1499.0,949.0,8.0,2.0,0.6331,-0.4571,Men's version dearer
+Myntra | Adult | Belts,Myntra,Adult,Accessories,Belts,TEAKWOOD LEATHERS,2249.0,1499.0,26.0,2.0,0.6665,-0.4057,Men's version dearer
+Myntra | Adult | Belts,Myntra,Adult,Accessories,Belts,URBAN ALFAMI,1499.0,999.0,3.0,2.0,0.6664,-0.4058,Men's version dearer
+Myntra | Adult | Belts,Myntra,Adult,Accessories,Belts,ZEVORA,2499.0,1499.0,17.0,6.0,0.5998,-0.5111,Men's version dearer
+Myntra | Adult | Sunglasses,Myntra,Adult,Accessories,Sunglasses,CARLTON LONDON,1645.0,2595.0,16.0,10.0,1.5775,0.4558,Women's version dearer
+Myntra | Adult | Sunglasses,Myntra,Adult,Accessories,Sunglasses,IDEE,3080.0,2880.0,6.0,2.0,0.9351,-0.0671,Men's version dearer
+Myntra | Adult | Sunglasses,Myntra,Adult,Accessories,Sunglasses,LEE COOPER,2899.0,1899.0,18.0,4.0,0.6551,-0.423,Men's version dearer
+Myntra | Adult | Sunglasses,Myntra,Adult,Accessories,Sunglasses,TOMMY HILFIGER,7990.0,7990.0,10.0,2.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Sunglasses,Myntra,Adult,Accessories,Sunglasses,VOYAGE,3000.0,1800.0,3.0,25.0,0.6,-0.5108,Men's version dearer
+Myntra | Adult | Wallets,Myntra,Adult,Accessories,Wallets,ALLEN SOLLY,1399.0,1299.0,44.0,27.0,0.9285,-0.0742,Men's version dearer
+Myntra | Adult | Wallets,Myntra,Adult,Accessories,Wallets,BAGGIT,790.0,1290.0,18.0,244.0,1.6329,0.4904,Women's version dearer
+Myntra | Adult | Wallets,Myntra,Adult,Accessories,Wallets,DA MILANO,2999.0,4499.0,43.0,14.0,1.5002,0.4056,Women's version dearer
+Myntra | Adult | Wallets,Myntra,Adult,Accessories,Wallets,HIDESIGN,2195.0,3195.0,27.0,75.0,1.4556,0.3754,Women's version dearer
+Myntra | Adult | Wallets,Myntra,Adult,Accessories,Wallets,MAST & HARBOUR,1349.0,1899.0,6.0,29.0,1.4077,0.342,Women's version dearer
+Myntra | Adult | Wallets,Myntra,Adult,Accessories,Wallets,TEAKWOOD LEATHERS,1999.0,2499.0,9.0,4.0,1.2501,0.2232,Women's version dearer
+Myntra | Adult | Wallets,Myntra,Adult,Accessories,Wallets,TOMMY HILFIGER,2999.0,4999.0,74.0,56.0,1.6669,0.511,Women's version dearer
+Myntra | Adult | Wallets,Myntra,Adult,Accessories,Wallets,VAN HEUSEN,1499.0,1499.0,58.0,24.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,ARMANI EXCHANGE,14495.0,12995.0,39.0,18.0,0.8965,-0.1092,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,CALVIN KLEIN,22650.0,17900.0,2.0,9.0,0.7903,-0.2354,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,CASIO,7295.0,7995.0,97.0,23.0,1.096,0.0916,Women's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,DANIEL KLEIN,5500.0,4825.0,40.0,72.0,0.8773,-0.1309,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,DANIEL WELLINGTON,19799.0,15499.0,8.0,41.0,0.7828,-0.2449,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,EMPORIO ARMANI,21995.0,14495.0,11.0,6.0,0.659,-0.417,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,FASTRACK,2295.0,2295.0,71.0,59.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,FOSSIL,11995.0,9995.0,105.0,109.0,0.8333,-0.1824,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,FRENCH CONNECTION,5450.0,6950.0,3.0,92.0,1.2752,0.2431,Women's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,GUESS,12900.0,12500.0,33.0,55.0,0.969,-0.0315,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,HAMT,2899.0,2899.0,8.0,5.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,HELIX,1995.0,2195.0,3.0,6.0,1.1003,0.0955,Women's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,HYMT,2999.0,2499.0,3.0,2.0,0.8333,-0.1824,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,KOOK N KEECH,1999.0,1999.0,6.0,2.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,LACOSTE,11950.0,11625.0,15.0,7.0,0.9728,-0.0276,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,LOIS CARON,1899.0,1799.0,22.0,10.0,0.9473,-0.0541,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,MAST & HARBOUR,3249.0,3299.0,24.0,8.0,1.0154,0.0153,Within +/-2%
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,MICHAEL KORS,21995.0,18495.0,2.0,48.0,0.8409,-0.1733,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,MVMT,11760.0,10752.0,22.0,25.0,0.9143,-0.0896,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,PUMA,4995.0,4995.0,4.0,3.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,RAGE ENTERPRISE,1499.0,999.0,2.0,9.0,0.6664,-0.4058,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,RELISH,849.0,699.0,4.0,3.0,0.8233,-0.1944,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,ROADSTER,3099.0,2699.0,56.0,2.0,0.8709,-0.1382,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,SKAGEN,11995.0,9495.0,5.0,10.0,0.7916,-0.2337,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,SONATA,1099.0,999.0,43.0,31.0,0.909,-0.0954,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,STRAND BY OBAKU,4995.0,5245.0,3.0,4.0,1.0501,0.0488,Women's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,SWADESI STUFF,1750.0,1995.0,3.0,7.0,1.14,0.131,Women's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,TIMESMITH,2499.0,2499.0,6.0,6.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,TIMEX,2895.0,3595.0,53.0,46.0,1.2418,0.2166,Women's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,TITAN,3665.0,4195.0,114.0,91.0,1.1446,0.1351,Women's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,TOMMY HILFIGER,10122.5,10995.0,58.0,27.0,1.0862,0.0827,Women's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,TRYST,9149.0,7199.0,2.0,12.0,0.7869,-0.2397,Men's version dearer
+Myntra | Adult | Watches,Myntra,Adult,Accessories,Watches,WM,2499.0,2499.0,3.0,4.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Innerwear (Briefs),Myntra,Adult,Apparel,Innerwear (Briefs),DOLLAR,375.0,570.0,2.0,8.0,1.52,0.4187,Women's version dearer
+Myntra | Adult | Innerwear (Briefs),Myntra,Adult,Apparel,Innerwear (Briefs),H&M,2299.0,1299.0,5.0,14.0,0.565,-0.5709,Men's version dearer
+Myntra | Adult | Innerwear (Briefs),Myntra,Adult,Apparel,Innerwear (Briefs),HRX BY HRITHIK ROSHAN,1199.0,749.0,6.0,15.0,0.6247,-0.4705,Men's version dearer
+Myntra | Adult | Innerwear (Briefs),Myntra,Adult,Apparel,Innerwear (Briefs),JOCKEY,378.0,265.0,105.0,72.0,0.7011,-0.3552,Men's version dearer
+Myntra | Adult | Innerwear (Briefs),Myntra,Adult,Apparel,Innerwear (Briefs),MARKS & SPENCER,2299.0,1499.0,3.0,11.0,0.652,-0.4277,Men's version dearer
+Myntra | Adult | Innerwear (Briefs),Myntra,Adult,Apparel,Innerwear (Briefs),MAST & HARBOUR,999.0,999.0,3.0,22.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Innerwear (Briefs),Myntra,Adult,Apparel,Innerwear (Briefs),MAX,374.0,349.0,2.0,9.0,0.9332,-0.0692,Men's version dearer
+Myntra | Adult | Innerwear (Briefs),Myntra,Adult,Apparel,Innerwear (Briefs),ROADSTER,999.0,999.0,9.0,13.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Innerwear (Briefs),Myntra,Adult,Apparel,Innerwear (Briefs),VAN HEUSEN,259.0,469.0,11.0,9.0,1.8108,0.5938,Women's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,ALCIS,1649.0,1649.0,2.0,2.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,AMERICAN EAGLE OUTFITTERS,2999.0,6499.0,5.0,2.0,2.1671,0.7734,Women's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,ASICS,5999.0,4499.0,3.0,2.0,0.75,-0.2877,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,CAMPUS SUTRA,2599.0,2699.0,26.0,6.0,1.0385,0.0378,Women's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,CHKOKKO,3649.0,3164.5,10.0,4.0,0.8672,-0.1425,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,CL SPORT,1999.0,3999.0,2.0,4.0,2.0005,0.6934,Women's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,COLUMBIA,9999.0,10499.0,9.0,4.0,1.05,0.0488,Women's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,DUKE,2549.0,3899.0,8.0,13.0,1.5296,0.425,Women's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,FLYING MACHINE,4499.0,3699.0,7.0,2.0,0.8222,-0.1958,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,FORCLAZ BY DECATHLON,2999.0,3699.0,8.0,7.0,1.2334,0.2098,Women's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,FURRYFLAIR,1999.0,1499.0,3.0,9.0,0.7499,-0.2878,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,GANT,22999.0,20499.0,11.0,2.0,0.8913,-0.1151,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,H&M,3999.0,2699.0,7.0,23.0,0.6749,-0.3932,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,HARVARD,2699.0,2699.0,4.0,5.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,HERE&NOW,5099.0,4999.0,37.0,12.0,0.9804,-0.0198,Within +/-2%
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,HIGH STAR,2299.0,1999.0,11.0,6.0,0.8695,-0.1398,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,HRX BY HRITHIK ROSHAN,4499.0,3999.0,57.0,16.0,0.8889,-0.1178,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,JUSTANNED,19998.0,15998.0,7.0,5.0,0.8,-0.2232,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,KOOK N KEECH,3099.0,2549.0,2.0,8.0,0.8225,-0.1954,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,LEATHER RETAIL,3999.0,3999.0,19.0,17.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,LEVIS,5999.0,5499.0,5.0,7.0,0.9167,-0.087,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,MARKS & SPENCER,5999.0,3499.0,4.0,4.0,0.5833,-0.5391,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,MAST & HARBOUR,3299.0,2999.0,36.0,20.0,0.9091,-0.0953,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,MONTE CARLO,4795.0,3995.0,3.0,5.0,0.8332,-0.1825,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,MONTREZ,2499.0,1999.0,3.0,4.0,0.7999,-0.2232,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,OKANE,3449.0,3699.0,5.0,9.0,1.0725,0.07,Women's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,PEPE JEANS,4999.0,3499.0,5.0,3.0,0.6999,-0.3568,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,PERFKT-U,3333.0,2399.0,6.0,4.0,0.7198,-0.3288,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,PUMA,4999.0,4499.0,76.0,24.0,0.9,-0.1054,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,QUECHUA BY DECATHLON,1749.0,1199.0,14.0,11.0,0.6855,-0.3776,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,ROADSTER,2899.0,3199.0,33.0,89.0,1.1035,0.0985,Women's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,SPYKAR,4999.0,4149.0,11.0,2.0,0.83,-0.1864,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,WOODLAND,7995.0,7495.0,16.0,4.0,0.9375,-0.0646,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,WOODS,20495.0,18745.0,2.0,2.0,0.9146,-0.0893,Men's version dearer
+Myntra | Adult | Jackets,Myntra,Adult,Apparel,Jackets,ZALORA BASICS,3349.0,3399.0,12.0,11.0,1.0149,0.0148,Within +/-2%
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,ABOF,1799.0,1499.0,12.0,9.0,0.8332,-0.1824,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,AEROPOSTALE,3299.0,1599.0,10.0,2.0,0.4847,-0.7242,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,AMERICAN EAGLE OUTFITTERS,3999.0,3999.0,50.0,31.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,BEING HUMAN,3299.0,2399.0,16.0,2.0,0.7272,-0.3186,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,CALVIN KLEIN JEANS,9999.0,8999.0,11.0,5.0,0.9,-0.1054,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,CAMPUS SUTRA,1899.0,1899.0,26.0,10.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,CHEROKEE,1149.0,1199.0,6.0,6.0,1.0435,0.0426,Women's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,CODE 61,3399.0,2899.0,10.0,22.0,0.8529,-0.1591,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,ETHER,1999.0,1899.0,26.0,22.0,0.95,-0.0513,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,FLYING MACHINE,2499.0,1999.0,381.0,25.0,0.7999,-0.2232,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,FOREVER 21,1799.0,1949.0,31.0,16.0,1.0834,0.0801,Women's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,GANT,9499.0,8499.0,12.0,2.0,0.8947,-0.1112,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,H&M,2699.0,2299.0,3.0,15.0,0.8518,-0.1604,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,HARVARD,1898.0,1898.0,38.0,47.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,HERE&NOW,2199.0,2299.0,240.0,22.0,1.0455,0.0445,Women's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,HIGH STAR,1514.0,1849.0,24.0,136.0,1.2213,0.1999,Women's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,HUBBERHOLME,1699.0,1699.0,7.0,11.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,INSTAFAB PLUS,2499.0,2499.0,4.0,4.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,IVOC,1799.0,1799.0,14.0,6.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,KOOK N KEECH,2299.0,2299.0,27.0,7.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,LEVIS,4399.0,3799.0,156.0,88.0,0.8636,-0.1466,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,M&H OUR WATER,2599.0,2499.0,8.0,9.0,0.9615,-0.0392,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,MARKS & SPENCER,2999.0,2999.0,15.0,6.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,MAST & HARBOUR,1899.0,1999.0,123.0,42.0,1.0527,0.0513,Women's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,MAX,999.0,1099.0,15.0,15.0,1.1001,0.0954,Women's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,MODA RAPIDO,2599.0,2499.0,59.0,13.0,0.9615,-0.0392,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,MONTE CARLO,2599.0,2499.0,3.0,6.0,0.9615,-0.0392,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,NAUTICA,4999.0,3899.0,18.0,8.0,0.78,-0.2485,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,PARIS HAMILTON,1999.0,1999.0,8.0,27.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,PEOPLE,1499.0,1399.0,24.0,34.0,0.9333,-0.069,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,PEPE JEANS,3999.0,2799.0,107.0,43.0,0.6999,-0.3568,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,PLUSS,2890.0,3189.5,2.0,4.0,1.1036,0.0986,Women's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,ROADSTER,1999.0,2399.0,463.0,338.0,1.2001,0.1824,Women's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,SF JEANS BY PANTALOONS,1999.0,2199.0,5.0,8.0,1.1001,0.0954,Women's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,SPYKAR,3199.0,2499.0,144.0,46.0,0.7812,-0.2469,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,SZTORI,2299.0,2199.0,11.0,6.0,0.9565,-0.0445,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,TRENDYOL,3799.0,3599.0,20.0,17.0,0.9474,-0.0541,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,UNITED COLORS OF BENETTON,3499.0,2999.0,38.0,7.0,0.8571,-0.1542,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,V-MART,1025.0,799.0,26.0,15.0,0.7795,-0.2491,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,WOODLAND,3995.0,3695.0,10.0,6.0,0.9249,-0.0781,Men's version dearer
+Myntra | Adult | Jeans,Myntra,Adult,Apparel,Jeans,ZALORA BASICS,3049.0,2899.0,4.0,25.0,0.9508,-0.0504,Men's version dearer
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,ANOUK,1999.0,1899.0,69.0,449.0,0.95,-0.0513,Men's version dearer
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,ENCHANTED DRAPES,1300.0,1300.0,6.0,6.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,FABINDIA,1499.0,3290.0,23.0,165.0,2.1948,0.7861,Women's version dearer
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,HOUSE OF PATAUDI,2499.0,2199.0,83.0,67.0,0.88,-0.1279,Men's version dearer
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,INDO ERA,2599.0,2199.0,8.0,97.0,0.8461,-0.1671,Men's version dearer
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,JOMPERS,1999.0,1499.0,58.0,27.0,0.7499,-0.2878,Men's version dearer
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,MAX,599.0,599.0,4.0,128.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,ODE BY HOUSE OF PATAUDI,1499.0,1499.0,52.0,31.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,SEE DESIGNS,2199.0,1299.0,22.0,4.0,0.5907,-0.5264,Men's version dearer
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,SZTORI,2199.0,1899.0,7.0,16.0,0.8636,-0.1467,Men's version dearer
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,TAAVI,2899.0,2799.0,11.0,13.0,0.9655,-0.0351,Men's version dearer
+Myntra | Adult | Kurtas,Myntra,Adult,Apparel,Kurtas,V-MART,550.0,549.0,2.0,25.0,0.9982,-0.0018,Within +/-2%
+Myntra | Adult | Lounge Pants,Myntra,Adult,Apparel,Lounge Pants,BEWAKOOF,1599.0,1174.0,3.0,4.0,0.7342,-0.309,Men's version dearer
+Myntra | Adult | Lounge Pants,Myntra,Adult,Apparel,Lounge Pants,ETC,1424.0,1074.0,4.0,56.0,0.7542,-0.2821,Men's version dearer
+Myntra | Adult | Lounge Pants,Myntra,Adult,Apparel,Lounge Pants,HYPERNATION,1199.0,1199.0,2.0,4.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Lounge Pants,Myntra,Adult,Apparel,Lounge Pants,JOCKEY,1199.0,899.0,6.0,10.0,0.7498,-0.288,Men's version dearer
+Myntra | Adult | Lounge Pants,Myntra,Adult,Apparel,Lounge Pants,MAX,599.0,499.0,2.0,21.0,0.8331,-0.1827,Men's version dearer
+Myntra | Adult | Lounge Pants,Myntra,Adult,Apparel,Lounge Pants,OKANE,799.0,910.0,16.0,22.0,1.1389,0.1301,Women's version dearer
+Myntra | Adult | Lounge Pants,Myntra,Adult,Apparel,Lounge Pants,SWEET DREAMS,1184.0,1049.0,18.0,14.0,0.886,-0.1211,Men's version dearer
+Myntra | Adult | Lounge Pants,Myntra,Adult,Apparel,Lounge Pants,URBAN SCOTTISH,1499.0,1899.0,19.0,17.0,1.2668,0.2365,Women's version dearer
+Myntra | Adult | Lounge Pants,Myntra,Adult,Apparel,Lounge Pants,VIMAL JONNEY,1798.0,2299.0,4.0,4.0,1.2786,0.2458,Women's version dearer
+Myntra | Adult | Night Suits,Myntra,Adult,Apparel,Night Suits,FLUFFALUMP,1749.0,2000.0,18.0,8.0,1.1435,0.1341,Women's version dearer
+Myntra | Adult | Night Suits,Myntra,Adult,Apparel,Night Suits,MARKS & SPENCER,2999.0,2499.0,14.0,14.0,0.8333,-0.1824,Men's version dearer
+Myntra | Adult | Night Suits,Myntra,Adult,Apparel,Night Suits,MAST & HARBOUR,2099.0,1649.0,9.0,8.0,0.7856,-0.2413,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,AMERICAN EAGLE OUTFITTERS,2599.0,2299.0,36.0,5.0,0.8846,-0.1227,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,CAMPUS SUTRA,1499.0,1399.0,44.0,5.0,0.9333,-0.069,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,CRIMSOUNE CLUB,1699.0,1499.0,3.0,6.0,0.8823,-0.1252,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,DEFACTO,2799.0,2949.0,9.0,8.0,1.0536,0.0522,Women's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,FOREVER 21,1499.0,1399.0,19.0,9.0,0.9333,-0.069,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,GANT,6999.0,6499.0,41.0,2.0,0.9286,-0.0741,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,H&M,1999.0,1499.0,17.0,16.0,0.7499,-0.2878,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,HANCOCK,1999.0,2099.0,90.0,56.0,1.05,0.0488,Women's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,HARVARD,1498.0,1599.0,65.0,9.0,1.0674,0.0652,Women's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,HERE&NOW,1999.0,1199.0,187.0,2.0,0.5998,-0.5112,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,HIGH STAR,1549.0,1199.0,2.0,2.0,0.774,-0.2561,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,KOOK N KEECH,1999.0,1899.0,9.0,3.0,0.95,-0.0513,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,LEVIS,2799.0,2799.0,84.0,7.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,MARKS & SPENCER,2799.0,2999.0,39.0,15.0,1.0715,0.069,Women's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,MAST & HARBOUR,1899.0,1299.0,294.0,11.0,0.684,-0.3797,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,MAX,999.0,749.0,31.0,6.0,0.7497,-0.288,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,PARK AVENUE,2199.0,1799.0,135.0,3.0,0.8181,-0.2008,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,PEOPLE,1149.0,999.0,17.0,4.0,0.8695,-0.1399,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,PEPE JEANS,2599.0,1999.0,77.0,23.0,0.7691,-0.2625,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,PLUSS,2780.0,1849.0,23.0,8.0,0.6651,-0.4078,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,ROADSTER,1699.0,1499.0,546.0,98.0,0.8823,-0.1252,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,SHAFTESBURY LONDON,2099.0,1999.0,16.0,10.0,0.9524,-0.0488,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,THE SOULED STORE,1999.0,1499.0,12.0,2.0,0.7499,-0.2878,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,TOMMY HILFIGER,4599.0,3999.0,46.0,3.0,0.8695,-0.1398,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,TRENDYOL,1899.0,1799.0,55.0,5.0,0.9473,-0.0541,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,UNITED COLORS OF BENETTON,2899.0,2299.0,138.0,3.0,0.793,-0.2319,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,VAN HEUSEN,2599.0,2099.0,163.0,4.0,0.8076,-0.2137,Men's version dearer
+Myntra | Adult | Shirts,Myntra,Adult,Apparel,Shirts,ZALORA BASICS,2699.0,2499.0,21.0,2.0,0.9259,-0.077,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,ADIDAS,2999.0,2299.0,6.0,3.0,0.7666,-0.2658,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,AEROPOSTALE,1999.0,1699.0,5.0,2.0,0.8499,-0.1626,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,AJILE BY PANTALOONS,899.0,499.0,17.0,8.0,0.5551,-0.5887,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,AMERICAN EAGLE OUTFITTERS,2999.0,2749.0,6.0,2.0,0.9166,-0.087,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,ARISE,1299.0,999.0,29.0,3.0,0.7691,-0.2626,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,CHKOKKO,1832.0,2330.0,6.0,7.0,1.2718,0.2405,Women's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,DEFACTO,1849.0,1299.0,8.0,4.0,0.7025,-0.3531,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,DOMYOS BY DECATHLON,799.0,999.0,11.0,3.0,1.2503,0.2234,Women's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,FILA,1499.0,1749.0,3.0,2.0,1.1668,0.1542,Women's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,FOREVER 21,1099.0,999.0,13.0,13.0,0.909,-0.0954,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,H&M,1499.0,1299.0,42.0,47.0,0.8666,-0.1432,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,HERE&NOW,1399.0,999.0,3.0,2.0,0.7141,-0.3368,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,HIGH STAR,949.0,1199.0,3.0,5.0,1.2634,0.2338,Women's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,HRX BY HRITHIK ROSHAN,1599.0,1499.0,91.0,52.0,0.9375,-0.0646,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,HYPERNATION,1199.0,1199.0,12.0,12.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,KAPPA,999.0,699.0,7.0,2.0,0.6997,-0.3571,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,MARKS & SPENCER,1999.0,2499.0,12.0,8.0,1.2501,0.2232,Women's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,MAST & HARBOUR,1699.0,1399.0,18.0,18.0,0.8234,-0.1943,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,MAX,799.0,499.0,25.0,10.0,0.6245,-0.4708,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,NIKE,2395.0,2095.0,21.0,13.0,0.8747,-0.1338,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,ORIGIN BY ZALORA,3699.0,3299.0,3.0,2.0,0.8919,-0.1144,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,PEOPLE,1299.0,1049.0,5.0,4.0,0.8075,-0.2138,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,PEPE JEANS,2799.0,2049.0,7.0,4.0,0.732,-0.3119,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,PUMA,2499.0,2499.0,125.0,24.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,REEBOK,1799.0,1499.0,17.0,3.0,0.8332,-0.1824,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,ROADSTER,1299.0,1499.0,7.0,53.0,1.154,0.1432,Women's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,SZTORI,1749.0,1399.0,14.0,8.0,0.7999,-0.2233,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,THE SOULED STORE,999.0,999.0,5.0,6.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,TOMMY HILFIGER,3999.0,2799.0,4.0,4.0,0.6999,-0.3568,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,TRENDYOL,1699.0,1449.0,25.0,6.0,0.8529,-0.1592,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,UNDER ARMOUR,2999.0,2499.0,29.0,7.0,0.8333,-0.1824,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,V-MART,639.0,599.0,4.0,7.0,0.9374,-0.0646,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,WOODLAND,2795.0,2295.0,2.0,2.0,0.8211,-0.1971,Men's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,ZALORA ACTIVE,2199.0,2249.0,2.0,4.0,1.0227,0.0225,Women's version dearer
+Myntra | Adult | Shorts,Myntra,Adult,Apparel,Shorts,ZALORA BASICS,2699.0,2299.0,3.0,7.0,0.8518,-0.1604,Men's version dearer
+Myntra | Adult | Socks,Myntra,Adult,Apparel,Socks,ADIDAS,549.0,474.0,34.0,2.0,0.8634,-0.1469,Men's version dearer
+Myntra | Adult | Socks,Myntra,Adult,Apparel,Socks,BALENZIA,599.0,674.0,16.0,6.0,1.1252,0.118,Women's version dearer
+Myntra | Adult | Socks,Myntra,Adult,Apparel,Socks,HRX BY HRITHIK ROSHAN,599.0,549.0,14.0,11.0,0.9165,-0.0872,Men's version dearer
+Myntra | Adult | Socks,Myntra,Adult,Apparel,Socks,HUSH PUPPIES,529.0,549.0,4.0,2.0,1.0378,0.0371,Women's version dearer
+Myntra | Adult | Socks,Myntra,Adult,Apparel,Socks,MAX,349.0,299.0,8.0,14.0,0.8567,-0.1546,Men's version dearer
+Myntra | Adult | Socks,Myntra,Adult,Apparel,Socks,REEBOK,399.0,499.0,9.0,3.0,1.2506,0.2236,Women's version dearer
+Myntra | Adult | Sweaters,Myntra,Adult,Apparel,Sweaters,ETHER,1699.0,1699.0,10.0,7.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Sweaters,Myntra,Adult,Apparel,Sweaters,FOREVER 21,1799.0,1399.0,2.0,3.0,0.7777,-0.2515,Men's version dearer
+Myntra | Adult | Sweaters,Myntra,Adult,Apparel,Sweaters,GANT,10249.0,8999.0,16.0,2.0,0.878,-0.1301,Men's version dearer
+Myntra | Adult | Sweaters,Myntra,Adult,Apparel,Sweaters,H&M,2299.0,1499.0,25.0,33.0,0.652,-0.4277,Men's version dearer
+Myntra | Adult | Sweaters,Myntra,Adult,Apparel,Sweaters,MAST & HARBOUR,1949.0,1699.0,4.0,5.0,0.8717,-0.1373,Men's version dearer
+Myntra | Adult | Sweaters,Myntra,Adult,Apparel,Sweaters,PEPE JEANS,2199.0,2499.0,3.0,2.0,1.1364,0.1279,Women's version dearer
+Myntra | Adult | Sweaters,Myntra,Adult,Apparel,Sweaters,ROADSTER,1749.0,1499.0,24.0,8.0,0.8571,-0.1542,Men's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,CAMPUS SUTRA,1699.0,1849.0,25.0,2.0,1.0883,0.0846,Women's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,DUKE,1045.0,1445.0,2.0,4.0,1.3828,0.3241,Women's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,ETHER,1849.0,1599.0,10.0,4.0,0.8648,-0.1453,Men's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,FAME FOREVER BY LIFESTYLE,1299.0,1049.0,3.0,4.0,0.8075,-0.2138,Men's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,H&M,1999.0,1499.0,41.0,81.0,0.7499,-0.2878,Men's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,HARVARD,1799.0,2398.0,2.0,2.0,1.333,0.2874,Women's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,HERE&NOW,2149.0,1999.0,19.0,5.0,0.9302,-0.0724,Men's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,KAPPA,1899.0,1299.0,2.0,3.0,0.684,-0.3797,Men's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,KOOK N KEECH DISNEY,2049.0,2149.0,2.0,2.0,1.0488,0.0477,Women's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,LEVIS,2699.0,2799.0,15.0,6.0,1.0371,0.0364,Women's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,MARKS & SPENCER,3499.0,2749.0,2.0,4.0,0.7857,-0.2412,Men's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,MAST & HARBOUR,1899.0,1599.0,31.0,17.0,0.842,-0.1719,Men's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,MONTE CARLO,1422.5,1845.0,2.0,5.0,1.297,0.2601,Women's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,PEPE JEANS,2449.0,2399.0,6.0,5.0,0.9796,-0.0206,Men's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,PUMA,3799.0,3499.0,81.0,15.0,0.921,-0.0823,Men's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,ROADSTER,1599.0,1599.0,27.0,26.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,STYLE QUOTIENT,1849.0,1299.0,2.0,3.0,0.7025,-0.3531,Men's version dearer
+Myntra | Adult | Sweatshirts,Myntra,Adult,Apparel,Sweatshirts,SZTORI,2599.0,2449.0,6.0,6.0,0.9423,-0.0594,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,ADIDAS,2299.0,2299.0,52.0,15.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,ADIDAS ORIGINALS,2649.0,2399.0,10.0,4.0,0.9056,-0.0991,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,AEROPOSTALE,1199.0,1199.0,35.0,39.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,AJILE BY PANTALOONS,399.0,449.0,30.0,17.0,1.1253,0.1181,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,ALCIS,1299.0,1199.0,19.0,11.0,0.923,-0.0801,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,AMERICAN EAGLE OUTFITTERS,1599.0,1599.0,79.0,6.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,ARMISTO,899.0,799.0,10.0,18.0,0.8888,-0.1179,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,ASICS,1599.0,1299.0,22.0,12.0,0.8124,-0.2078,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,BEVERLY HILLS POLO CLUB,2999.0,1899.0,9.0,3.0,0.6332,-0.457,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,BEWAKOOF,999.0,999.0,59.0,21.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,CAMPUS SUTRA,1199.0,799.0,59.0,9.0,0.6664,-0.4059,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,CHKOKKO,1665.0,1999.0,48.0,12.0,1.2006,0.1828,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,CRIMSOUNE CLUB,1399.0,999.0,3.0,11.0,0.7141,-0.3368,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,CULTSPORT,1299.0,1699.0,5.0,2.0,1.3079,0.2684,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,DEFACTO,2299.0,1399.0,9.0,11.0,0.6085,-0.4967,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,DIFFERENCE OF OPINION,1299.0,1299.0,49.0,45.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,DILLINGER,1249.0,1199.0,39.0,120.0,0.96,-0.0409,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,DISRUPT,1099.0,799.0,4.0,7.0,0.727,-0.3188,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,DOMYOS BY DECATHLON,699.0,699.0,7.0,6.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,EDRIO,1199.0,1149.0,6.0,17.0,0.9583,-0.0426,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,ETHER,799.0,799.0,33.0,57.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,FILA,1324.0,1449.0,34.0,14.0,1.0944,0.0902,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,FLEXIMAA,749.0,899.0,58.0,65.0,1.2003,0.1825,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,FLYING MACHINE,1099.0,1299.0,79.0,8.0,1.182,0.1672,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,FOREVER 21,699.0,1099.0,63.0,4.0,1.5722,0.4525,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,FREE AUTHORITY,1249.0,799.0,62.0,5.0,0.6397,-0.4467,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,GANT,4999.0,5499.0,71.0,3.0,1.1,0.0953,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,GLOBUS,1574.0,1099.0,10.0,7.0,0.6982,-0.3592,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,H&M,999.0,1149.0,55.0,46.0,1.1502,0.1399,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,HARVARD,999.0,898.0,21.0,47.0,0.8989,-0.1066,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,HERE&NOW,899.0,799.0,282.0,33.0,0.8888,-0.1179,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,HRX,2699.0,2199.0,3.0,2.0,0.8147,-0.2049,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,HRX BY HRITHIK ROSHAN,1099.0,999.0,274.0,154.0,0.909,-0.0954,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,HUETRAP,1499.0,1399.0,94.0,2.0,0.9333,-0.069,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,HUMMEL,999.0,849.0,4.0,2.0,0.8498,-0.1627,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,HYPERNATION,992.0,985.0,4.0,2.0,0.9929,-0.0071,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,INESIS BY DECATHLON,549.0,699.0,2.0,2.0,1.2732,0.2416,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,INVINCIBLE,599.0,599.0,2.0,3.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,JOCKEY,699.0,599.0,63.0,15.0,0.8569,-0.1544,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,JUMP USA,1499.0,1449.0,3.0,5.0,0.9666,-0.0339,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,KALENJI BY DECATHLON,798.5,1199.0,4.0,5.0,1.5016,0.4065,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,KALT,1200.0,800.0,27.0,9.0,0.6667,-0.4055,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,KAPPA,799.0,699.0,29.0,7.0,0.8748,-0.1337,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,KOOK N KEECH,899.0,899.0,25.0,44.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,KOOK N KEECH DISNEY,949.0,899.0,8.0,20.0,0.9473,-0.0541,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,KOOK N KEECH EMOJI,1099.0,899.0,4.0,3.0,0.818,-0.2009,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,KOOK N KEECH MARVEL,999.0,949.0,28.0,14.0,0.9499,-0.0513,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,LEVIS,1799.0,1299.0,140.0,43.0,0.7221,-0.3256,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,M&H EASY,849.0,799.0,36.0,24.0,0.9411,-0.0607,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,M&H OUR WATER,999.0,849.0,5.0,14.0,0.8498,-0.1627,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,MARKS & SPENCER,1499.0,1299.0,42.0,43.0,0.8666,-0.1432,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,MAST & HARBOUR,899.0,749.0,335.0,148.0,0.8331,-0.1825,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,MAX,599.0,399.0,109.0,126.0,0.6661,-0.4063,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,MINIONS BY KOOK N KEECH,999.0,899.0,4.0,4.0,0.8999,-0.1055,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,MKH,2199.0,1999.0,4.0,6.0,0.909,-0.0954,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,MODA RAPIDO,999.0,849.0,184.0,11.0,0.8498,-0.1627,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,MONTE CARLO,1457.5,782.5,30.0,14.0,0.5369,-0.622,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,NAUTICA,2999.0,1599.0,205.0,9.0,0.5332,-0.6289,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,NBA,1399.0,949.0,7.0,5.0,0.6783,-0.3881,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,NIKE,1795.0,1895.0,72.0,10.0,1.0557,0.0542,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,NYAMBA BY DECATHLON,599.0,899.0,9.0,4.0,1.5008,0.406,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,OCTAVE,749.0,899.0,47.0,2.0,1.2003,0.1825,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,OFF LIMITS,699.0,999.0,3.0,3.0,1.4292,0.3571,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,OKANE,899.0,699.0,32.0,15.0,0.7775,-0.2516,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,PEOPLE,699.0,499.0,15.0,11.0,0.7139,-0.337,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,PEPE JEANS,1449.0,1299.0,64.0,31.0,0.8965,-0.1093,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,PLUSS,1780.0,1200.0,12.0,10.0,0.6742,-0.3943,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,PROLINE,1049.0,974.0,2.0,2.0,0.9285,-0.0742,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,PUMA,1799.0,1799.0,280.0,67.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,QUECHUA BY DECATHLON,999.0,899.0,3.0,5.0,0.8999,-0.1055,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,REEBOK,1399.0,1399.0,49.0,15.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,REEBOK CLASSIC,1799.0,1699.0,13.0,7.0,0.9444,-0.0572,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,RIGO,999.0,949.0,26.0,2.0,0.9499,-0.0513,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,ROADSTER,999.0,899.0,894.0,462.0,0.8999,-0.1055,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,SLAZENGER,1199.0,899.0,43.0,12.0,0.7498,-0.288,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,SZTORI,1699.0,1299.0,119.0,15.0,0.7646,-0.2684,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,THE DRY STATE,1299.0,1299.0,3.0,19.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,THE SOULED STORE,999.0,1249.0,65.0,18.0,1.2503,0.2233,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,TOMMY HILFIGER,2299.0,1599.0,134.0,7.0,0.6955,-0.3631,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,TRENDYOL,1399.0,1299.0,157.0,32.0,0.9285,-0.0742,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,UNDER ARMOUR,2799.0,2499.0,41.0,30.0,0.8928,-0.1134,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,UNITED COLORS OF BENETTON,1299.0,1499.0,208.0,3.0,1.154,0.1432,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,V-MART,499.0,375.0,35.0,32.0,0.7515,-0.2857,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,VEIRDO,1199.0,1199.0,46.0,6.0,1.0,0.0,Within +/-2%
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,WOODLAND,1695.0,1645.0,13.0,2.0,0.9705,-0.0299,Men's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,WOODS,1745.0,1795.0,4.0,2.0,1.0287,0.0283,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,YUUKI,599.0,1849.0,4.0,2.0,3.0868,1.1271,Women's version dearer
+Myntra | Adult | T-Shirts,Myntra,Adult,Apparel,T-Shirts,ZALORA BASICS,2149.0,1999.0,6.0,2.0,0.9302,-0.0724,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,ABOF,1299.0,999.0,2.0,2.0,0.7691,-0.2626,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,ADIDAS,3299.0,1799.0,12.0,9.0,0.5453,-0.6064,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,ADIDAS ORIGINALS,5599.0,4999.0,9.0,4.0,0.8928,-0.1134,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,AJILE BY PANTALOONS,1049.0,1199.0,63.0,16.0,1.143,0.1337,Women's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,ALCIS,2299.0,1499.0,11.0,3.0,0.652,-0.4277,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,ASICS,2299.0,2149.0,10.0,4.0,0.9348,-0.0675,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,CHKOKKO,2470.0,2124.0,6.0,6.0,0.8599,-0.1509,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,CULTSPORT,2799.0,2449.0,3.0,2.0,0.875,-0.1336,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,DEFACTO,1799.0,2324.0,3.0,4.0,1.2918,0.2561,Women's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,DUKE,1272.0,1247.0,18.0,2.0,0.9803,-0.0198,Within +/-2%
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,EDRIO,2199.0,2249.0,8.0,6.0,1.0227,0.0225,Women's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,ETHER,1699.0,1299.0,3.0,3.0,0.7646,-0.2684,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,FILA,2099.0,1799.0,15.0,11.0,0.8571,-0.1542,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,FLYING MACHINE,1999.0,1699.0,12.0,10.0,0.8499,-0.1626,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,FRENCH FLEXIOUS,1878.0,1837.0,6.0,9.0,0.9782,-0.0221,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,GALLUS,1299.0,1399.0,9.0,3.0,1.077,0.0742,Women's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,HARVARD,1499.0,1399.0,15.0,84.0,0.9333,-0.069,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,HERE&NOW,1899.0,1599.0,92.0,14.0,0.842,-0.1719,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,HRX BY HRITHIK ROSHAN,2099.0,1899.0,161.0,86.0,0.9047,-0.1001,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,HUBBERHOLME,1649.0,1499.0,24.0,6.0,0.909,-0.0954,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,JOCKEY,1364.0,909.0,24.0,21.0,0.6664,-0.4058,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,KAPPA,1499.0,1299.0,16.0,6.0,0.8666,-0.1432,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,KOOK N KEECH,1799.0,1499.0,23.0,23.0,0.8332,-0.1824,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,M&H EASY,2049.0,1599.0,4.0,7.0,0.7804,-0.248,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,MARKS & SPENCER,2499.0,2749.0,5.0,8.0,1.1,0.0953,Women's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,MAST & HARBOUR,1799.0,1699.0,37.0,45.0,0.9444,-0.0572,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,MAX,849.0,699.0,8.0,21.0,0.8233,-0.1944,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,MONTE CARLO,1165.0,967.5,19.0,4.0,0.8305,-0.1858,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,NIKE,3495.0,3795.0,12.0,3.0,1.0858,0.0824,Women's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,OKANE,1274.5,1299.0,16.0,11.0,1.0192,0.019,Within +/-2%
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,PEOPLE,1024.0,1099.0,20.0,8.0,1.0732,0.0707,Women's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,PUMA,3299.0,2999.0,150.0,49.0,0.9091,-0.0953,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,PUMA MOTORSPORT,4999.0,4499.0,28.0,3.0,0.9,-0.1054,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,RED TAPE,3299.0,3099.0,4.0,4.0,0.9394,-0.0625,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,REEBOK CLASSIC,2699.0,2799.0,4.0,3.0,1.0371,0.0364,Women's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,ROADSTER,1699.0,1499.0,14.0,7.0,0.8823,-0.1252,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,SLAZENGER,1899.0,1699.0,61.0,10.0,0.8947,-0.1113,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,SZTORI,2399.0,2499.0,13.0,2.0,1.0417,0.0408,Women's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,THE SOULED STORE,1999.0,1999.0,14.0,9.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,TRENDYOL,1699.0,1699.0,30.0,6.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,V-MART,600.0,449.0,3.0,17.0,0.7483,-0.2899,Men's version dearer
+Myntra | Adult | Track Pants,Myntra,Adult,Apparel,Track Pants,VIMAL JONNEY,2198.0,2048.5,10.0,2.0,0.932,-0.0704,Men's version dearer
+Myntra | Adult | Tracksuits,Myntra,Adult,Apparel,Tracksuits,ALCIS,2599.0,3099.0,5.0,2.0,1.1924,0.176,Women's version dearer
+Myntra | Adult | Tracksuits,Myntra,Adult,Apparel,Tracksuits,EDRIO,3999.0,3999.0,4.0,2.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Tracksuits,Myntra,Adult,Apparel,Tracksuits,HRX BY HRITHIK ROSHAN,3699.0,4099.0,17.0,7.0,1.1081,0.1027,Women's version dearer
+Myntra | Adult | Tracksuits,Myntra,Adult,Apparel,Tracksuits,OFF LIMITS,3399.0,3249.0,4.0,2.0,0.9559,-0.0451,Men's version dearer
+Myntra | Adult | Tracksuits,Myntra,Adult,Apparel,Tracksuits,RIGO,3398.0,2999.0,2.0,3.0,0.8826,-0.1249,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,AMERICAN EAGLE OUTFITTERS,3299.0,3299.0,3.0,3.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,CANTABIL,3349.0,1499.0,6.0,4.0,0.4476,-0.8039,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,CODE BY LIFESTYLE,1499.0,1499.0,4.0,5.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,DEFACTO,2699.0,2249.0,2.0,18.0,0.8333,-0.1824,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,DOMYOS BY DECATHLON,999.0,1099.0,4.0,4.0,1.1001,0.0954,Women's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,DUKE,2175.0,1299.0,3.0,2.0,0.5972,-0.5154,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,ETHER,2299.0,1999.0,11.0,7.0,0.8695,-0.1398,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,FLYING MACHINE,2299.0,2299.0,11.0,5.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,FORCLAZ BY DECATHLON,3249.0,2999.0,8.0,5.0,0.9231,-0.0801,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,FOREVER 21,1799.0,1799.0,5.0,15.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,H&M,1999.0,1499.0,15.0,59.0,0.7499,-0.2878,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,HERE&NOW,2699.0,2299.0,33.0,8.0,0.8518,-0.1604,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,HRX BY HRITHIK ROSHAN,3049.0,2999.0,10.0,8.0,0.9836,-0.0165,Within +/-2%
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,LEVIS,2999.0,2899.0,20.0,7.0,0.9667,-0.0339,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,MARKS & SPENCER,3499.0,2999.0,10.0,24.0,0.8571,-0.1542,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,MAST & HARBOUR,2299.0,2299.0,54.0,43.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,MAX,1124.0,799.0,6.0,23.0,0.7109,-0.3413,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,MODA RAPIDO,3449.0,3299.0,4.0,4.0,0.9565,-0.0445,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,PEOPLE,1199.0,1299.0,6.0,7.0,1.0834,0.0801,Women's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,QUECHUA BY DECATHLON,1749.0,1499.0,4.0,3.0,0.8571,-0.1542,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,ROADSTER,2199.0,2399.0,109.0,33.0,1.091,0.087,Women's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,SOJANYA,2799.0,1199.0,33.0,2.0,0.4284,-0.8478,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,SZTORI,3099.0,2499.0,4.0,10.0,0.8064,-0.2152,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,TRENDYOL,3449.0,2099.0,6.0,16.0,0.6086,-0.4966,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,UNITED COLORS OF BENETTON,3499.0,2999.0,12.0,3.0,0.8571,-0.1542,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,V-MART,999.0,649.5,72.0,4.0,0.6502,-0.4306,Men's version dearer
+Myntra | Adult | Trousers,Myntra,Adult,Apparel,Trousers,WOODLAND,3495.0,2895.0,11.0,2.0,0.8283,-0.1883,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,ACTIV,2299.0,2490.0,2.0,5.0,1.0831,0.0798,Women's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,AFROJACK,3995.0,3745.0,42.0,11.0,0.9374,-0.0646,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,ANOUK,2499.0,1099.0,43.0,2.0,0.4398,-0.8215,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,AQUALITE,699.0,599.0,3.0,3.0,0.8569,-0.1544,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,ASIAN,999.0,999.0,30.0,28.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,BATA,2299.0,899.0,67.0,26.0,0.391,-0.9389,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,BUGATTI,8499.0,9999.0,7.0,6.0,1.1765,0.1625,Women's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,CARLTON LONDON,3299.0,3495.0,45.0,13.0,1.0594,0.0577,Women's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,CARLTON LONDON SPORTS,3699.0,1899.0,5.0,7.0,0.5134,-0.6667,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,CHAMPS,1299.0,1049.0,2.0,2.0,0.8075,-0.2138,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,CIPRAMO SPORTS,1099.0,999.0,19.0,4.0,0.909,-0.0954,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,CLARKS,7499.0,6499.0,7.0,3.0,0.8666,-0.1431,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,CREW STREET,3099.0,3099.0,24.0,8.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,EL PASO,4495.0,3995.0,48.0,15.0,0.8888,-0.1179,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,FAUSTO,1299.0,999.0,118.0,2.0,0.7691,-0.2626,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,FILA,3699.0,8999.0,9.0,5.0,2.4328,0.8891,Women's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,FOREVER 21,2199.0,1999.0,7.0,3.0,0.909,-0.0954,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,GEOX,11990.0,10990.0,28.0,13.0,0.9166,-0.0871,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,H&M,1499.0,1899.0,13.0,4.0,1.2668,0.2365,Women's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,HRX BY HRITHIK ROSHAN,4099.0,3899.0,43.0,7.0,0.9512,-0.05,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,HUSH PUPPIES,4999.0,5999.0,28.0,5.0,1.2,0.1824,Women's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,KAZARMAX,2499.0,2499.0,2.0,18.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,KHADIMS,1299.0,799.0,29.0,7.0,0.6151,-0.486,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,KOOK N KEECH,2299.0,2299.0,7.0,56.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,LIBERTY,1599.0,799.0,14.0,13.0,0.4997,-0.6938,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,LONDON RAG,3699.0,3549.0,3.0,2.0,0.9594,-0.0414,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,M7 BY METRONAUT,1499.0,1999.0,50.0,7.0,1.3336,0.2878,Women's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,MAST & HARBOUR,2699.0,2299.0,123.0,74.0,0.8518,-0.1604,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,MAX,999.0,949.0,21.0,6.0,0.9499,-0.0513,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,METRO,3290.0,2490.0,46.0,8.0,0.7568,-0.2786,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,MOCHI,3490.0,2690.0,49.0,12.0,0.7708,-0.2604,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,MOZAFIA,1949.0,1499.0,10.0,5.0,0.7691,-0.2625,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,NAUTICA,4699.0,3499.0,13.0,10.0,0.7446,-0.2949,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,NEEMANS,3299.0,3299.0,3.0,2.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,NIKE,8595.0,8195.0,3.0,5.0,0.9535,-0.0477,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,NORTH STAR,1799.0,2249.0,17.0,14.0,1.2501,0.2233,Women's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,POWER,2499.0,2749.0,19.0,4.0,1.1,0.0953,Women's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,PUMA,3999.0,6999.0,54.0,23.0,1.7502,0.5597,Women's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,RED TAPE,4999.0,4399.0,5.0,8.0,0.88,-0.1279,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,ROADSTER,2899.0,2499.0,182.0,60.0,0.862,-0.1485,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,SKECHERS,5999.0,5899.0,31.0,16.0,0.9833,-0.0168,Within +/-2%
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,TOMMY HILFIGER,6999.0,5999.0,29.0,30.0,0.8571,-0.1542,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,TRUFFLE COLLECTION,3999.0,3399.0,4.0,2.0,0.85,-0.1626,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,VANS,6149.0,4499.0,8.0,4.0,0.7317,-0.3124,Men's version dearer
+Myntra | Adult | Casual Shoes,Myntra,Adult,Footwear,Casual Shoes,WALKWAY,999.0,999.0,9.0,12.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,ADDA,799.0,874.0,40.0,24.0,1.0939,0.0897,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,ADIDAS,1499.0,1799.0,8.0,5.0,1.2001,0.1824,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,AJANTA,374.0,399.0,6.0,2.0,1.0668,0.0647,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,BATA,599.0,515.5,16.0,14.0,0.8606,-0.1501,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,BEWAKOOF,1099.0,999.0,3.0,10.0,0.909,-0.0954,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,CAMPUS,649.0,325.0,78.0,13.0,0.5008,-0.6916,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,CARLTON LONDON,1699.0,999.0,69.0,68.0,0.588,-0.531,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,CARLTON LONDON SPORTS,1499.0,1499.0,30.0,94.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,CHUPPS,899.0,699.0,3.0,26.0,0.7775,-0.2516,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,DA NATURO ITALY,674.0,749.0,2.0,2.0,1.1113,0.1055,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,DUKE,549.0,499.0,22.0,8.0,0.9089,-0.0955,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,FOREVER 21,639.0,999.0,3.0,4.0,1.5634,0.4469,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,H&M,1299.0,2999.0,3.0,2.0,2.3087,0.8367,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,HAVAIANAS,1249.0,1399.0,2.0,10.0,1.1201,0.1134,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,HUMMEL,999.0,999.0,2.0,5.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,KOOK N KEECH,1149.0,1199.0,4.0,48.0,1.0435,0.0426,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,LIBERTY,549.0,449.0,18.0,4.0,0.8179,-0.2011,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,LONGWALK,499.0,499.0,3.0,2.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,M7 BY METRONAUT,1349.0,924.0,2.0,4.0,0.685,-0.3784,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,MAST & HARBOUR,1699.0,1199.0,28.0,30.0,0.7057,-0.3486,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,MAX,499.0,399.0,17.0,10.0,0.7996,-0.2236,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,MOCHI,1490.0,1690.0,4.0,2.0,1.1342,0.126,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,NEOZ,999.0,849.0,7.0,4.0,0.8498,-0.1627,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,NIKE,2795.0,2545.0,2.0,6.0,0.9106,-0.0937,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,PAMPY ANGEL,999.0,799.0,31.0,33.0,0.7998,-0.2234,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,POWER,692.5,745.5,8.0,2.0,1.0765,0.0737,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,PUMA,1699.0,1149.0,54.0,14.0,0.6763,-0.3911,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,RED TAPE,1999.0,2999.0,3.0,5.0,1.5003,0.4056,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,REEBOK,1599.0,1299.0,4.0,5.0,0.8124,-0.2078,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,REFOAM,2299.0,1799.0,7.0,25.0,0.7825,-0.2452,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,ROADSTER,1799.0,999.0,14.0,21.0,0.5553,-0.5882,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,SHOEXPRESS,3049.0,1699.0,4.0,13.0,0.5572,-0.5848,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,SOLETHREADS,799.0,999.0,28.0,19.0,1.2503,0.2234,Women's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,TOMMY HILFIGER,2999.0,2999.0,17.0,25.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,TRY ME,999.0,799.0,7.0,15.0,0.7998,-0.2234,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,UNITED COLORS OF BENETTON,1899.0,699.0,4.0,6.0,0.3681,-0.9994,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,WALKWAY,999.0,699.0,3.0,3.0,0.6997,-0.3571,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,WELCOME,699.0,599.0,5.0,3.0,0.8569,-0.1544,Men's version dearer
+Myntra | Adult | Flip-Flops,Myntra,Adult,Footwear,Flip-Flops,YOHO,699.0,699.0,4.0,3.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,ABROS,1599.0,999.0,37.0,7.0,0.6248,-0.4704,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,ACTION,2299.0,2349.0,53.0,6.0,1.0217,0.0215,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,ADIDAS,4299.0,13999.0,56.0,12.0,3.2563,1.1806,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,AFROJACK,3745.0,3995.0,6.0,5.0,1.0668,0.0646,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,ASIAN,1299.0,999.0,181.0,24.0,0.7691,-0.2626,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,ASICS,11499.0,12999.0,12.0,5.0,1.1304,0.1226,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,BACCA BUCCI,2999.0,2999.0,28.0,10.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,BUCIK,2799.0,3299.0,10.0,4.0,1.1786,0.1644,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,CAMPUS,1699.0,1449.0,220.0,34.0,0.8529,-0.1592,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,CHAMPS,1199.0,999.0,26.0,2.0,0.8332,-0.1825,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,CREW STREET,4299.0,3299.0,8.0,11.0,0.7674,-0.2648,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,DUKE,3445.0,2595.0,16.0,25.0,0.7533,-0.2833,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,FABBMATE,1499.0,1999.0,25.0,21.0,1.3336,0.2878,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,FAUSTO,899.0,899.0,10.0,5.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,FURO BY RED CHIEF,2120.0,2595.0,60.0,8.0,1.2241,0.2022,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,HRX BY HRITHIK ROSHAN,4999.0,3699.0,53.0,54.0,0.7399,-0.3012,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,IMPAKTO,999.0,1279.0,19.0,13.0,1.2803,0.2471,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,KALENJI BY DECATHLON,2999.0,2399.0,9.0,5.0,0.7999,-0.2232,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,KHADIMS,1299.0,999.0,23.0,2.0,0.7691,-0.2626,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,LIBERTY,1499.0,1299.0,47.0,16.0,0.8666,-0.1432,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,LONGWALK,1599.0,1499.0,2.0,37.0,0.9375,-0.0646,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,MAX,1099.0,1299.0,11.0,4.0,1.182,0.1672,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,NEW BALANCE,5499.0,6999.0,5.0,22.0,1.2728,0.2412,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,NEWFEEL BY DECATHLON,1999.0,2299.0,8.0,12.0,1.1501,0.1398,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,NIKE,5695.0,10495.0,12.0,8.0,1.8428,0.6113,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,OFF LIMITS,2299.0,1999.0,75.0,31.0,0.8695,-0.1398,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,PERFLY BY DECATHLON,4499.0,3499.0,4.0,2.0,0.7777,-0.2514,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,PLAETO,2699.0,2699.0,2.0,2.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,POWER,2249.0,2499.0,22.0,21.0,1.1112,0.1054,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,PUMA,4499.0,7249.0,69.0,22.0,1.6112,0.477,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,QUECHUA BY DECATHLON,4499.0,4249.0,7.0,8.0,0.9444,-0.0572,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,RED TAPE,5499.0,6099.0,31.0,45.0,1.1091,0.1036,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,REEBOK,3599.0,3299.0,31.0,9.0,0.9166,-0.087,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,REFOAM,9549.0,2999.0,15.0,2.0,0.3141,-1.1582,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,SHOEXPRESS,3999.0,3699.0,13.0,48.0,0.925,-0.078,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,SKECHERS,6499.0,5999.0,45.0,20.0,0.9231,-0.0801,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,SPARX,1349.0,1074.0,104.0,2.0,0.7961,-0.228,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,TRASE,1399.0,1299.0,2.0,13.0,0.9285,-0.0742,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,UCLA,2499.0,1899.0,8.0,8.0,0.7599,-0.2746,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,UNDER ARMOUR,6499.0,6999.0,14.0,24.0,1.0769,0.0741,Women's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,XTEP,4999.0,4699.0,20.0,41.0,0.94,-0.0619,Men's version dearer
+Myntra | Adult | Sports Shoes,Myntra,Adult,Footwear,Sports Shoes,YUUKI,1999.0,1999.0,48.0,20.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,AJMAL,2200.0,1350.0,13.0,8.0,0.6136,-0.4884,Men's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,ARMAF,1699.0,924.5,11.0,6.0,0.5441,-0.6085,Men's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,BATH & BODY WORKS,1399.0,1499.0,4.0,11.0,1.0715,0.069,Women's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,CAROLINA HERRERA,7450.0,7200.0,2.0,3.0,0.9664,-0.0341,Men's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,COLOUR ME,699.0,1700.0,3.0,2.0,2.432,0.8887,Women's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,DAVIDOFF,4750.0,4600.0,7.0,5.0,0.9684,-0.0321,Men's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,DOLCE & GABBANA,4900.0,7150.0,3.0,2.0,1.4592,0.3779,Women's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,ENGAGE,450.0,362.0,8.0,4.0,0.8044,-0.2176,Men's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,FOGG,650.0,574.5,8.0,4.0,0.8838,-0.1235,Men's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,GIORGIO ARMANI,7500.0,7950.0,4.0,3.0,1.06,0.0583,Women's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,GUESS,4400.0,4400.0,6.0,9.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,JIMMY CHOO,4500.0,5550.0,3.0,3.0,1.2333,0.2097,Women's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,LOMANI,1500.0,1450.0,6.0,2.0,0.9667,-0.0339,Men's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,MARKS & SPENCER,1099.0,2049.0,2.0,2.0,1.8644,0.623,Women's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,MENJEWELL,599.0,599.0,6.0,6.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,PACO RABANNE,6100.0,6150.0,11.0,2.0,1.0082,0.0082,Within +/-2%
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,POLICE,2900.0,2797.5,6.0,4.0,0.9647,-0.036,Men's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,SKINN,1895.0,1595.0,15.0,12.0,0.8417,-0.1723,Men's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,ST. JOHN,499.0,499.0,8.0,3.0,1.0,0.0,Within +/-2%
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,THE BODY SHOP,1745.0,1045.0,2.0,5.0,0.5989,-0.5127,Men's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,UNITED COLORS OF BENETTON,1850.0,1600.0,10.0,6.0,0.8649,-0.1452,Men's version dearer
+Myntra | Adult | Perfume,Myntra,Adult,Personal Care,Perfume,VERSACE,6450.0,7250.0,5.0,4.0,1.124,0.1169,Women's version dearer
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,ALLEN SOLLY JUNIOR,1599.0,1599.0,9.0,3.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,BABY GO,999.0,1099.0,8.0,3.0,1.1001,0.0954,Women's version dearer
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,CUTIEKINS,1999.0,1999.0,3.0,34.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,DEAR TO DAD,927.0,927.0,2.0,6.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,H&M,1499.0,1299.0,19.0,58.0,0.8666,-0.1432,Men's version dearer
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,HOPSCOTCH,1239.0,1149.0,21.0,13.0,0.9274,-0.0754,Men's version dearer
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,KIDLING,1499.0,999.0,5.0,2.0,0.6664,-0.4058,Men's version dearer
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,KINSEY,999.0,999.0,7.0,2.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,LAZY SHARK,1499.0,1499.0,6.0,2.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,M&H JUNIORS,1399.0,2499.0,3.0,3.0,1.7863,0.5801,Women's version dearer
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,MINI KLUB,1499.0,1149.0,3.0,2.0,0.7665,-0.2659,Men's version dearer
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,NAUTI NATI,1499.0,1399.0,4.0,14.0,0.9333,-0.069,Men's version dearer
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,NOTTIE PLANET,590.0,524.0,4.0,4.0,0.8881,-0.1186,Men's version dearer
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,PANTALOONS BABY,899.0,774.0,4.0,2.0,0.861,-0.1497,Men's version dearer
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,TINYO,449.0,449.0,26.0,4.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,TOONYPORT,799.0,1699.0,4.0,5.0,2.1264,0.7544,Women's version dearer
+Myntra | Kids | Clothing Sets,Myntra,Kids,Apparel,Clothing Sets,YK,2249.0,1699.0,4.0,7.0,0.7554,-0.2804,Men's version dearer
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,ALLEN SOLLY JUNIOR,1899.0,1699.0,9.0,11.0,0.8947,-0.1113,Men's version dearer
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,CHERRY CRUMBLE,2099.0,1949.0,4.0,2.0,0.9285,-0.0741,Men's version dearer
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,GINI AND JONY,1699.0,1499.0,7.0,7.0,0.8823,-0.1252,Men's version dearer
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,M&H JUNIORS,1599.0,1599.0,10.0,5.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,MAX,599.0,699.0,15.0,13.0,1.1669,0.1544,Women's version dearer
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,PANTALOONS JUNIOR,899.0,749.0,15.0,17.0,0.8331,-0.1825,Men's version dearer
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,TALES & STORIES,999.0,1199.0,15.0,2.0,1.2002,0.1825,Women's version dearer
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,U.S. POLO ASSN. KIDS,1699.0,1699.0,34.0,3.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,UNITED COLORS OF BENETTON,1999.0,1699.0,15.0,8.0,0.8499,-0.1626,Men's version dearer
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,UTH BY ROADSTER,1949.0,2099.0,4.0,15.0,1.077,0.0741,Women's version dearer
+Myntra | Kids | Jeans,Myntra,Kids,Apparel,Jeans,YK,1899.0,1999.0,12.0,5.0,1.0527,0.0513,Women's version dearer
+Myntra | Kids | Kurta Sets,Myntra,Kids,Apparel,Kurta Sets,HOPSCOTCH,1349.0,2799.0,2.0,2.0,2.0749,0.7299,Women's version dearer
+Myntra | Kids | Kurta Sets,Myntra,Kids,Apparel,Kurta Sets,KID1,2899.0,1999.0,2.0,2.0,0.6895,-0.3717,Men's version dearer
+Myntra | Kids | Kurta Sets,Myntra,Kids,Apparel,Kurta Sets,LITTLE BANSI,2249.0,2875.0,3.0,2.0,1.2783,0.2456,Women's version dearer
+Myntra | Kids | Kurta Sets,Myntra,Kids,Apparel,Kurta Sets,MAX,899.0,899.0,2.0,3.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Kurta Sets,Myntra,Kids,Apparel,Kurta Sets,SUPERMINIS,1799.0,1699.0,6.0,3.0,0.9444,-0.0572,Men's version dearer
+Myntra | Kids | Kurta Sets,Myntra,Kids,Apparel,Kurta Sets,VASTRAMAY,2499.0,2999.0,43.0,4.0,1.2001,0.1824,Women's version dearer
+Myntra | Kids | Night Suits,Myntra,Kids,Apparel,Night Suits,ANTHRILO,874.0,1048.0,38.0,22.0,1.1991,0.1816,Women's version dearer
+Myntra | Kids | Night Suits,Myntra,Kids,Apparel,Night Suits,CHERRY CRUMBLE,2399.0,2399.0,3.0,7.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Night Suits,Myntra,Kids,Apparel,Night Suits,ED-A-MAMMA,899.0,899.0,3.0,2.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Night Suits,Myntra,Kids,Apparel,Night Suits,FRANGIPANI,1049.0,1099.0,2.0,2.0,1.0477,0.0466,Women's version dearer
+Myntra | Kids | Night Suits,Myntra,Kids,Apparel,Night Suits,HERE&NOW,1999.0,2199.0,8.0,2.0,1.1001,0.0954,Women's version dearer
+Myntra | Kids | Night Suits,Myntra,Kids,Apparel,Night Suits,LILPICKS,1499.0,1499.0,4.0,4.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Night Suits,Myntra,Kids,Apparel,Night Suits,MAX,599.0,549.0,18.0,15.0,0.9165,-0.0872,Men's version dearer
+Myntra | Kids | Night Suits,Myntra,Kids,Apparel,Night Suits,NAP CHIEF,1090.0,1490.0,3.0,5.0,1.367,0.3126,Women's version dearer
+Myntra | Kids | Night Suits,Myntra,Kids,Apparel,Night Suits,PANTALOONS JUNIOR,699.0,599.0,7.0,4.0,0.8569,-0.1544,Men's version dearer
+Myntra | Kids | Night Suits,Myntra,Kids,Apparel,Night Suits,SWEET DREAMS,1369.0,1429.0,3.0,6.0,1.0438,0.0429,Women's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,BUMZEE,1049.0,1249.0,10.0,6.0,1.1907,0.1745,Women's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,CHERRY CRUMBLE,1549.0,1599.0,11.0,9.0,1.0323,0.0318,Women's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,ED-A-MAMMA,999.0,799.0,11.0,3.0,0.7998,-0.2234,Men's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,GINI AND JONY,799.0,949.0,8.0,2.0,1.1877,0.172,Women's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,H&M,1299.0,999.0,60.0,34.0,0.7691,-0.2626,Men's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,HERE&NOW,949.0,1799.0,5.0,2.0,1.8957,0.6396,Women's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,HRX BY HRITHIK ROSHAN,1399.0,1399.0,23.0,14.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,JUNIORS BY LIFESTYLE,299.0,299.0,3.0,3.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,KIDDOPANTI,724.0,999.0,6.0,5.0,1.3798,0.322,Women's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,LILPICKS,1649.0,1249.0,4.0,4.0,0.7574,-0.2778,Men's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,M&H JUNIORS,1199.0,899.0,6.0,2.0,0.7498,-0.288,Men's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,MARKS & SPENCER,999.0,949.0,5.0,2.0,0.9499,-0.0513,Men's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,MAX,499.0,329.0,25.0,3.0,0.6593,-0.4165,Men's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,MOTHERCARE,1749.0,949.0,2.0,2.0,0.5426,-0.6114,Men's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,PANTALOONS BABY,399.0,399.0,9.0,4.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,PANTALOONS JUNIOR,549.0,399.0,26.0,9.0,0.7268,-0.3191,Men's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,PLUM TREE,799.0,999.0,8.0,5.0,1.2503,0.2234,Women's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,U.S. POLO ASSN. KIDS,1599.0,1299.0,22.0,2.0,0.8124,-0.2078,Men's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,UNITED COLORS OF BENETTON,1699.0,999.0,17.0,8.0,0.588,-0.531,Men's version dearer
+Myntra | Kids | Shorts,Myntra,Kids,Apparel,Shorts,YK,1199.0,1399.0,7.0,15.0,1.1668,0.1543,Women's version dearer
+Myntra | Kids | Sweatshirts,Myntra,Kids,Apparel,Sweatshirts,ALLEN SOLLY JUNIOR,1399.0,1349.0,3.0,2.0,0.9643,-0.0364,Men's version dearer
+Myntra | Kids | Sweatshirts,Myntra,Kids,Apparel,Sweatshirts,H&M,1299.0,1299.0,23.0,23.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Sweatshirts,Myntra,Kids,Apparel,Sweatshirts,LILPICKS,1249.0,1349.0,2.0,2.0,1.0801,0.077,Women's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,ALLEN SOLLY JUNIOR,899.0,799.0,43.0,28.0,0.8888,-0.1179,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,ANTHRILO,399.0,449.0,7.0,26.0,1.1253,0.1181,Women's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,ED-A-MAMMA,699.0,624.0,17.0,26.0,0.8927,-0.1135,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,FAME FOREVER BY LIFESTYLE,299.0,299.0,12.0,5.0,1.0,0.0,Within +/-2%
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,GINI AND JONY,799.0,524.0,23.0,6.0,0.6558,-0.4219,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,H&M,799.0,799.0,54.0,36.0,1.0,0.0,Within +/-2%
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,HERE&NOW,849.0,899.0,35.0,12.0,1.0589,0.0572,Women's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,HRX BY HRITHIK ROSHAN,999.0,1199.0,28.0,25.0,1.2002,0.1825,Women's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,KIDDEO,2499.0,1999.0,2.0,5.0,0.7999,-0.2232,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,KIDS VILLE,899.0,1199.0,11.0,2.0,1.3337,0.288,Women's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,KINSEY,899.0,799.0,5.0,3.0,0.8888,-0.1179,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,LUKE & LILLY,1999.0,2299.0,3.0,2.0,1.1501,0.1398,Women's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,M&H JUNIORS,699.0,699.0,16.0,7.0,1.0,0.0,Within +/-2%
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,MARKS & SPENCER,999.0,549.0,5.0,2.0,0.5495,-0.5987,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,MAX,249.0,249.0,119.0,63.0,1.0,0.0,Within +/-2%
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,MINIONS BY KOOK N KEECH TEENS,799.0,674.0,3.0,2.0,0.8436,-0.1701,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,NYNSH- PLUSS KIDS,780.0,640.0,2.0,4.0,0.8205,-0.1978,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,PANTALOONS BABY,229.0,199.0,15.0,16.0,0.869,-0.1404,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,PANTALOONS JUNIOR,299.0,279.0,34.0,14.0,0.9331,-0.0692,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,PEPE JEANS,1049.0,1299.0,19.0,3.0,1.2383,0.2138,Women's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,TOMMY HILFIGER,2099.0,1349.0,4.0,6.0,0.6427,-0.4421,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,U.S. POLO ASSN. KIDS,1299.0,1199.0,45.0,5.0,0.923,-0.0801,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,UNITED COLORS OF BENETTON,999.0,999.0,41.0,23.0,1.0,0.0,Within +/-2%
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,UTH BY ROADSTER,999.0,699.0,42.0,60.0,0.6997,-0.3571,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,V-MART,475.0,330.0,2.0,5.0,0.6947,-0.3642,Men's version dearer
+Myntra | Kids | T-Shirts,Myntra,Kids,Apparel,T-Shirts,YK DISNEY,899.0,1930.0,13.0,21.0,2.1468,0.764,Women's version dearer
+Myntra | Kids | Track Pants,Myntra,Kids,Apparel,Track Pants,BUMZEE,1399.0,1549.0,6.0,2.0,1.1072,0.1019,Women's version dearer
+Myntra | Kids | Track Pants,Myntra,Kids,Apparel,Track Pants,FAME FOREVER BY LIFESTYLE,799.0,599.0,2.0,6.0,0.7497,-0.2881,Men's version dearer
+Myntra | Kids | Track Pants,Myntra,Kids,Apparel,Track Pants,GINI AND JONY,1199.0,1499.0,11.0,2.0,1.2502,0.2233,Women's version dearer
+Myntra | Kids | Track Pants,Myntra,Kids,Apparel,Track Pants,HRX BY HRITHIK ROSHAN,1699.0,1699.0,22.0,11.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Track Pants,Myntra,Kids,Apparel,Track Pants,KOOK N KEECH MARVEL TEENS,1499.0,1499.0,3.0,2.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Track Pants,Myntra,Kids,Apparel,Track Pants,MAX,724.0,1099.0,18.0,8.0,1.518,0.4174,Women's version dearer
+Myntra | Kids | Track Pants,Myntra,Kids,Apparel,Track Pants,PANTALOONS JUNIOR,999.0,499.0,13.0,10.0,0.4995,-0.6941,Men's version dearer
+Myntra | Kids | Track Pants,Myntra,Kids,Apparel,Track Pants,U.S. POLO ASSN. KIDS,1349.0,1299.0,12.0,4.0,0.9629,-0.0378,Men's version dearer
+Myntra | Kids | Track Pants,Myntra,Kids,Apparel,Track Pants,YK,2099.0,1399.0,7.0,7.0,0.6665,-0.4057,Men's version dearer
+Myntra | Kids | Track Pants,Myntra,Kids,Apparel,Track Pants,YK DISNEY,2065.0,2220.0,3.0,4.0,1.0751,0.0724,Women's version dearer
+Myntra | Kids | Trousers,Myntra,Kids,Apparel,Trousers,ALLEN SOLLY JUNIOR,1549.0,1349.0,8.0,4.0,0.8709,-0.1382,Men's version dearer
+Myntra | Kids | Trousers,Myntra,Kids,Apparel,Trousers,H&M,1299.0,999.0,10.0,15.0,0.7691,-0.2626,Men's version dearer
+Myntra | Kids | Trousers,Myntra,Kids,Apparel,Trousers,MAX,899.0,499.0,15.0,3.0,0.5551,-0.5887,Men's version dearer
+Myntra | Kids | Trousers,Myntra,Kids,Apparel,Trousers,PANTALOONS BABY,599.0,599.0,5.0,3.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Trousers,Myntra,Kids,Apparel,Trousers,PANTALOONS JUNIOR,849.0,799.0,23.0,5.0,0.9411,-0.0607,Men's version dearer
+Myntra | Kids | Trousers,Myntra,Kids,Apparel,Trousers,UNITED COLORS OF BENETTON,1699.0,999.0,7.0,7.0,0.588,-0.531,Men's version dearer
+Myntra | Kids | Trousers,Myntra,Kids,Apparel,Trousers,YK,1299.0,999.0,2.0,5.0,0.7691,-0.2626,Men's version dearer
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,BATA,1066.0,979.0,20.0,4.0,0.9184,-0.0851,Men's version dearer
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,FAME FOREVER BY LIFESTYLE,1199.0,1199.0,3.0,5.0,1.0,0.0,Within +/-2%
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,KIDS VILLE,699.0,849.0,7.0,4.0,1.2146,0.1944,Women's version dearer
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,MAX,649.0,599.0,17.0,13.0,0.923,-0.0802,Men's version dearer
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,MINI KLUB,849.0,749.0,4.0,2.0,0.8822,-0.1253,Men's version dearer
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,PANTALOONS JUNIOR,999.0,799.0,7.0,3.0,0.7998,-0.2234,Men's version dearer
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,PUMA,2999.0,2399.0,5.0,2.0,0.7999,-0.2232,Men's version dearer
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,SHOEXPRESS,3799.0,4299.0,2.0,8.0,1.1316,0.1236,Women's version dearer
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,SKECHERS,3149.0,2399.0,4.0,14.0,0.7618,-0.272,Men's version dearer
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,TOOTHLESS,1449.0,999.0,2.0,4.0,0.6894,-0.3719,Men's version dearer
+Myntra | Kids | Casual Shoes,Myntra,Kids,Footwear,Casual Shoes,YK,1899.0,1299.0,27.0,11.0,0.684,-0.3797,Men's version dearer
